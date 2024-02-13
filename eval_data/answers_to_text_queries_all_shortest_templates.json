@@ -1,0 +1,414 @@
+{
+    "Project": [
+        [
+            [
+                "[('2023-04-01',)]",
+                [
+                    "Start date for project 'Blue Lagoon Luxury Resort'",
+                    "Look up start date of 'Blue Lagoon Luxury Resort'",
+                    "Get 'Blue Lagoon Luxury Resort' start date"
+                ]
+            ],
+            [
+                "[('2022-08-01',)]",
+                [
+                    "Start date for project 'Harbour View Green Spaces'",
+                    "Look up start date of 'Harbour View Green Spaces'",
+                    "Get 'Harbour View Green Spaces' start date"
+                ]
+            ],
+            [
+                "[('2023-02-01',)]",
+                [
+                    "Start date for project 'Innovative Tech Park'",
+                    "Look up start date of 'Innovative Tech Park'",
+                    "Get 'Innovative Tech Park' start date"
+                ]
+            ],
+            [
+                "[('2022-11-15',)]",
+                [
+                    "Start date for project 'Eco Retreat Development'",
+                    "Look up start date of 'Eco Retreat Development'",
+                    "Get 'Eco Retreat Development' start date"
+                ]
+            ],
+            [
+                "[('2021-07-01',)]",
+                [
+                    "Start date for project 'Central City Medical Hub'",
+                    "Look up start date of 'Central City Medical Hub'",
+                    "Get 'Central City Medical Hub' start date"
+                ]
+            ],
+            [
+                "[('2023-01-15',)]",
+                [
+                    "Start date for project 'Quantum Data Center Expansion'",
+                    "Look up start date of 'Quantum Data Center Expansion'",
+                    "Get 'Quantum Data Center Expansion' start date"
+                ]
+            ],
+            [
+                "[('2023-03-01',)]",
+                [
+                    "Start date for project 'Champs-\u00c9lys\u00e9es Boutique Hotel'",
+                    "Look up start date of 'Champs-\u00c9lys\u00e9es Boutique Hotel'",
+                    "Get 'Champs-\u00c9lys\u00e9es Boutique Hotel' start date"
+                ]
+            ],
+            [
+                "[('2022-09-01',)]",
+                [
+                    "Start date for project 'Dubai Skyline Tower'",
+                    "Look up start date of 'Dubai Skyline Tower'",
+                    "Get 'Dubai Skyline Tower' start date"
+                ]
+            ],
+            [
+                "[('2022-05-01',)]",
+                [
+                    "Start date for project 'Metropolitan Luxury Apartments'",
+                    "Look up start date of 'Metropolitan Luxury Apartments'",
+                    "Get 'Metropolitan Luxury Apartments' start date"
+                ]
+            ],
+            [
+                "[('2023-01-10',)]",
+                [
+                    "Start date for project 'Advanced Health Research Facility'",
+                    "Look up start date of 'Advanced Health Research Facility'",
+                    "Get 'Advanced Health Research Facility' start date"
+                ]
+            ]
+        ],
+        [
+            [
+                "[('2025-05-20',)]",
+                [
+                    "Get end date for 'Blue Lagoon Luxury Resort'",
+                    "Look up end date corresponding to 'Blue Lagoon Luxury Resort'",
+                    "Fetch end date linked with 'Blue Lagoon Luxury Resort'"
+                ]
+            ],
+            [
+                "[('2025-02-20',)]",
+                [
+                    "Get end date for 'Harbour View Green Spaces'",
+                    "Look up end date corresponding to 'Harbour View Green Spaces'",
+                    "Fetch end date linked with 'Harbour View Green Spaces'"
+                ]
+            ],
+            [
+                "[('2025-03-15',)]",
+                [
+                    "Get end date for 'Innovative Tech Park'",
+                    "Look up end date corresponding to 'Innovative Tech Park'",
+                    "Fetch end date linked with 'Innovative Tech Park'"
+                ]
+            ],
+            [
+                "[('2024-08-30',)]",
+                [
+                    "Get end date for 'Eco Retreat Development'",
+                    "Look up end date corresponding to 'Eco Retreat Development'",
+                    "Fetch end date linked with 'Eco Retreat Development'"
+                ]
+            ],
+            [
+                "[('2023-09-30',)]",
+                [
+                    "Get end date for 'Central City Medical Hub'",
+                    "Look up end date corresponding to 'Central City Medical Hub'",
+                    "Fetch end date linked with 'Central City Medical Hub'"
+                ]
+            ],
+            [
+                "[('2024-06-30',)]",
+                [
+                    "Get end date for 'Quantum Data Center Expansion'",
+                    "Look up end date corresponding to 'Quantum Data Center Expansion'",
+                    "Fetch end date linked with 'Quantum Data Center Expansion'"
+                ]
+            ],
+            [
+                "[('2024-10-30',)]",
+                [
+                    "Get end date for 'Champs-\u00c9lys\u00e9es Boutique Hotel'",
+                    "Look up end date corresponding to 'Champs-\u00c9lys\u00e9es Boutique Hotel'",
+                    "Fetch end date linked with 'Champs-\u00c9lys\u00e9es Boutique Hotel'"
+                ]
+            ],
+            [
+                "[('2025-12-31',)]",
+                [
+                    "Get end date for 'Dubai Skyline Tower'",
+                    "Look up end date corresponding to 'Dubai Skyline Tower'",
+                    "Fetch end date linked with 'Dubai Skyline Tower'"
+                ]
+            ],
+            [
+                "[('2024-12-31',)]",
+                [
+                    "Get end date for 'Metropolitan Luxury Apartments'",
+                    "Look up end date corresponding to 'Metropolitan Luxury Apartments'",
+                    "Fetch end date linked with 'Metropolitan Luxury Apartments'"
+                ]
+            ],
+            [
+                "[('2024-07-25',)]",
+                [
+                    "Get end date for 'Advanced Health Research Facility'",
+                    "Look up end date corresponding to 'Advanced Health Research Facility'",
+                    "Fetch end date linked with 'Advanced Health Research Facility'"
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Blue Horizon Hotels',)]",
+                [
+                    "Client linked with 'Blue Lagoon Luxury Resort'",
+                    "Client belonging to 'Blue Lagoon Luxury Resort'",
+                    "Client associated with 'Blue Lagoon Luxury Resort'"
+                ]
+            ],
+            [
+                "[('EcoSpace Real Estate',)]",
+                [
+                    "Client linked with 'Harbour View Green Spaces'",
+                    "Client belonging to 'Harbour View Green Spaces'",
+                    "Client associated with 'Harbour View Green Spaces'"
+                ]
+            ],
+            [
+                "[('Future Tech Innovations',)]",
+                [
+                    "Client linked with 'Innovative Tech Park'",
+                    "Client belonging to 'Innovative Tech Park'",
+                    "Client associated with 'Innovative Tech Park'"
+                ]
+            ],
+            [
+                "[('Greenworld Resorts',)]",
+                [
+                    "Client linked with 'Eco Retreat Development'",
+                    "Client belonging to 'Eco Retreat Development'",
+                    "Client associated with 'Eco Retreat Development'"
+                ]
+            ],
+            [
+                "[('Pinnacle Health Group',)]",
+                [
+                    "Client linked with 'Central City Medical Hub'",
+                    "Client belonging to 'Central City Medical Hub'",
+                    "Client associated with 'Central City Medical Hub'"
+                ]
+            ],
+            [
+                "[('Quantum Communications Corp',)]",
+                [
+                    "Client linked with 'Quantum Data Center Expansion'",
+                    "Client belonging to 'Quantum Data Center Expansion'",
+                    "Client associated with 'Quantum Data Center Expansion'"
+                ]
+            ],
+            [
+                "[('Serene Stays Hospitality',)]",
+                [
+                    "Client linked with 'Champs-\u00c9lys\u00e9es Boutique Hotel'",
+                    "Client belonging to 'Champs-\u00c9lys\u00e9es Boutique Hotel'",
+                    "Client associated with 'Champs-\u00c9lys\u00e9es Boutique Hotel'"
+                ]
+            ],
+            [
+                "[('Skyline Developers',)]",
+                [
+                    "Client linked with 'Dubai Skyline Tower'",
+                    "Client belonging to 'Dubai Skyline Tower'",
+                    "Client associated with 'Dubai Skyline Tower'"
+                ]
+            ],
+            [
+                "[('Urban Oasis Developments',)]",
+                [
+                    "Client linked with 'Metropolitan Luxury Apartments'",
+                    "Client belonging to 'Metropolitan Luxury Apartments'",
+                    "Client associated with 'Metropolitan Luxury Apartments'"
+                ]
+            ],
+            [
+                "[('Vista Healthcare Solutions',)]",
+                [
+                    "Client linked with 'Advanced Health Research Facility'",
+                    "Client belonging to 'Advanced Health Research Facility'",
+                    "Client associated with 'Advanced Health Research Facility'"
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Project director for 'Blue Lagoon Luxury Resort'",
+                    "Who's the project director of 'Blue Lagoon Luxury Resort'?",
+                    "Identify the director of project 'Blue Lagoon Luxury Resort'"
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Project director for 'Harbour View Green Spaces'",
+                    "Who's the project director of 'Harbour View Green Spaces'?",
+                    "Identify the director of project 'Harbour View Green Spaces'"
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Project director for 'Innovative Tech Park'",
+                    "Who's the project director of 'Innovative Tech Park'?",
+                    "Identify the director of project 'Innovative Tech Park'"
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Project director for 'Eco Retreat Development'",
+                    "Who's the project director of 'Eco Retreat Development'?",
+                    "Identify the director of project 'Eco Retreat Development'"
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Project director for 'Central City Medical Hub'",
+                    "Who's the project director of 'Central City Medical Hub'?",
+                    "Identify the director of project 'Central City Medical Hub'"
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Project director for 'Quantum Data Center Expansion'",
+                    "Who's the project director of 'Quantum Data Center Expansion'?",
+                    "Identify the director of project 'Quantum Data Center Expansion'"
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Project director for 'Champs-\u00c9lys\u00e9es Boutique Hotel'",
+                    "Who's the project director of 'Champs-\u00c9lys\u00e9es Boutique Hotel'?",
+                    "Identify the director of project 'Champs-\u00c9lys\u00e9es Boutique Hotel'"
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Project director for 'Dubai Skyline Tower'",
+                    "Who's the project director of 'Dubai Skyline Tower'?",
+                    "Identify the director of project 'Dubai Skyline Tower'"
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Project director for 'Metropolitan Luxury Apartments'",
+                    "Who's the project director of 'Metropolitan Luxury Apartments'?",
+                    "Identify the director of project 'Metropolitan Luxury Apartments'"
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Project director for 'Advanced Health Research Facility'",
+                    "Who's the project director of 'Advanced Health Research Facility'?",
+                    "Identify the director of project 'Advanced Health Research Facility'"
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Hedy Lamarr',)]",
+                [
+                    "Project manager for 'Blue Lagoon Luxury Resort'",
+                    "Who is the project manager of 'Blue Lagoon Luxury Resort'?",
+                    "Identify the project manager of 'Blue Lagoon Luxury Resort'"
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "Project manager for 'Harbour View Green Spaces'",
+                    "Who is the project manager of 'Harbour View Green Spaces'?",
+                    "Identify the project manager of 'Harbour View Green Spaces'"
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "Project manager for 'Innovative Tech Park'",
+                    "Who is the project manager of 'Innovative Tech Park'?",
+                    "Identify the project manager of 'Innovative Tech Park'"
+                ]
+            ],
+            [
+                "[('George Washington Carver',)]",
+                [
+                    "Project manager for 'Eco Retreat Development'",
+                    "Who is the project manager of 'Eco Retreat Development'?",
+                    "Identify the project manager of 'Eco Retreat Development'"
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "Project manager for 'Central City Medical Hub'",
+                    "Who is the project manager of 'Central City Medical Hub'?",
+                    "Identify the project manager of 'Central City Medical Hub'"
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "Project manager for 'Quantum Data Center Expansion'",
+                    "Who is the project manager of 'Quantum Data Center Expansion'?",
+                    "Identify the project manager of 'Quantum Data Center Expansion'"
+                ]
+            ],
+            [
+                "[('George Washington Carver',)]",
+                [
+                    "Project manager for 'Champs-\u00c9lys\u00e9es Boutique Hotel'",
+                    "Who is the project manager of 'Champs-\u00c9lys\u00e9es Boutique Hotel'?",
+                    "Identify the project manager of 'Champs-\u00c9lys\u00e9es Boutique Hotel'"
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "Project manager for 'Dubai Skyline Tower'",
+                    "Who is the project manager of 'Dubai Skyline Tower'?",
+                    "Identify the project manager of 'Dubai Skyline Tower'"
+                ]
+            ],
+            [
+                "[('Hedy Lamarr',)]",
+                [
+                    "Project manager for 'Metropolitan Luxury Apartments'",
+                    "Who is the project manager of 'Metropolitan Luxury Apartments'?",
+                    "Identify the project manager of 'Metropolitan Luxury Apartments'"
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "Project manager for 'Advanced Health Research Facility'",
+                    "Who is the project manager of 'Advanced Health Research Facility'?",
+                    "Identify the project manager of 'Advanced Health Research Facility'"
+                ]
+            ]
+        ]
+    ]
+}

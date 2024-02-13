@@ -1,0 +1,414 @@
+{
+    "Project": [
+        [
+            [
+                "[('2023-04-01',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Blue Lagoon Luxury Resort'. ",
+                    "\"Let's find out the date when the project named 'Blue Lagoon Luxury Resort' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Blue Lagoon Luxury Resort', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2022-08-01',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Harbour View Green Spaces'. ",
+                    "\"Let's find out the date when the project named 'Harbour View Green Spaces' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Harbour View Green Spaces', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2023-02-01',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Innovative Tech Park'. ",
+                    "\"Let's find out the date when the project named 'Innovative Tech Park' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Innovative Tech Park', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2022-11-15',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Eco Retreat Development'. ",
+                    "\"Let's find out the date when the project named 'Eco Retreat Development' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Eco Retreat Development', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2021-07-01',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Central City Medical Hub'. ",
+                    "\"Let's find out the date when the project named 'Central City Medical Hub' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Central City Medical Hub', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2023-01-15',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Quantum Data Center Expansion'. ",
+                    "\"Let's find out the date when the project named 'Quantum Data Center Expansion' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Quantum Data Center Expansion', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2023-03-01',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Champs-\u00c9lys\u00e9es Boutique Hotel'. ",
+                    "\"Let's find out the date when the project named 'Champs-\u00c9lys\u00e9es Boutique Hotel' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Champs-\u00c9lys\u00e9es Boutique Hotel', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2022-09-01',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Dubai Skyline Tower'. ",
+                    "\"Let's find out the date when the project named 'Dubai Skyline Tower' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Dubai Skyline Tower', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2022-05-01',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Metropolitan Luxury Apartments'. ",
+                    "\"Let's find out the date when the project named 'Metropolitan Luxury Apartments' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Metropolitan Luxury Apartments', officially commenced.\""
+                ]
+            ],
+            [
+                "[('2023-01-10',)]",
+                [
+                    "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Advanced Health Research Facility'. ",
+                    "\"Let's find out the date when the project named 'Advanced Health Research Facility' was initiated according to the records held in our project database. ",
+                    "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as 'Advanced Health Research Facility', officially commenced.\""
+                ]
+            ]
+        ],
+        [
+            [
+                "[('2025-05-20',)]",
+                [
+                    "Let's see when the project with the name 'Blue Lagoon Luxury Resort' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Blue Lagoon Luxury Resort'?",
+                    "I need to find out when the project titled 'Blue Lagoon Luxury Resort' is expected to end."
+                ]
+            ],
+            [
+                "[('2025-02-20',)]",
+                [
+                    "Let's see when the project with the name 'Harbour View Green Spaces' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Harbour View Green Spaces'?",
+                    "I need to find out when the project titled 'Harbour View Green Spaces' is expected to end."
+                ]
+            ],
+            [
+                "[('2025-03-15',)]",
+                [
+                    "Let's see when the project with the name 'Innovative Tech Park' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Innovative Tech Park'?",
+                    "I need to find out when the project titled 'Innovative Tech Park' is expected to end."
+                ]
+            ],
+            [
+                "[('2024-08-30',)]",
+                [
+                    "Let's see when the project with the name 'Eco Retreat Development' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Eco Retreat Development'?",
+                    "I need to find out when the project titled 'Eco Retreat Development' is expected to end."
+                ]
+            ],
+            [
+                "[('2023-09-30',)]",
+                [
+                    "Let's see when the project with the name 'Central City Medical Hub' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Central City Medical Hub'?",
+                    "I need to find out when the project titled 'Central City Medical Hub' is expected to end."
+                ]
+            ],
+            [
+                "[('2024-06-30',)]",
+                [
+                    "Let's see when the project with the name 'Quantum Data Center Expansion' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Quantum Data Center Expansion'?",
+                    "I need to find out when the project titled 'Quantum Data Center Expansion' is expected to end."
+                ]
+            ],
+            [
+                "[('2024-10-30',)]",
+                [
+                    "Let's see when the project with the name 'Champs-\u00c9lys\u00e9es Boutique Hotel' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Champs-\u00c9lys\u00e9es Boutique Hotel'?",
+                    "I need to find out when the project titled 'Champs-\u00c9lys\u00e9es Boutique Hotel' is expected to end."
+                ]
+            ],
+            [
+                "[('2025-12-31',)]",
+                [
+                    "Let's see when the project with the name 'Dubai Skyline Tower' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Dubai Skyline Tower'?",
+                    "I need to find out when the project titled 'Dubai Skyline Tower' is expected to end."
+                ]
+            ],
+            [
+                "[('2024-12-31',)]",
+                [
+                    "Let's see when the project with the name 'Metropolitan Luxury Apartments' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Metropolitan Luxury Apartments'?",
+                    "I need to find out when the project titled 'Metropolitan Luxury Apartments' is expected to end."
+                ]
+            ],
+            [
+                "[('2024-07-25',)]",
+                [
+                    "Let's see when the project with the name 'Advanced Health Research Facility' is scheduled to end. ",
+                    "Can you provide me the completion date for the project that goes by the name 'Advanced Health Research Facility'?",
+                    "I need to find out when the project titled 'Advanced Health Research Facility' is expected to end."
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Blue Horizon Hotels',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Blue Lagoon Luxury Resort'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Blue Lagoon Luxury Resort'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Blue Lagoon Luxury Resort'."
+                ]
+            ],
+            [
+                "[('EcoSpace Real Estate',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Harbour View Green Spaces'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Harbour View Green Spaces'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Harbour View Green Spaces'."
+                ]
+            ],
+            [
+                "[('Future Tech Innovations',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Innovative Tech Park'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Innovative Tech Park'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Innovative Tech Park'."
+                ]
+            ],
+            [
+                "[('Greenworld Resorts',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Eco Retreat Development'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Eco Retreat Development'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Eco Retreat Development'."
+                ]
+            ],
+            [
+                "[('Pinnacle Health Group',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Central City Medical Hub'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Central City Medical Hub'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Central City Medical Hub'."
+                ]
+            ],
+            [
+                "[('Quantum Communications Corp',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Quantum Data Center Expansion'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Quantum Data Center Expansion'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Quantum Data Center Expansion'."
+                ]
+            ],
+            [
+                "[('Serene Stays Hospitality',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Champs-\u00c9lys\u00e9es Boutique Hotel'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Champs-\u00c9lys\u00e9es Boutique Hotel'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Champs-\u00c9lys\u00e9es Boutique Hotel'."
+                ]
+            ],
+            [
+                "[('Skyline Developers',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Dubai Skyline Tower'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Dubai Skyline Tower'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Dubai Skyline Tower'."
+                ]
+            ],
+            [
+                "[('Urban Oasis Developments',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Metropolitan Luxury Apartments'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Metropolitan Luxury Apartments'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Metropolitan Luxury Apartments'."
+                ]
+            ],
+            [
+                "[('Vista Healthcare Solutions',)]",
+                [
+                    "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Advanced Health Research Facility'. ",
+                    "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Advanced Health Research Facility'. ",
+                    "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Advanced Health Research Facility'."
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Blue Lagoon Luxury Resort'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Blue Lagoon Luxury Resort'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Blue Lagoon Luxury Resort'?\""
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Harbour View Green Spaces'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Harbour View Green Spaces'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Harbour View Green Spaces'?\""
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Innovative Tech Park'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Innovative Tech Park'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Innovative Tech Park'?\""
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Eco Retreat Development'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Eco Retreat Development'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Eco Retreat Development'?\""
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Central City Medical Hub'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Central City Medical Hub'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Central City Medical Hub'?\""
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Quantum Data Center Expansion'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Quantum Data Center Expansion'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Quantum Data Center Expansion'?\""
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Champs-\u00c9lys\u00e9es Boutique Hotel'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Champs-\u00c9lys\u00e9es Boutique Hotel'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Champs-\u00c9lys\u00e9es Boutique Hotel'?\""
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Dubai Skyline Tower'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Dubai Skyline Tower'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Dubai Skyline Tower'?\""
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Metropolitan Luxury Apartments'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Metropolitan Luxury Apartments'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Metropolitan Luxury Apartments'?\""
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "\"Could you tell me who the Project Director is for the project named 'Advanced Health Research Facility'?\"",
+                    "\"Can you find out who is in charge as the Project Director for the specific project that holds the name 'Advanced Health Research Facility'?\"",
+                    "\"Would you mind finding out the name of the Project Director responsible for the project with the name 'Advanced Health Research Facility'?\""
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Hedy Lamarr',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Blue Lagoon Luxury Resort'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Blue Lagoon Luxury Resort'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Blue Lagoon Luxury Resort' in our database.\""
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Harbour View Green Spaces'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Harbour View Green Spaces'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Harbour View Green Spaces' in our database.\""
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Innovative Tech Park'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Innovative Tech Park'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Innovative Tech Park' in our database.\""
+                ]
+            ],
+            [
+                "[('George Washington Carver',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Eco Retreat Development'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Eco Retreat Development'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Eco Retreat Development' in our database.\""
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Central City Medical Hub'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Central City Medical Hub'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Central City Medical Hub' in our database.\""
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Quantum Data Center Expansion'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Quantum Data Center Expansion'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Quantum Data Center Expansion' in our database.\""
+                ]
+            ],
+            [
+                "[('George Washington Carver',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Champs-\u00c9lys\u00e9es Boutique Hotel'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Champs-\u00c9lys\u00e9es Boutique Hotel'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Champs-\u00c9lys\u00e9es Boutique Hotel' in our database.\""
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Dubai Skyline Tower'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Dubai Skyline Tower'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Dubai Skyline Tower' in our database.\""
+                ]
+            ],
+            [
+                "[('Hedy Lamarr',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Metropolitan Luxury Apartments'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Metropolitan Luxury Apartments'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Metropolitan Luxury Apartments' in our database.\""
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Advanced Health Research Facility'.\"",
+                    "\"We are interested in determining who is the project manager of a project in our records that goes by the name of 'Advanced Health Research Facility'.\"",
+                    "\"We aim to find out the project manager for a project which is registered under the name 'Advanced Health Research Facility' in our database.\""
+                ]
+            ]
+        ]
+    ]
+}

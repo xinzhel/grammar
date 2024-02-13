@@ -1,0 +1,69 @@
+{
+    "Project": {
+        "SELECT StartDate FROM Project WHERE Name = '[Project.Name]';": [
+            "\"The query is looking up the starting date for a particular project, and the name of that specific project is given as '[Project.Name]'. ",
+            "\"Let's find out the date when the project named '[Project.Name]' was initiated according to the records held in our project database. ",
+            "\"In reference to our project database, we are interested in locating the details of when a certain project, identified as '[Project.Name]', officially commenced.\""
+        ],
+        "SELECT EndDate FROM Project WHERE Name = '[Project.Name]';": [
+            "Let's see when the project with the name '[Project.Name]' is scheduled to end. ",
+            "Can you provide me the completion date for the project that goes by the name '[Project.Name]'?",
+            "I need to find out when the project titled '[Project.Name]' is expected to end."
+        ],
+        "SELECT Client FROM Project WHERE Name = '[Project.Name]';": [
+            "\"The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, '[Project.Name]'. ",
+            "\"We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of '[Project.Name]'. ",
+            "\"A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier '[Project.Name]'."
+        ],
+        "SELECT ProjectDirector FROM Project WHERE Name = '[Project.Name]';": [
+            "\"Could you tell me who the Project Director is for the project named '[Project.Name]'?\"",
+            "\"Can you find out who is in charge as the Project Director for the specific project that holds the name '[Project.Name]'?\"",
+            "\"Would you mind finding out the name of the Project Director responsible for the project with the name '[Project.Name]'?\""
+        ],
+        "SELECT ProjectManager FROM Project WHERE Name = '[Project.Name]';": [
+            "\"We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as '[Project.Name]'.\"",
+            "   ",
+            "\"We are interested in determining who is the project manager of a project in our records that goes by the name of '[Project.Name]'.\"",
+            "   ",
+            "\"We aim to find out the project manager for a project which is registered under the name '[Project.Name]' in our database.\""
+        ]
+    },
+    "Client": {
+        "SELECT Name FROM Client WHERE Industry = '[Client.Industry]';": [
+            "\"We are looking up the names of clients that are part of a specific industry, referred to in our system as '[Client.Industry]'.",
+            "         ",
+            "\"Our search is set to retrieve the names of all clients listed under an industry known as '[Client.Industry]'. ",
+            "\"We are conducting a quest to find the names of all clients that are associated with the sector referred to as '[Client.Industry]'."
+        ],
+        "SELECT Location FROM Client WHERE Name = '[Client.Name]';": [
+            "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically '[Client.Name]'.\"",
+            "        ",
+            "\"We are looking for the geographical location in our records, for a client by the name of '[Client.Name]', could you retrieve it for us?\"",
+            "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name '[Client.Name]'?\""
+        ],
+        "SELECT Industry FROM Client WHERE Name = '[Client.Name]';": [
+            "\"Could you help me find the industry for the client whose name is '[Client.Name]'?\"",
+            "\"Let's identify the business sector or industry associated with our client known as '[Client.Name]'.\"",
+            "\"We need to scout out and categorize the industry that our client, '[Client.Name]' operates in.\""
+        ]
+    },
+    "Employee": {
+        "SELECT JobTitle FROM Employee WHERE Name = '[Employee.Name]';": [
+            "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with '[Employee.Name]'.\"",
+            "  ",
+            "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name '[Employee.Name]'?\"",
+            "\"In our company's employee database, we need to find out the job position held by the individual known as '[Employee.Name]'. Please find and provide this information.\""
+        ],
+        "SELECT Department FROM Employee WHERE Name = '[Employee.Name]';": [
+            "\"The system is looking for information about the department where the employee named [Employee.Name] is working, as per the records in the 'Employee' database.\"",
+            " ",
+            "\"In an effort to determine the departmental affiliation of the employee with the name [Employee.Name], the system is querying the 'Employee' database.\"",
+            "\"The database inquiry is meant to determine the department in which an employee by the name of [Employee.Name] is situated, as per the details maintained in the 'Employee' record.\""
+        ],
+        "SELECT SupervisorOrManager FROM Employee WHERE Name = '[Employee.Name]';": [
+            "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as '[Employee.Name]'.  ",
+            "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as '[Employee.Name]'.  ",
+            "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as '[Employee.Name]'."
+        ]
+    }
+}

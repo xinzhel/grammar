@@ -1,0 +1,3 @@
+SELECT JobTitle FROM Employee WHERE Name = '[Employee.Name]';
+SELECT Department FROM Employee WHERE Name = '[Employee.Name]';
+SELECT SupervisorOrManager FROM Employee WHERE Name = '[Employee.Name]';

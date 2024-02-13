@@ -1,0 +1,64 @@
+{
+    "Project": {
+        "SELECT StartDate FROM Project WHERE Name = '[Project.Name]';": [
+            "Find the start date of the project named '[Project.Name]'.",
+            "Look up when the project named '[Project.Name]' began.",
+            "Inquire the commencement date for the project '[Project.Name]'."
+        ],
+        "SELECT EndDate FROM Project WHERE Name = '[Project.Name]';": [
+            "Look for the finish date of the project titled '[Project.Name]'.",
+            "Obtain the end date for the project with the name '[Project.Name]'.",
+            "Find out when the project named '[Project.Name]' is scheduled to end."
+        ],
+        "SELECT Client FROM Project WHERE Name = '[Project.Name]';": [
+            "Find the client of a project named '[Project.Name]'.",
+            "Who is the client for the project named '[Project.Name]'?",
+            "Look for the client associated with the project '[Project.Name]'."
+        ],
+        "SELECT ProjectDirector FROM Project WHERE Name = '[Project.Name]';": [
+            "Find the project director of the project named '[Project.Name]'.",
+            "Look up the director for the project with the name '[Project.Name]'.",
+            "Get the project director for the project called '[Project.Name]'."
+        ],
+        "SELECT ProjectManager FROM Project WHERE Name = '[Project.Name]';": [
+            "Identify the project manager of the project with the name '[Project.Name]'.",
+            "Who is the project manager for the project named '[Project.Name]'?",
+            "Find out the project manager associated with the project called '[Project.Name]'."
+        ]
+    },
+    "Client": {
+        "SELECT Name FROM Client WHERE Industry = '[Client.Industry]';": [
+            "\"Find the name of clients belonging to the '[Client.Industry]' industry.\"",
+            "\"Give me names of clients who are in the '[Client.Industry]' business.\"",
+            "\"Who are the clients in the '[Client.Industry]' sector? Find their names.\""
+        ],
+        "SELECT Location FROM Client WHERE Name = '[Client.Name]';": [
+            "Find the location for the client named '[Client.Name]'.",
+            "Retrieve the location linked to the client called '[Client.Name]'.",
+            "Get the location associated with the client '[Client.Name]'."
+        ],
+        "SELECT Industry FROM Client WHERE Name = '[Client.Name]';": [
+            "Fetch the field 'industry' of the entity named '[Client.Name]'.",
+            "Find the industry type related to '[Client.Name]'.",
+            "Check the industry category corresponding to '[Client.Name]'."
+        ]
+    },
+    "Employee": {
+        "SELECT JobTitle FROM Employee WHERE Name = '[Employee.Name]';": [
+            "\"Find the job title of the employee named '[Employee.Name]'.\"",
+            "\"Retrieve the position or job title for '[Employee.Name]'.\"",
+            "\"Search for the job title associated with the employee named '[Employee.Name]'.\""
+        ],
+        "SELECT Department FROM Employee WHERE Name = '[Employee.Name]';": [
+            "Obtain the department of '[Employee.Name]'.",
+            "Fetch the department where the employee's name is '[Employee.Name]'.",
+            "Get the department associated with '[Employee.Name]'."
+        ],
+        "SELECT SupervisorOrManager FROM Employee WHERE Name = '[Employee.Name]';": [
+            "Get the supervisor or manager for the employee named '[Employee.Name]'.",
+            "Find out who is the supervisor or manager of an employee with the name '[Employee.Name]'.",
+            "Retrieve the supervisor or manager associated with the employee named '[Employee.Name]'."
+        ]
+    }
+
+}
