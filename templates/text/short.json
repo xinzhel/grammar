@@ -27,11 +27,6 @@
         ]
     },
     "Client": {
-        "SELECT Name FROM Client WHERE Industry = '[Client.Industry]';": [
-            "\"Find the name of clients belonging to the '[Client.Industry]' industry.\"",
-            "\"Give me names of clients who are in the '[Client.Industry]' business.\"",
-            "\"Who are the clients in the '[Client.Industry]' sector? Find their names.\""
-        ],
         "SELECT Location FROM Client WHERE Name = '[Client.Name]';": [
             "Find the location for the client named '[Client.Name]'.",
             "Retrieve the location linked to the client called '[Client.Name]'.",

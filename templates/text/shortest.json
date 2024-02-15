@@ -27,11 +27,6 @@
         ]
     },
     "Client": {
-        "SELECT Name FROM Client WHERE Industry = '[Client.Industry]';": [
-            "Get name for client in '[Client.Industry]' industry",
-            "Find client name where industry is '[Client.Industry]'",
-            "Retrieve client's name working in '[Client.Industry]' sector"
-        ],
         "SELECT Location FROM Client WHERE Name = '[Client.Name]';": [
             "Get '[Client.Name]' location details",
             "Find which location '[Client.Name]' is located in",

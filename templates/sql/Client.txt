@@ -1,3 +1,2 @@
-SELECT Name FROM Client WHERE Industry = '[Client.Industry]';
 SELECT Location FROM Client WHERE Name = '[Client.Name]';
 SELECT Industry FROM Client WHERE Name = '[Client.Name]';

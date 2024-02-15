@@ -1,1 +1,4 @@
 SELECT Name FROM Employee WHERE JobTitle = '[Employee.JobTitle]';
+SELECT Name FROM Employee WHERE SupervisorOrManager = '[Employee.SupervisorOrManager]';
+
+SELECT Name FROM Client WHERE Industry = '[Client.Industry]';

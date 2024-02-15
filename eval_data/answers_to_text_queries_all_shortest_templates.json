@@ -410,5 +410,867 @@
                 ]
             ]
         ]
+    ],
+    "Client": [
+        [
+            [
+                "[('Maldives',)]",
+                [
+                    "Get 'Blue Horizon Hotels' location details",
+                    "Find which location 'Blue Horizon Hotels' is located in",
+                    "Determine the location of 'Blue Horizon Hotels'"
+                ]
+            ],
+            [
+                "[('Sydney, Australia',)]",
+                [
+                    "Get 'EcoSpace Real Estate' location details",
+                    "Find which location 'EcoSpace Real Estate' is located in",
+                    "Determine the location of 'EcoSpace Real Estate'"
+                ]
+            ],
+            [
+                "[('Tokyo, Japan',)]",
+                [
+                    "Get 'Future Tech Innovations' location details",
+                    "Find which location 'Future Tech Innovations' is located in",
+                    "Determine the location of 'Future Tech Innovations'"
+                ]
+            ],
+            [
+                "[('Costa Rica',)]",
+                [
+                    "Get 'Greenworld Resorts' location details",
+                    "Find which location 'Greenworld Resorts' is located in",
+                    "Determine the location of 'Greenworld Resorts'"
+                ]
+            ],
+            [
+                "[('London, UK',)]",
+                [
+                    "Get 'Pinnacle Health Group' location details",
+                    "Find which location 'Pinnacle Health Group' is located in",
+                    "Determine the location of 'Pinnacle Health Group'"
+                ]
+            ],
+            [
+                "[('Silicon Valley, USA',)]",
+                [
+                    "Get 'Quantum Communications Corp' location details",
+                    "Find which location 'Quantum Communications Corp' is located in",
+                    "Determine the location of 'Quantum Communications Corp'"
+                ]
+            ],
+            [
+                "[('Paris, France',)]",
+                [
+                    "Get 'Serene Stays Hospitality' location details",
+                    "Find which location 'Serene Stays Hospitality' is located in",
+                    "Determine the location of 'Serene Stays Hospitality'"
+                ]
+            ],
+            [
+                "[('Dubai, UAE',)]",
+                [
+                    "Get 'Skyline Developers' location details",
+                    "Find which location 'Skyline Developers' is located in",
+                    "Determine the location of 'Skyline Developers'"
+                ]
+            ],
+            [
+                "[('New York City, USA',)]",
+                [
+                    "Get 'Urban Oasis Developments' location details",
+                    "Find which location 'Urban Oasis Developments' is located in",
+                    "Determine the location of 'Urban Oasis Developments'"
+                ]
+            ],
+            [
+                "[('Mumbai, India',)]",
+                [
+                    "Get 'Vista Healthcare Solutions' location details",
+                    "Find which location 'Vista Healthcare Solutions' is located in",
+                    "Determine the location of 'Vista Healthcare Solutions'"
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Hospitality',)]",
+                [
+                    "Get industry for 'Blue Horizon Hotels'.",
+                    "Find industry associated with 'Blue Horizon Hotels'.",
+                    "Check industry of 'Blue Horizon Hotels'."
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "Get industry for 'EcoSpace Real Estate'.",
+                    "Find industry associated with 'EcoSpace Real Estate'.",
+                    "Check industry of 'EcoSpace Real Estate'."
+                ]
+            ],
+            [
+                "[('Technology and Communications Infrastructure',)]",
+                [
+                    "Get industry for 'Future Tech Innovations'.",
+                    "Find industry associated with 'Future Tech Innovations'.",
+                    "Check industry of 'Future Tech Innovations'."
+                ]
+            ],
+            [
+                "[('Hospitality',)]",
+                [
+                    "Get industry for 'Greenworld Resorts'.",
+                    "Find industry associated with 'Greenworld Resorts'.",
+                    "Check industry of 'Greenworld Resorts'."
+                ]
+            ],
+            [
+                "[('Healthcare and Hospital',)]",
+                [
+                    "Get industry for 'Pinnacle Health Group'.",
+                    "Find industry associated with 'Pinnacle Health Group'.",
+                    "Check industry of 'Pinnacle Health Group'."
+                ]
+            ],
+            [
+                "[('Technology and Communications Infrastructure',)]",
+                [
+                    "Get industry for 'Quantum Communications Corp'.",
+                    "Find industry associated with 'Quantum Communications Corp'.",
+                    "Check industry of 'Quantum Communications Corp'."
+                ]
+            ],
+            [
+                "[('Hospitality',)]",
+                [
+                    "Get industry for 'Serene Stays Hospitality'.",
+                    "Find industry associated with 'Serene Stays Hospitality'.",
+                    "Check industry of 'Serene Stays Hospitality'."
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "Get industry for 'Skyline Developers'.",
+                    "Find industry associated with 'Skyline Developers'.",
+                    "Check industry of 'Skyline Developers'."
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "Get industry for 'Urban Oasis Developments'.",
+                    "Find industry associated with 'Urban Oasis Developments'.",
+                    "Check industry of 'Urban Oasis Developments'."
+                ]
+            ],
+            [
+                "[('Healthcare and Hospital',)]",
+                [
+                    "Get industry for 'Vista Healthcare Solutions'.",
+                    "Find industry associated with 'Vista Healthcare Solutions'.",
+                    "Check industry of 'Vista Healthcare Solutions'."
+                ]
+            ]
+        ]
+    ],
+    "Employee": [
+        [
+            [
+                "[('Chief Executive Officer (CEO)',)]",
+                [
+                    "'Job title' under 'Dr. Helena Quantum'",
+                    "'Job title' corresponding to 'Dr. Helena Quantum'",
+                    "The work designation for 'Dr. Helena Quantum'"
+                ]
+            ],
+            [
+                "[('Architectural Liaison Engineer',)]",
+                [
+                    "'Job title' under 'Frank Lloyd Wright'",
+                    "'Job title' corresponding to 'Frank Lloyd Wright'",
+                    "The work designation for 'Frank Lloyd Wright'"
+                ]
+            ],
+            [
+                "[('Lead Structural Engineer',)]",
+                [
+                    "'Job title' under 'Gustave Eiffel'",
+                    "'Job title' corresponding to 'Gustave Eiffel'",
+                    "The work designation for 'Gustave Eiffel'"
+                ]
+            ],
+            [
+                "[('BIM (Building Information Modeling) Manager',)]",
+                [
+                    "'Job title' under 'Henrietta Leavitt'",
+                    "'Job title' corresponding to 'Henrietta Leavitt'",
+                    "The work designation for 'Henrietta Leavitt'"
+                ]
+            ],
+            [
+                "[('Project Director',)]",
+                [
+                    "'Job title' under 'Leonardo Da Vinci'",
+                    "'Job title' corresponding to 'Leonardo Da Vinci'",
+                    "The work designation for 'Leonardo Da Vinci'"
+                ]
+            ],
+            [
+                "[('Project Director',)]",
+                [
+                    "'Job title' under 'Marie Curie'",
+                    "'Job title' corresponding to 'Marie Curie'",
+                    "The work designation for 'Marie Curie'"
+                ]
+            ],
+            [
+                "[('Assistant Project Manager',)]",
+                [
+                    "'Job title' under 'Isaac Newton'",
+                    "'Job title' corresponding to 'Isaac Newton'",
+                    "The work designation for 'Isaac Newton'"
+                ]
+            ],
+            [
+                "[('Chief Operating Officer (COO)',)]",
+                [
+                    "'Job title' under 'Marcus Aurelius'",
+                    "'Job title' corresponding to 'Marcus Aurelius'",
+                    "The work designation for 'Marcus Aurelius'"
+                ]
+            ],
+            [
+                "[('Chief Technical Officer (CTO)',)]",
+                [
+                    "'Job title' under 'Nikola Tesla'",
+                    "'Job title' corresponding to 'Nikola Tesla'",
+                    "The work designation for 'Nikola Tesla'"
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "'Job title' under 'Mae Jemison'",
+                    "'Job title' corresponding to 'Mae Jemison'",
+                    "The work designation for 'Mae Jemison'"
+                ]
+            ],
+            [
+                "[('Assistant Project Manager',)]",
+                [
+                    "'Job title' under 'Galileo Galilei'",
+                    "'Job title' corresponding to 'Galileo Galilei'",
+                    "The work designation for 'Galileo Galilei'"
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "'Job title' under 'Rosalind Franklin'",
+                    "'Job title' corresponding to 'Rosalind Franklin'",
+                    "The work designation for 'Rosalind Franklin'"
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "'Job title' under 'Chien-Shiung Wu'",
+                    "'Job title' corresponding to 'Chien-Shiung Wu'",
+                    "The work designation for 'Chien-Shiung Wu'"
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "'Job title' under 'Alan Turing'",
+                    "'Job title' corresponding to 'Alan Turing'",
+                    "The work designation for 'Alan Turing'"
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "'Job title' under 'Grace Hopper'",
+                    "'Job title' corresponding to 'Grace Hopper'",
+                    "The work designation for 'Grace Hopper'"
+                ]
+            ],
+            [
+                "[('Marketing and Communications Manager',)]",
+                [
+                    "'Job title' under 'Don Draper'",
+                    "'Job title' corresponding to 'Don Draper'",
+                    "The work designation for 'Don Draper'"
+                ]
+            ],
+            [
+                "[('Director of Sustainability',)]",
+                [
+                    "'Job title' under 'Rachel Carson'",
+                    "'Job title' corresponding to 'Rachel Carson'",
+                    "The work designation for 'Rachel Carson'"
+                ]
+            ],
+            [
+                "[('Human Resources Manager',)]",
+                [
+                    "'Job title' under 'Sheryl Sandberg'",
+                    "'Job title' corresponding to 'Sheryl Sandberg'",
+                    "The work designation for 'Sheryl Sandberg'"
+                ]
+            ],
+            [
+                "[('Finance Manager',)]",
+                [
+                    "'Job title' under 'Warren Buffett'",
+                    "'Job title' corresponding to 'Warren Buffett'",
+                    "The work designation for 'Warren Buffett'"
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "'Job title' under 'George Washington Carver'",
+                    "'Job title' corresponding to 'George Washington Carver'",
+                    "The work designation for 'George Washington Carver'"
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "'Job title' under 'Hedy Lamarr'",
+                    "'Job title' corresponding to 'Hedy Lamarr'",
+                    "The work designation for 'Hedy Lamarr'"
+                ]
+            ],
+            [
+                "[('Director of Engineering',)]",
+                [
+                    "'Job title' under 'Ada Lovelace'",
+                    "'Job title' corresponding to 'Ada Lovelace'",
+                    "The work designation for 'Ada Lovelace'"
+                ]
+            ],
+            [
+                "[('IT Support Specialist',)]",
+                [
+                    "'Job title' under 'Ada Lovelace (IT)'",
+                    "'Job title' corresponding to 'Ada Lovelace (IT)'",
+                    "The work designation for 'Ada Lovelace (IT)'"
+                ]
+            ],
+            [
+                "[('Structural Health Monitoring Engineer',)]",
+                [
+                    "'Job title' under 'Alexander Graham Bell'",
+                    "'Job title' corresponding to 'Alexander Graham Bell'",
+                    "The work designation for 'Alexander Graham Bell'"
+                ]
+            ],
+            [
+                "[('Design Engineer',)]",
+                [
+                    "'Job title' under 'Leonardo Vinci'",
+                    "'Job title' corresponding to 'Leonardo Vinci'",
+                    "The work designation for 'Leonardo Vinci'"
+                ]
+            ],
+            [
+                "[('IT Support Specialist',)]",
+                [
+                    "'Job title' under 'Linus Torvalds'",
+                    "'Job title' corresponding to 'Linus Torvalds'",
+                    "The work designation for 'Linus Torvalds'"
+                ]
+            ],
+            [
+                "[('Design Engineer',)]",
+                [
+                    "'Job title' under 'Steve Jobs'",
+                    "'Job title' corresponding to 'Steve Jobs'",
+                    "The work designation for 'Steve Jobs'"
+                ]
+            ],
+            [
+                "[('Sustainability Consultant',)]",
+                [
+                    "'Job title' under 'Greta Thunberg'",
+                    "'Job title' corresponding to 'Greta Thunberg'",
+                    "The work designation for 'Greta Thunberg'"
+                ]
+            ],
+            [
+                "[('Sustainability Consultant',)]",
+                [
+                    "'Job title' under 'John Muir'",
+                    "'Job title' corresponding to 'John Muir'",
+                    "The work designation for 'John Muir'"
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Executive Management',)]",
+                [
+                    "Check 'Dr. Helena Quantum' for department",
+                    "Department corresponding to 'Dr. Helena Quantum'",
+                    "Look for department associated with 'Dr. Helena Quantum'"
+                ]
+            ],
+            [
+                "[('Architectural Integration',)]",
+                [
+                    "Check 'Frank Lloyd Wright' for department",
+                    "Department corresponding to 'Frank Lloyd Wright'",
+                    "Look for department associated with 'Frank Lloyd Wright'"
+                ]
+            ],
+            [
+                "[('Structural Engineering',)]",
+                [
+                    "Check 'Gustave Eiffel' for department",
+                    "Department corresponding to 'Gustave Eiffel'",
+                    "Look for department associated with 'Gustave Eiffel'"
+                ]
+            ],
+            [
+                "[('Digital Construction Management',)]",
+                [
+                    "Check 'Henrietta Leavitt' for department",
+                    "Department corresponding to 'Henrietta Leavitt'",
+                    "Look for department associated with 'Henrietta Leavitt'"
+                ]
+            ],
+            [
+                "[('Special Projects',)]",
+                [
+                    "Check 'Leonardo Da Vinci' for department",
+                    "Department corresponding to 'Leonardo Da Vinci'",
+                    "Look for department associated with 'Leonardo Da Vinci'"
+                ]
+            ],
+            [
+                "[('Research and Development Projects',)]",
+                [
+                    "Check 'Marie Curie' for department",
+                    "Department corresponding to 'Marie Curie'",
+                    "Look for department associated with 'Marie Curie'"
+                ]
+            ],
+            [
+                "[('Physics Applications in Structural Design',)]",
+                [
+                    "Check 'Isaac Newton' for department",
+                    "Department corresponding to 'Isaac Newton'",
+                    "Look for department associated with 'Isaac Newton'"
+                ]
+            ],
+            [
+                "[('Operations',)]",
+                [
+                    "Check 'Marcus Aurelius' for department",
+                    "Department corresponding to 'Marcus Aurelius'",
+                    "Look for department associated with 'Marcus Aurelius'"
+                ]
+            ],
+            [
+                "[('Technology and Innovation',)]",
+                [
+                    "Check 'Nikola Tesla' for department",
+                    "Department corresponding to 'Nikola Tesla'",
+                    "Look for department associated with 'Nikola Tesla'"
+                ]
+            ],
+            [
+                "[('Space Utilization and Design',)]",
+                [
+                    "Check 'Mae Jemison' for department",
+                    "Department corresponding to 'Mae Jemison'",
+                    "Look for department associated with 'Mae Jemison'"
+                ]
+            ],
+            [
+                "[('Observational Technologies for Construction',)]",
+                [
+                    "Check 'Galileo Galilei' for department",
+                    "Department corresponding to 'Galileo Galilei'",
+                    "Look for department associated with 'Galileo Galilei'"
+                ]
+            ],
+            [
+                "[('Engineering Documentation and Compliance',)]",
+                [
+                    "Check 'Rosalind Franklin' for department",
+                    "Department corresponding to 'Rosalind Franklin'",
+                    "Look for department associated with 'Rosalind Franklin'"
+                ]
+            ],
+            [
+                "[('Quantum Mechanics in Structural Engineering',)]",
+                [
+                    "Check 'Chien-Shiung Wu' for department",
+                    "Department corresponding to 'Chien-Shiung Wu'",
+                    "Look for department associated with 'Chien-Shiung Wu'"
+                ]
+            ],
+            [
+                "[('Technology Integration Projects',)]",
+                [
+                    "Check 'Alan Turing' for department",
+                    "Department corresponding to 'Alan Turing'",
+                    "Look for department associated with 'Alan Turing'"
+                ]
+            ],
+            [
+                "[('Software Development for Engineering Tools',)]",
+                [
+                    "Check 'Grace Hopper' for department",
+                    "Department corresponding to 'Grace Hopper'",
+                    "Look for department associated with 'Grace Hopper'"
+                ]
+            ],
+            [
+                "[('Marketing and Public Relations',)]",
+                [
+                    "Check 'Don Draper' for department",
+                    "Department corresponding to 'Don Draper'",
+                    "Look for department associated with 'Don Draper'"
+                ]
+            ],
+            [
+                "[('Sustainability Initiatives',)]",
+                [
+                    "Check 'Rachel Carson' for department",
+                    "Department corresponding to 'Rachel Carson'",
+                    "Look for department associated with 'Rachel Carson'"
+                ]
+            ],
+            [
+                "[('Human Resources',)]",
+                [
+                    "Check 'Sheryl Sandberg' for department",
+                    "Department corresponding to 'Sheryl Sandberg'",
+                    "Look for department associated with 'Sheryl Sandberg'"
+                ]
+            ],
+            [
+                "[('Finance',)]",
+                [
+                    "Check 'Warren Buffett' for department",
+                    "Department corresponding to 'Warren Buffett'",
+                    "Look for department associated with 'Warren Buffett'"
+                ]
+            ],
+            [
+                "[('Sustainable Materials Research',)]",
+                [
+                    "Check 'George Washington Carver' for department",
+                    "Department corresponding to 'George Washington Carver'",
+                    "Look for department associated with 'George Washington Carver'"
+                ]
+            ],
+            [
+                "[('Communication Systems Projects',)]",
+                [
+                    "Check 'Hedy Lamarr' for department",
+                    "Department corresponding to 'Hedy Lamarr'",
+                    "Look for department associated with 'Hedy Lamarr'"
+                ]
+            ],
+            [
+                "[('Engineering',)]",
+                [
+                    "Check 'Ada Lovelace' for department",
+                    "Department corresponding to 'Ada Lovelace'",
+                    "Look for department associated with 'Ada Lovelace'"
+                ]
+            ],
+            [
+                "[('Information Technology',)]",
+                [
+                    "Check 'Ada Lovelace (IT)' for department",
+                    "Department corresponding to 'Ada Lovelace (IT)'",
+                    "Look for department associated with 'Ada Lovelace (IT)'"
+                ]
+            ],
+            [
+                "[('Structural Integrity Assessment',)]",
+                [
+                    "Check 'Alexander Graham Bell' for department",
+                    "Department corresponding to 'Alexander Graham Bell'",
+                    "Look for department associated with 'Alexander Graham Bell'"
+                ]
+            ],
+            [
+                "[('Conceptual Design and Visualization',)]",
+                [
+                    "Check 'Leonardo Vinci' for department",
+                    "Department corresponding to 'Leonardo Vinci'",
+                    "Look for department associated with 'Leonardo Vinci'"
+                ]
+            ],
+            [
+                "[('Information Technology',)]",
+                [
+                    "Check 'Linus Torvalds' for department",
+                    "Department corresponding to 'Linus Torvalds'",
+                    "Look for department associated with 'Linus Torvalds'"
+                ]
+            ],
+            [
+                "[('User Interface Design for Engineering Software',)]",
+                [
+                    "Check 'Steve Jobs' for department",
+                    "Department corresponding to 'Steve Jobs'",
+                    "Look for department associated with 'Steve Jobs'"
+                ]
+            ],
+            [
+                "[('Climate Change Adaptation Strategies',)]",
+                [
+                    "Check 'Greta Thunberg' for department",
+                    "Department corresponding to 'Greta Thunberg'",
+                    "Look for department associated with 'Greta Thunberg'"
+                ]
+            ],
+            [
+                "[('Environmental Impact Analysis',)]",
+                [
+                    "Check 'John Muir' for department",
+                    "Department corresponding to 'John Muir'",
+                    "Look for department associated with 'John Muir'"
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Find supervisor or manager for 'Frank Lloyd Wright'",
+                    "Get supervisor or manager related to 'Frank Lloyd Wright'",
+                    "Identify supervisor or manager corresponding to 'Frank Lloyd Wright'"
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Find supervisor or manager for 'Gustave Eiffel'",
+                    "Get supervisor or manager related to 'Gustave Eiffel'",
+                    "Identify supervisor or manager corresponding to 'Gustave Eiffel'"
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Find supervisor or manager for 'Henrietta Leavitt'",
+                    "Get supervisor or manager related to 'Henrietta Leavitt'",
+                    "Identify supervisor or manager corresponding to 'Henrietta Leavitt'"
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Find supervisor or manager for 'Leonardo Da Vinci'",
+                    "Get supervisor or manager related to 'Leonardo Da Vinci'",
+                    "Identify supervisor or manager corresponding to 'Leonardo Da Vinci'"
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Find supervisor or manager for 'Marie Curie'",
+                    "Get supervisor or manager related to 'Marie Curie'",
+                    "Identify supervisor or manager corresponding to 'Marie Curie'"
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "Find supervisor or manager for 'Isaac Newton'",
+                    "Get supervisor or manager related to 'Isaac Newton'",
+                    "Identify supervisor or manager corresponding to 'Isaac Newton'"
+                ]
+            ],
+            [
+                "[('Dr. Helena Quantum',)]",
+                [
+                    "Find supervisor or manager for 'Marcus Aurelius'",
+                    "Get supervisor or manager related to 'Marcus Aurelius'",
+                    "Identify supervisor or manager corresponding to 'Marcus Aurelius'"
+                ]
+            ],
+            [
+                "[('Dr. Helena Quantum',)]",
+                [
+                    "Find supervisor or manager for 'Nikola Tesla'",
+                    "Get supervisor or manager related to 'Nikola Tesla'",
+                    "Identify supervisor or manager corresponding to 'Nikola Tesla'"
+                ]
+            ],
+            [
+                "[('George Washington Carver',)]",
+                [
+                    "Find supervisor or manager for 'Mae Jemison'",
+                    "Get supervisor or manager related to 'Mae Jemison'",
+                    "Identify supervisor or manager corresponding to 'Mae Jemison'"
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "Find supervisor or manager for 'Galileo Galilei'",
+                    "Get supervisor or manager related to 'Galileo Galilei'",
+                    "Identify supervisor or manager corresponding to 'Galileo Galilei'"
+                ]
+            ],
+            [
+                "[('Hedy Lamarr',)]",
+                [
+                    "Find supervisor or manager for 'Rosalind Franklin'",
+                    "Get supervisor or manager related to 'Rosalind Franklin'",
+                    "Identify supervisor or manager corresponding to 'Rosalind Franklin'"
+                ]
+            ],
+            [
+                "[('Isaac Newton',)]",
+                [
+                    "Find supervisor or manager for 'Chien-Shiung Wu'",
+                    "Get supervisor or manager related to 'Chien-Shiung Wu'",
+                    "Identify supervisor or manager corresponding to 'Chien-Shiung Wu'"
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Find supervisor or manager for 'Alan Turing'",
+                    "Get supervisor or manager related to 'Alan Turing'",
+                    "Identify supervisor or manager corresponding to 'Alan Turing'"
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Find supervisor or manager for 'Grace Hopper'",
+                    "Get supervisor or manager related to 'Grace Hopper'",
+                    "Identify supervisor or manager corresponding to 'Grace Hopper'"
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "Find supervisor or manager for 'Don Draper'",
+                    "Get supervisor or manager related to 'Don Draper'",
+                    "Identify supervisor or manager corresponding to 'Don Draper'"
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "Find supervisor or manager for 'Rachel Carson'",
+                    "Get supervisor or manager related to 'Rachel Carson'",
+                    "Identify supervisor or manager corresponding to 'Rachel Carson'"
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "Find supervisor or manager for 'Sheryl Sandberg'",
+                    "Get supervisor or manager related to 'Sheryl Sandberg'",
+                    "Identify supervisor or manager corresponding to 'Sheryl Sandberg'"
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "Find supervisor or manager for 'Warren Buffett'",
+                    "Get supervisor or manager related to 'Warren Buffett'",
+                    "Identify supervisor or manager corresponding to 'Warren Buffett'"
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Find supervisor or manager for 'George Washington Carver'",
+                    "Get supervisor or manager related to 'George Washington Carver'",
+                    "Identify supervisor or manager corresponding to 'George Washington Carver'"
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Find supervisor or manager for 'Hedy Lamarr'",
+                    "Get supervisor or manager related to 'Hedy Lamarr'",
+                    "Identify supervisor or manager corresponding to 'Hedy Lamarr'"
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Find supervisor or manager for 'Ada Lovelace'",
+                    "Get supervisor or manager related to 'Ada Lovelace'",
+                    "Identify supervisor or manager corresponding to 'Ada Lovelace'"
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Find supervisor or manager for 'Ada Lovelace (IT)'",
+                    "Get supervisor or manager related to 'Ada Lovelace (IT)'",
+                    "Identify supervisor or manager corresponding to 'Ada Lovelace (IT)'"
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Find supervisor or manager for 'Alexander Graham Bell'",
+                    "Get supervisor or manager related to 'Alexander Graham Bell'",
+                    "Identify supervisor or manager corresponding to 'Alexander Graham Bell'"
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Find supervisor or manager for 'Leonardo Vinci'",
+                    "Get supervisor or manager related to 'Leonardo Vinci'",
+                    "Identify supervisor or manager corresponding to 'Leonardo Vinci'"
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Find supervisor or manager for 'Linus Torvalds'",
+                    "Get supervisor or manager related to 'Linus Torvalds'",
+                    "Identify supervisor or manager corresponding to 'Linus Torvalds'"
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Find supervisor or manager for 'Steve Jobs'",
+                    "Get supervisor or manager related to 'Steve Jobs'",
+                    "Identify supervisor or manager corresponding to 'Steve Jobs'"
+                ]
+            ],
+            [
+                "[('Rachel Carson',)]",
+                [
+                    "Find supervisor or manager for 'Greta Thunberg'",
+                    "Get supervisor or manager related to 'Greta Thunberg'",
+                    "Identify supervisor or manager corresponding to 'Greta Thunberg'"
+                ]
+            ],
+            [
+                "[('Rachel Carson',)]",
+                [
+                    "Find supervisor or manager for 'John Muir'",
+                    "Get supervisor or manager related to 'John Muir'",
+                    "Identify supervisor or manager corresponding to 'John Muir'"
+                ]
+            ]
+        ]
     ]
 }

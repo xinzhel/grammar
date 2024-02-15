@@ -410,5 +410,867 @@
                 ]
             ]
         ]
+    ],
+    "Client": [
+        [
+            [
+                "[('Maldives',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Blue Horizon Hotels'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Blue Horizon Hotels', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Blue Horizon Hotels'?\""
+                ]
+            ],
+            [
+                "[('Sydney, Australia',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'EcoSpace Real Estate'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'EcoSpace Real Estate', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'EcoSpace Real Estate'?\""
+                ]
+            ],
+            [
+                "[('Tokyo, Japan',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Future Tech Innovations'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Future Tech Innovations', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Future Tech Innovations'?\""
+                ]
+            ],
+            [
+                "[('Costa Rica',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Greenworld Resorts'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Greenworld Resorts', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Greenworld Resorts'?\""
+                ]
+            ],
+            [
+                "[('London, UK',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Pinnacle Health Group'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Pinnacle Health Group', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Pinnacle Health Group'?\""
+                ]
+            ],
+            [
+                "[('Silicon Valley, USA',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Quantum Communications Corp'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Quantum Communications Corp', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Quantum Communications Corp'?\""
+                ]
+            ],
+            [
+                "[('Paris, France',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Serene Stays Hospitality'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Serene Stays Hospitality', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Serene Stays Hospitality'?\""
+                ]
+            ],
+            [
+                "[('Dubai, UAE',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Skyline Developers'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Skyline Developers', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Skyline Developers'?\""
+                ]
+            ],
+            [
+                "[('New York City, USA',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Urban Oasis Developments'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Urban Oasis Developments', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Urban Oasis Developments'?\""
+                ]
+            ],
+            [
+                "[('Mumbai, India',)]",
+                [
+                    "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Vista Healthcare Solutions'.\"",
+                    "\"We are looking for the geographical location in our records, for a client by the name of 'Vista Healthcare Solutions', could you retrieve it for us?\"",
+                    "\"Could you please find and give us the specific location from our client database where the person's name aligns with this particular client name 'Vista Healthcare Solutions'?\""
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Hospitality',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Blue Horizon Hotels'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Blue Horizon Hotels'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Blue Horizon Hotels' operates in.\""
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'EcoSpace Real Estate'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'EcoSpace Real Estate'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'EcoSpace Real Estate' operates in.\""
+                ]
+            ],
+            [
+                "[('Technology and Communications Infrastructure',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Future Tech Innovations'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Future Tech Innovations'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Future Tech Innovations' operates in.\""
+                ]
+            ],
+            [
+                "[('Hospitality',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Greenworld Resorts'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Greenworld Resorts'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Greenworld Resorts' operates in.\""
+                ]
+            ],
+            [
+                "[('Healthcare and Hospital',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Pinnacle Health Group'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Pinnacle Health Group'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Pinnacle Health Group' operates in.\""
+                ]
+            ],
+            [
+                "[('Technology and Communications Infrastructure',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Quantum Communications Corp'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Quantum Communications Corp'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Quantum Communications Corp' operates in.\""
+                ]
+            ],
+            [
+                "[('Hospitality',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Serene Stays Hospitality'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Serene Stays Hospitality'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Serene Stays Hospitality' operates in.\""
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Skyline Developers'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Skyline Developers'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Skyline Developers' operates in.\""
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Urban Oasis Developments'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Urban Oasis Developments'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Urban Oasis Developments' operates in.\""
+                ]
+            ],
+            [
+                "[('Healthcare and Hospital',)]",
+                [
+                    "\"Could you help me find the industry for the client whose name is 'Vista Healthcare Solutions'?\"",
+                    "\"Let's identify the business sector or industry associated with our client known as 'Vista Healthcare Solutions'.\"",
+                    "\"We need to scout out and categorize the industry that our client, 'Vista Healthcare Solutions' operates in.\""
+                ]
+            ]
+        ]
+    ],
+    "Employee": [
+        [
+            [
+                "[('Chief Executive Officer (CEO)',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Dr. Helena Quantum'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Dr. Helena Quantum'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Dr. Helena Quantum'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Architectural Liaison Engineer',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Frank Lloyd Wright'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Frank Lloyd Wright'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Frank Lloyd Wright'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Lead Structural Engineer',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Gustave Eiffel'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Gustave Eiffel'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Gustave Eiffel'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('BIM (Building Information Modeling) Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Henrietta Leavitt'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Henrietta Leavitt'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Henrietta Leavitt'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Director',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Leonardo Da Vinci'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Leonardo Da Vinci'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Leonardo Da Vinci'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Director',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Marie Curie'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Marie Curie'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Marie Curie'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Assistant Project Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Isaac Newton'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Isaac Newton'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Isaac Newton'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Chief Operating Officer (COO)',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Marcus Aurelius'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Marcus Aurelius'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Marcus Aurelius'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Chief Technical Officer (CTO)',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Nikola Tesla'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Nikola Tesla'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Nikola Tesla'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Mae Jemison'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Mae Jemison'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Mae Jemison'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Assistant Project Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Galileo Galilei'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Galileo Galilei'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Galileo Galilei'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Rosalind Franklin'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Rosalind Franklin'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Rosalind Franklin'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Chien-Shiung Wu'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Chien-Shiung Wu'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Chien-Shiung Wu'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Alan Turing'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Alan Turing'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Alan Turing'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Grace Hopper'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Grace Hopper'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Grace Hopper'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Marketing and Communications Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Don Draper'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Don Draper'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Don Draper'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Director of Sustainability',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Rachel Carson'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Rachel Carson'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Rachel Carson'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Human Resources Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Sheryl Sandberg'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Sheryl Sandberg'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Sheryl Sandberg'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Finance Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Warren Buffett'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Warren Buffett'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Warren Buffett'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'George Washington Carver'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'George Washington Carver'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'George Washington Carver'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Hedy Lamarr'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Hedy Lamarr'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Hedy Lamarr'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Director of Engineering',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Ada Lovelace'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Ada Lovelace'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Ada Lovelace'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('IT Support Specialist',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Ada Lovelace (IT)'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Ada Lovelace (IT)'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Ada Lovelace (IT)'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Structural Health Monitoring Engineer',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Alexander Graham Bell'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Alexander Graham Bell'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Alexander Graham Bell'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Design Engineer',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Leonardo Vinci'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Leonardo Vinci'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Leonardo Vinci'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('IT Support Specialist',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Linus Torvalds'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Linus Torvalds'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Linus Torvalds'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Design Engineer',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Steve Jobs'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Steve Jobs'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Steve Jobs'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Sustainability Consultant',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Greta Thunberg'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'Greta Thunberg'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'Greta Thunberg'. Please find and provide this information.\""
+                ]
+            ],
+            [
+                "[('Sustainability Consultant',)]",
+                [
+                    "\"Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'John Muir'.\"",
+                    "\"Could you kindly look into the details of our employees and extract the job title of the individual who is known by the name 'John Muir'?\"",
+                    "\"In our company's employee database, we need to find out the job position held by the individual known as 'John Muir'. Please find and provide this information.\""
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Executive Management',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Dr. Helena Quantum is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Dr. Helena Quantum, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Dr. Helena Quantum is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Architectural Integration',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Frank Lloyd Wright is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Frank Lloyd Wright, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Frank Lloyd Wright is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Structural Engineering',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Gustave Eiffel is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Gustave Eiffel, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Gustave Eiffel is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Digital Construction Management',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Henrietta Leavitt is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Henrietta Leavitt, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Henrietta Leavitt is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Special Projects',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Leonardo Da Vinci is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Leonardo Da Vinci, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Leonardo Da Vinci is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Research and Development Projects',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Marie Curie is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Marie Curie, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Marie Curie is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Physics Applications in Structural Design',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Isaac Newton is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Isaac Newton, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Isaac Newton is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Operations',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Marcus Aurelius is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Marcus Aurelius, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Marcus Aurelius is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Technology and Innovation',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Nikola Tesla is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Nikola Tesla, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Nikola Tesla is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Space Utilization and Design',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Mae Jemison is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Mae Jemison, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Mae Jemison is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Observational Technologies for Construction',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Galileo Galilei is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Galileo Galilei, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Galileo Galilei is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Engineering Documentation and Compliance',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Rosalind Franklin is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Rosalind Franklin, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Rosalind Franklin is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Quantum Mechanics in Structural Engineering',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Chien-Shiung Wu is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Chien-Shiung Wu, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Chien-Shiung Wu is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Technology Integration Projects',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Alan Turing is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Alan Turing, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Alan Turing is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Software Development for Engineering Tools',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Grace Hopper is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Grace Hopper, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Grace Hopper is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Marketing and Public Relations',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Don Draper is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Don Draper, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Don Draper is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Sustainability Initiatives',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Rachel Carson is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Rachel Carson, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Rachel Carson is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Human Resources',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Sheryl Sandberg is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Sheryl Sandberg, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Sheryl Sandberg is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Finance',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Warren Buffett is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Warren Buffett, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Warren Buffett is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Sustainable Materials Research',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named George Washington Carver is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name George Washington Carver, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of George Washington Carver is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Communication Systems Projects',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Hedy Lamarr is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Hedy Lamarr, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Hedy Lamarr is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Engineering',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Ada Lovelace is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Ada Lovelace, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Ada Lovelace is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Information Technology',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Ada Lovelace (IT) is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Ada Lovelace (IT), the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Ada Lovelace (IT) is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Structural Integrity Assessment',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Alexander Graham Bell is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Alexander Graham Bell, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Alexander Graham Bell is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Conceptual Design and Visualization',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Leonardo Vinci is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Leonardo Vinci, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Leonardo Vinci is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Information Technology',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Linus Torvalds is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Linus Torvalds, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Linus Torvalds is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('User Interface Design for Engineering Software',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Steve Jobs is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Steve Jobs, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Steve Jobs is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Climate Change Adaptation Strategies',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named Greta Thunberg is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name Greta Thunberg, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of Greta Thunberg is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ],
+            [
+                "[('Environmental Impact Analysis',)]",
+                [
+                    "\"The system is looking for information about the department where the employee named John Muir is working, as per the records in the 'Employee' database.\"",
+                    "\"In an effort to determine the departmental affiliation of the employee with the name John Muir, the system is querying the 'Employee' database.\"",
+                    "\"The database inquiry is meant to determine the department in which an employee by the name of John Muir is situated, as per the details maintained in the 'Employee' record.\""
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Frank Lloyd Wright'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Frank Lloyd Wright'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Frank Lloyd Wright'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Gustave Eiffel'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Gustave Eiffel'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Gustave Eiffel'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Henrietta Leavitt'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Henrietta Leavitt'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Henrietta Leavitt'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Leonardo Da Vinci'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Leonardo Da Vinci'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Leonardo Da Vinci'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Marie Curie'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Marie Curie'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Marie Curie'."
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Isaac Newton'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Isaac Newton'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Isaac Newton'."
+                ]
+            ],
+            [
+                "[('Dr. Helena Quantum',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Marcus Aurelius'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Marcus Aurelius'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Marcus Aurelius'."
+                ]
+            ],
+            [
+                "[('Dr. Helena Quantum',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Nikola Tesla'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Nikola Tesla'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Nikola Tesla'."
+                ]
+            ],
+            [
+                "[('George Washington Carver',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Mae Jemison'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Mae Jemison'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Mae Jemison'."
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Galileo Galilei'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Galileo Galilei'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Galileo Galilei'."
+                ]
+            ],
+            [
+                "[('Hedy Lamarr',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Rosalind Franklin'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Rosalind Franklin'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Rosalind Franklin'."
+                ]
+            ],
+            [
+                "[('Isaac Newton',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Chien-Shiung Wu'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Chien-Shiung Wu'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Chien-Shiung Wu'."
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Alan Turing'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Alan Turing'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Alan Turing'."
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Grace Hopper'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Grace Hopper'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Grace Hopper'."
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Don Draper'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Don Draper'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Don Draper'."
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Rachel Carson'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Rachel Carson'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Rachel Carson'."
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Sheryl Sandberg'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Sheryl Sandberg'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Sheryl Sandberg'."
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Warren Buffett'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Warren Buffett'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Warren Buffett'."
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'George Washington Carver'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'George Washington Carver'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'George Washington Carver'."
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Hedy Lamarr'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Hedy Lamarr'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Hedy Lamarr'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Ada Lovelace'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Ada Lovelace'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Ada Lovelace'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Ada Lovelace (IT)'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Ada Lovelace (IT)'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Ada Lovelace (IT)'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Alexander Graham Bell'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Alexander Graham Bell'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Alexander Graham Bell'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Leonardo Vinci'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Leonardo Vinci'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Leonardo Vinci'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Linus Torvalds'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Linus Torvalds'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Linus Torvalds'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Steve Jobs'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Steve Jobs'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Steve Jobs'."
+                ]
+            ],
+            [
+                "[('Rachel Carson',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Greta Thunberg'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'Greta Thunberg'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'Greta Thunberg'."
+                ]
+            ],
+            [
+                "[('Rachel Carson',)]",
+                [
+                    "\"In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'John Muir'.  ",
+                    "\"To find out who is responsible for employee guidance and supervision, we are seeking the name of the supervisor or manager for the employee known as 'John Muir'.  ",
+                    "\"In the context of the corporate structure, our search is directed towards identifying the supervisor or manager of the employee designated as 'John Muir'."
+                ]
+            ]
+        ]
     ]
 }

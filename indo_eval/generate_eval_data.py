@@ -85,6 +85,8 @@ def generate_answers_to_text_queries(sql_templates, text_template_lists, placeho
             sql_query, text_queries = fillin_template(sql_query_template, text_templates, placeholders, combination)
             answer = db_tool.query(sql_query)
             
+            if answer is None:
+                continue
             answers_to_text_queries.append( (answer, text_queries) )
             
 

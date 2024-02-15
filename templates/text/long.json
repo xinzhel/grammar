@@ -29,12 +29,6 @@
         ]
     },
     "Client": {
-        "SELECT Name FROM Client WHERE Industry = '[Client.Industry]';": [
-            "\"We are looking up the names of clients that are part of a specific industry, referred to in our system as '[Client.Industry]'.",
-            "         ",
-            "\"Our search is set to retrieve the names of all clients listed under an industry known as '[Client.Industry]'. ",
-            "\"We are conducting a quest to find the names of all clients that are associated with the sector referred to as '[Client.Industry]'."
-        ],
         "SELECT Location FROM Client WHERE Name = '[Client.Name]';": [
             "\"Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically '[Client.Name]'.\"",
             "        ",
