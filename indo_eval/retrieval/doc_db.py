@@ -147,35 +147,35 @@ The involvement of Urban Oasis Developments in this project underscores their co
 
 
 
-#     "Champs-Élysées Boutique Hotel": """In the heart of Paris, France, a project that marries luxury with history is taking shape. Tasked by Serene Stays Hospitality, Aurp Structural Engineering Consultants embarked on the creation of the Champs-Élysées Boutique Hotel, an endeavor that promises to redefine the hospitality experience in one of the world's most enchanting cities. The project, under the experienced leadership of Project Director Marie Curie and Project Manager George Washington Carver, commenced in the spring of 2023. This ambitious project is slated for completion in the fall of 2024, showcasing a timeline that is as aggressive as it is meticulously planned.
+    "Champs-Élysées Boutique Hotel": """In the heart of Paris, France, a project that marries luxury with history is taking shape. Tasked by Serene Stays Hospitality, Aurp Structural Engineering Consultants embarked on the creation of the Champs-Élysées Boutique Hotel, an endeavor that promises to redefine the hospitality experience in one of the world's most enchanting cities. The project, under the experienced leadership of Project Director Marie Curie and Project Manager George Washington Carver, commenced in the spring of 2023. This ambitious project is slated for completion in the fall of 2024, showcasing a timeline that is as aggressive as it is meticulously planned.
 
-# The boutique hotel's design intricately weaves the architectural charm that Paris is famed for with modern amenities, ensuring guests enjoy both the allure of yesteryear and the comforts of today. The location on the iconic Champs-Élysées allows the hotel to serve as a gateway for guests to explore the rich culture and history of Paris, from its world-renowned art galleries to its vibrant street cafes.
+The boutique hotel's design intricately weaves the architectural charm that Paris is famed for with modern amenities, ensuring guests enjoy both the allure of yesteryear and the comforts of today. The location on the iconic Champs-Élysées allows the hotel to serve as a gateway for guests to explore the rich culture and history of Paris, from its world-renowned art galleries to its vibrant street cafes.
 
-# As the project unfolds, the team at Aurp Structural Engineering Consultants is leveraging their expertise in sustainable urban planning and bespoke architectural solutions to overcome the unique challenges presented by the urban environment of Paris. The dedication of Marie Curie and George Washington Carver to the project's vision has been instrumental in navigating these challenges, ensuring the project remains on track for its anticipated completion date at the end of October 2024.
+As the project unfolds, the team at Aurp Structural Engineering Consultants is leveraging their expertise in sustainable urban planning and bespoke architectural solutions to overcome the unique challenges presented by the urban environment of Paris. The dedication of Marie Curie and George Washington Carver to the project's vision has been instrumental in navigating these challenges, ensuring the project remains on track for its anticipated completion date at the end of October 2024.
 
-# Throughout the project, the collaboration between Serene Stays Hospitality and the engineering team has been characterized by a shared commitment to excellence and innovation. This partnership promises to deliver a hotel that not only enhances the Champs-Élysées landscape but also sets new standards in luxury hospitality. """,
+Throughout the project, the collaboration between Serene Stays Hospitality and the engineering team has been characterized by a shared commitment to excellence and innovation. This partnership promises to deliver a hotel that not only enhances the Champs-Élysées landscape but also sets new standards in luxury hospitality. """,
 
 
 
-#     "Advanced Health Research Facility": """### Project Overview
+    "Advanced Health Research Facility": """### Project Overview
 
-# The Advanced Health Research Facility, a state-of-the-art development in Mumbai, India, marks a significant milestone in the healthcare and research industry. Spearheaded by Aurp Structural Engineering Consultants, this project stands as a testament to innovation in medical research infrastructure.
+The Advanced Health Research Facility, a state-of-the-art development in Mumbai, India, marks a significant milestone in the healthcare and research industry. Spearheaded by Aurp Structural Engineering Consultants, this project stands as a testament to innovation in medical research infrastructure.
 
-# ### Client Engagement
+### Client Engagement
 
-# Commissioned by Vista Healthcare Solutions, the facility aims to become a hub for pioneering health research and development. This collaboration underscores Vista's commitment to advancing healthcare outcomes through cutting-edge facilities.
+Commissioned by Vista Healthcare Solutions, the facility aims to become a hub for pioneering health research and development. This collaboration underscores Vista's commitment to advancing healthcare outcomes through cutting-edge facilities.
 
-# ### Leadership and Team
+### Leadership and Team
 
-# Under the expert guidance of Project Director Leonardo Da Vinci, the project team has navigated complex architectural and engineering challenges. Project Manager Alan Turing has adeptly coordinated between various stakeholders, ensuring the project's alignment with technical specifications and client expectations.
+Under the expert guidance of Project Director Leonardo Da Vinci, the project team has navigated complex architectural and engineering challenges. Project Manager Alan Turing has adeptly coordinated between various stakeholders, ensuring the project's alignment with technical specifications and client expectations.
 
-# ### Project Timeline
+### Project Timeline
 
-# Initiated on January 10, 2023, the project embarked on an ambitious journey to construct a facility that meets the growing demands of healthcare research. With meticulous planning and execution, the team is on track to complete the facility by July 25, 2024, adhering to the projected timeline.
+Initiated on January 10, 2023, the project embarked on an ambitious journey to construct a facility that meets the growing demands of healthcare research. With meticulous planning and execution, the team is on track to complete the facility by July 25, 2024, adhering to the projected timeline.
 
-# ### Location and Infrastructure
+### Location and Infrastructure
 
-# Situated in the vibrant city of Mumbai, the Advanced Health Research Facility leverages its strategic location to foster collaborations with leading healthcare professionals and institutions. The design integrates advanced technological systems to support research activities, making it a cornerstone for medical breakthroughs in the region.
+Situated in the vibrant city of Mumbai, the Advanced Health Research Facility leverages its strategic location to foster collaborations with leading healthcare professionals and institutions. The design integrates advanced technological systems to support research activities, making it a cornerstone for medical breakthroughs in the region.
 
 # ### Conclusion
 
