@@ -1,13 +1,8 @@
-from typing import (
-    Dict,
-    Tuple,
-    List
-)
-import logging
+from typing import  List
 from spacy.language import Language as SpacyModelType
 import spacy
 from spacy.cli.download import download as spacy_download
-logger = logging.getLogger(__name__)
+
 
 
 def get_spacy_model(

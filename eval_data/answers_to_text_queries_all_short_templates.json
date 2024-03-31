@@ -410,5 +410,875 @@
                 ]
             ]
         ]
+    ],
+    "Client": [
+        [
+            [
+                "[('Maldives',)]",
+                [
+                    "Find the location for the client named 'Blue Horizon Hotels'.",
+                    "Retrieve the location linked to the client called 'Blue Horizon Hotels'.",
+                    "Get the location associated with the client 'Blue Horizon Hotels'."
+                ]
+            ],
+            [
+                "[('Sydney, Australia',)]",
+                [
+                    "Find the location for the client named 'EcoSpace Real Estate'.",
+                    "Retrieve the location linked to the client called 'EcoSpace Real Estate'.",
+                    "Get the location associated with the client 'EcoSpace Real Estate'."
+                ]
+            ],
+            [
+                "[('Tokyo, Japan',)]",
+                [
+                    "Find the location for the client named 'Future Tech Innovations'.",
+                    "Retrieve the location linked to the client called 'Future Tech Innovations'.",
+                    "Get the location associated with the client 'Future Tech Innovations'."
+                ]
+            ],
+            [
+                "[('Costa Rica',)]",
+                [
+                    "Find the location for the client named 'Greenworld Resorts'.",
+                    "Retrieve the location linked to the client called 'Greenworld Resorts'.",
+                    "Get the location associated with the client 'Greenworld Resorts'."
+                ]
+            ],
+            [
+                "[('London, UK',)]",
+                [
+                    "Find the location for the client named 'Pinnacle Health Group'.",
+                    "Retrieve the location linked to the client called 'Pinnacle Health Group'.",
+                    "Get the location associated with the client 'Pinnacle Health Group'."
+                ]
+            ],
+            [
+                "[('Silicon Valley, USA',)]",
+                [
+                    "Find the location for the client named 'Quantum Communications Corp'.",
+                    "Retrieve the location linked to the client called 'Quantum Communications Corp'.",
+                    "Get the location associated with the client 'Quantum Communications Corp'."
+                ]
+            ],
+            [
+                "[('Paris, France',)]",
+                [
+                    "Find the location for the client named 'Serene Stays Hospitality'.",
+                    "Retrieve the location linked to the client called 'Serene Stays Hospitality'.",
+                    "Get the location associated with the client 'Serene Stays Hospitality'."
+                ]
+            ],
+            [
+                "[('Dubai, UAE',)]",
+                [
+                    "Find the location for the client named 'Skyline Developers'.",
+                    "Retrieve the location linked to the client called 'Skyline Developers'.",
+                    "Get the location associated with the client 'Skyline Developers'."
+                ]
+            ],
+            [
+                "[('New York City, USA',)]",
+                [
+                    "Find the location for the client named 'Urban Oasis Developments'.",
+                    "Retrieve the location linked to the client called 'Urban Oasis Developments'.",
+                    "Get the location associated with the client 'Urban Oasis Developments'."
+                ]
+            ],
+            [
+                "[('Mumbai, India',)]",
+                [
+                    "Find the location for the client named 'Vista Healthcare Solutions'.",
+                    "Retrieve the location linked to the client called 'Vista Healthcare Solutions'.",
+                    "Get the location associated with the client 'Vista Healthcare Solutions'."
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Hospitality',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Blue Horizon Hotels'.",
+                    "Find the industry type related to 'Blue Horizon Hotels'.",
+                    "Check the industry category corresponding to 'Blue Horizon Hotels'."
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'EcoSpace Real Estate'.",
+                    "Find the industry type related to 'EcoSpace Real Estate'.",
+                    "Check the industry category corresponding to 'EcoSpace Real Estate'."
+                ]
+            ],
+            [
+                "[('Technology and Communications Infrastructure',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Future Tech Innovations'.",
+                    "Find the industry type related to 'Future Tech Innovations'.",
+                    "Check the industry category corresponding to 'Future Tech Innovations'."
+                ]
+            ],
+            [
+                "[('Hospitality',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Greenworld Resorts'.",
+                    "Find the industry type related to 'Greenworld Resorts'.",
+                    "Check the industry category corresponding to 'Greenworld Resorts'."
+                ]
+            ],
+            [
+                "[('Healthcare and Hospital',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Pinnacle Health Group'.",
+                    "Find the industry type related to 'Pinnacle Health Group'.",
+                    "Check the industry category corresponding to 'Pinnacle Health Group'."
+                ]
+            ],
+            [
+                "[('Technology and Communications Infrastructure',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Quantum Communications Corp'.",
+                    "Find the industry type related to 'Quantum Communications Corp'.",
+                    "Check the industry category corresponding to 'Quantum Communications Corp'."
+                ]
+            ],
+            [
+                "[('Hospitality',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Serene Stays Hospitality'.",
+                    "Find the industry type related to 'Serene Stays Hospitality'.",
+                    "Check the industry category corresponding to 'Serene Stays Hospitality'."
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Skyline Developers'.",
+                    "Find the industry type related to 'Skyline Developers'.",
+                    "Check the industry category corresponding to 'Skyline Developers'."
+                ]
+            ],
+            [
+                "[('Real Estate',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Urban Oasis Developments'.",
+                    "Find the industry type related to 'Urban Oasis Developments'.",
+                    "Check the industry category corresponding to 'Urban Oasis Developments'."
+                ]
+            ],
+            [
+                "[('Healthcare and Hospital',)]",
+                [
+                    "Fetch the field 'industry' of the entity named 'Vista Healthcare Solutions'.",
+                    "Find the industry type related to 'Vista Healthcare Solutions'.",
+                    "Check the industry category corresponding to 'Vista Healthcare Solutions'."
+                ]
+            ]
+        ]
+    ],
+    "Employee": [
+        [
+            [
+                "[('Chief Executive Officer (CEO)',)]",
+                [
+                    "\"Find the job title of the employee named 'Dr. Helena Quantum'.\"",
+                    "\"Retrieve the position or job title for 'Dr. Helena Quantum'.\"",
+                    "\"Search for the job title associated with the employee named 'Dr. Helena Quantum'.\""
+                ]
+            ],
+            [
+                "[('Architectural Liaison Engineer',)]",
+                [
+                    "\"Find the job title of the employee named 'Frank Lloyd Wright'.\"",
+                    "\"Retrieve the position or job title for 'Frank Lloyd Wright'.\"",
+                    "\"Search for the job title associated with the employee named 'Frank Lloyd Wright'.\""
+                ]
+            ],
+            [
+                "[('Lead Structural Engineer',)]",
+                [
+                    "\"Find the job title of the employee named 'Gustave Eiffel'.\"",
+                    "\"Retrieve the position or job title for 'Gustave Eiffel'.\"",
+                    "\"Search for the job title associated with the employee named 'Gustave Eiffel'.\""
+                ]
+            ],
+            [
+                "[('BIM (Building Information Modeling) Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Henrietta Leavitt'.\"",
+                    "\"Retrieve the position or job title for 'Henrietta Leavitt'.\"",
+                    "\"Search for the job title associated with the employee named 'Henrietta Leavitt'.\""
+                ]
+            ],
+            [
+                "[('Project Director',)]",
+                [
+                    "\"Find the job title of the employee named 'Leonardo Da Vinci'.\"",
+                    "\"Retrieve the position or job title for 'Leonardo Da Vinci'.\"",
+                    "\"Search for the job title associated with the employee named 'Leonardo Da Vinci'.\""
+                ]
+            ],
+            [
+                "[('Project Director',)]",
+                [
+                    "\"Find the job title of the employee named 'Marie Curie'.\"",
+                    "\"Retrieve the position or job title for 'Marie Curie'.\"",
+                    "\"Search for the job title associated with the employee named 'Marie Curie'.\""
+                ]
+            ],
+            [
+                "[('Assistant Project Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Isaac Newton'.\"",
+                    "\"Retrieve the position or job title for 'Isaac Newton'.\"",
+                    "\"Search for the job title associated with the employee named 'Isaac Newton'.\""
+                ]
+            ],
+            [
+                "[('Chief Operating Officer (COO)',)]",
+                [
+                    "\"Find the job title of the employee named 'Marcus Aurelius'.\"",
+                    "\"Retrieve the position or job title for 'Marcus Aurelius'.\"",
+                    "\"Search for the job title associated with the employee named 'Marcus Aurelius'.\""
+                ]
+            ],
+            [
+                "[('Chief Technical Officer (CTO)',)]",
+                [
+                    "\"Find the job title of the employee named 'Nikola Tesla'.\"",
+                    "\"Retrieve the position or job title for 'Nikola Tesla'.\"",
+                    "\"Search for the job title associated with the employee named 'Nikola Tesla'.\""
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "\"Find the job title of the employee named 'Mae Jemison'.\"",
+                    "\"Retrieve the position or job title for 'Mae Jemison'.\"",
+                    "\"Search for the job title associated with the employee named 'Mae Jemison'.\""
+                ]
+            ],
+            [
+                "[('Assistant Project Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Galileo Galilei'.\"",
+                    "\"Retrieve the position or job title for 'Galileo Galilei'.\"",
+                    "\"Search for the job title associated with the employee named 'Galileo Galilei'.\""
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "\"Find the job title of the employee named 'Rosalind Franklin'.\"",
+                    "\"Retrieve the position or job title for 'Rosalind Franklin'.\"",
+                    "\"Search for the job title associated with the employee named 'Rosalind Franklin'.\""
+                ]
+            ],
+            [
+                "[('Project Coordinator',)]",
+                [
+                    "\"Find the job title of the employee named 'Chien-Shiung Wu'.\"",
+                    "\"Retrieve the position or job title for 'Chien-Shiung Wu'.\"",
+                    "\"Search for the job title associated with the employee named 'Chien-Shiung Wu'.\""
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Alan Turing'.\"",
+                    "\"Retrieve the position or job title for 'Alan Turing'.\"",
+                    "\"Search for the job title associated with the employee named 'Alan Turing'.\""
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Grace Hopper'.\"",
+                    "\"Retrieve the position or job title for 'Grace Hopper'.\"",
+                    "\"Search for the job title associated with the employee named 'Grace Hopper'.\""
+                ]
+            ],
+            [
+                "[('Marketing and Communications Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Don Draper'.\"",
+                    "\"Retrieve the position or job title for 'Don Draper'.\"",
+                    "\"Search for the job title associated with the employee named 'Don Draper'.\""
+                ]
+            ],
+            [
+                "[('Director of Sustainability',)]",
+                [
+                    "\"Find the job title of the employee named 'Rachel Carson'.\"",
+                    "\"Retrieve the position or job title for 'Rachel Carson'.\"",
+                    "\"Search for the job title associated with the employee named 'Rachel Carson'.\""
+                ]
+            ],
+            [
+                "[('Human Resources Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Sheryl Sandberg'.\"",
+                    "\"Retrieve the position or job title for 'Sheryl Sandberg'.\"",
+                    "\"Search for the job title associated with the employee named 'Sheryl Sandberg'.\""
+                ]
+            ],
+            [
+                "[('Finance Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Warren Buffett'.\"",
+                    "\"Retrieve the position or job title for 'Warren Buffett'.\"",
+                    "\"Search for the job title associated with the employee named 'Warren Buffett'.\""
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'George Washington Carver'.\"",
+                    "\"Retrieve the position or job title for 'George Washington Carver'.\"",
+                    "\"Search for the job title associated with the employee named 'George Washington Carver'.\""
+                ]
+            ],
+            [
+                "[('Project Manager',)]",
+                [
+                    "\"Find the job title of the employee named 'Hedy Lamarr'.\"",
+                    "\"Retrieve the position or job title for 'Hedy Lamarr'.\"",
+                    "\"Search for the job title associated with the employee named 'Hedy Lamarr'.\""
+                ]
+            ],
+            [
+                "[('Director of Engineering',)]",
+                [
+                    "\"Find the job title of the employee named 'Ada Lovelace'.\"",
+                    "\"Retrieve the position or job title for 'Ada Lovelace'.\"",
+                    "\"Search for the job title associated with the employee named 'Ada Lovelace'.\""
+                ]
+            ],
+            [
+                "[('IT Support Specialist',)]",
+                [
+                    "\"Find the job title of the employee named 'Ada Lovelace (IT)'.\"",
+                    "\"Retrieve the position or job title for 'Ada Lovelace (IT)'.\"",
+                    "\"Search for the job title associated with the employee named 'Ada Lovelace (IT)'.\""
+                ]
+            ],
+            [
+                "[('Structural Health Monitoring Engineer',)]",
+                [
+                    "\"Find the job title of the employee named 'Alexander Graham Bell'.\"",
+                    "\"Retrieve the position or job title for 'Alexander Graham Bell'.\"",
+                    "\"Search for the job title associated with the employee named 'Alexander Graham Bell'.\""
+                ]
+            ],
+            [
+                "[('Design Engineer',)]",
+                [
+                    "\"Find the job title of the employee named 'Leonardo Vinci'.\"",
+                    "\"Retrieve the position or job title for 'Leonardo Vinci'.\"",
+                    "\"Search for the job title associated with the employee named 'Leonardo Vinci'.\""
+                ]
+            ],
+            [
+                "[('IT Support Specialist',)]",
+                [
+                    "\"Find the job title of the employee named 'Linus Torvalds'.\"",
+                    "\"Retrieve the position or job title for 'Linus Torvalds'.\"",
+                    "\"Search for the job title associated with the employee named 'Linus Torvalds'.\""
+                ]
+            ],
+            [
+                "[('Design Engineer',)]",
+                [
+                    "\"Find the job title of the employee named 'Steve Jobs'.\"",
+                    "\"Retrieve the position or job title for 'Steve Jobs'.\"",
+                    "\"Search for the job title associated with the employee named 'Steve Jobs'.\""
+                ]
+            ],
+            [
+                "[('Sustainability Consultant',)]",
+                [
+                    "\"Find the job title of the employee named 'Greta Thunberg'.\"",
+                    "\"Retrieve the position or job title for 'Greta Thunberg'.\"",
+                    "\"Search for the job title associated with the employee named 'Greta Thunberg'.\""
+                ]
+            ],
+            [
+                "[('Sustainability Consultant',)]",
+                [
+                    "\"Find the job title of the employee named 'John Muir'.\"",
+                    "\"Retrieve the position or job title for 'John Muir'.\"",
+                    "\"Search for the job title associated with the employee named 'John Muir'.\""
+                ]
+            ]
+        ],
+        [
+            [
+                "[('Executive Management',)]",
+                [
+                    "Obtain the department of 'Dr. Helena Quantum'.",
+                    "Fetch the department where the employee's name is 'Dr. Helena Quantum'.",
+                    "Get the department associated with 'Dr. Helena Quantum'."
+                ]
+            ],
+            [
+                "[('Architectural Integration',)]",
+                [
+                    "Obtain the department of 'Frank Lloyd Wright'.",
+                    "Fetch the department where the employee's name is 'Frank Lloyd Wright'.",
+                    "Get the department associated with 'Frank Lloyd Wright'."
+                ]
+            ],
+            [
+                "[('Structural Engineering',)]",
+                [
+                    "Obtain the department of 'Gustave Eiffel'.",
+                    "Fetch the department where the employee's name is 'Gustave Eiffel'.",
+                    "Get the department associated with 'Gustave Eiffel'."
+                ]
+            ],
+            [
+                "[('Digital Construction Management',)]",
+                [
+                    "Obtain the department of 'Henrietta Leavitt'.",
+                    "Fetch the department where the employee's name is 'Henrietta Leavitt'.",
+                    "Get the department associated with 'Henrietta Leavitt'."
+                ]
+            ],
+            [
+                "[('Special Projects',)]",
+                [
+                    "Obtain the department of 'Leonardo Da Vinci'.",
+                    "Fetch the department where the employee's name is 'Leonardo Da Vinci'.",
+                    "Get the department associated with 'Leonardo Da Vinci'."
+                ]
+            ],
+            [
+                "[('Research and Development Projects',)]",
+                [
+                    "Obtain the department of 'Marie Curie'.",
+                    "Fetch the department where the employee's name is 'Marie Curie'.",
+                    "Get the department associated with 'Marie Curie'."
+                ]
+            ],
+            [
+                "[('Physics Applications in Structural Design',)]",
+                [
+                    "Obtain the department of 'Isaac Newton'.",
+                    "Fetch the department where the employee's name is 'Isaac Newton'.",
+                    "Get the department associated with 'Isaac Newton'."
+                ]
+            ],
+            [
+                "[('Operations',)]",
+                [
+                    "Obtain the department of 'Marcus Aurelius'.",
+                    "Fetch the department where the employee's name is 'Marcus Aurelius'.",
+                    "Get the department associated with 'Marcus Aurelius'."
+                ]
+            ],
+            [
+                "[('Technology and Innovation',)]",
+                [
+                    "Obtain the department of 'Nikola Tesla'.",
+                    "Fetch the department where the employee's name is 'Nikola Tesla'.",
+                    "Get the department associated with 'Nikola Tesla'."
+                ]
+            ],
+            [
+                "[('Space Utilization and Design',)]",
+                [
+                    "Obtain the department of 'Mae Jemison'.",
+                    "Fetch the department where the employee's name is 'Mae Jemison'.",
+                    "Get the department associated with 'Mae Jemison'."
+                ]
+            ],
+            [
+                "[('Observational Technologies for Construction',)]",
+                [
+                    "Obtain the department of 'Galileo Galilei'.",
+                    "Fetch the department where the employee's name is 'Galileo Galilei'.",
+                    "Get the department associated with 'Galileo Galilei'."
+                ]
+            ],
+            [
+                "[('Engineering Documentation and Compliance',)]",
+                [
+                    "Obtain the department of 'Rosalind Franklin'.",
+                    "Fetch the department where the employee's name is 'Rosalind Franklin'.",
+                    "Get the department associated with 'Rosalind Franklin'."
+                ]
+            ],
+            [
+                "[('Quantum Mechanics in Structural Engineering',)]",
+                [
+                    "Obtain the department of 'Chien-Shiung Wu'.",
+                    "Fetch the department where the employee's name is 'Chien-Shiung Wu'.",
+                    "Get the department associated with 'Chien-Shiung Wu'."
+                ]
+            ],
+            [
+                "[('Technology Integration Projects',)]",
+                [
+                    "Obtain the department of 'Alan Turing'.",
+                    "Fetch the department where the employee's name is 'Alan Turing'.",
+                    "Get the department associated with 'Alan Turing'."
+                ]
+            ],
+            [
+                "[('Software Development for Engineering Tools',)]",
+                [
+                    "Obtain the department of 'Grace Hopper'.",
+                    "Fetch the department where the employee's name is 'Grace Hopper'.",
+                    "Get the department associated with 'Grace Hopper'."
+                ]
+            ],
+            [
+                "[('Marketing and Public Relations',)]",
+                [
+                    "Obtain the department of 'Don Draper'.",
+                    "Fetch the department where the employee's name is 'Don Draper'.",
+                    "Get the department associated with 'Don Draper'."
+                ]
+            ],
+            [
+                "[('Sustainability Initiatives',)]",
+                [
+                    "Obtain the department of 'Rachel Carson'.",
+                    "Fetch the department where the employee's name is 'Rachel Carson'.",
+                    "Get the department associated with 'Rachel Carson'."
+                ]
+            ],
+            [
+                "[('Human Resources',)]",
+                [
+                    "Obtain the department of 'Sheryl Sandberg'.",
+                    "Fetch the department where the employee's name is 'Sheryl Sandberg'.",
+                    "Get the department associated with 'Sheryl Sandberg'."
+                ]
+            ],
+            [
+                "[('Finance',)]",
+                [
+                    "Obtain the department of 'Warren Buffett'.",
+                    "Fetch the department where the employee's name is 'Warren Buffett'.",
+                    "Get the department associated with 'Warren Buffett'."
+                ]
+            ],
+            [
+                "[('Sustainable Materials Research',)]",
+                [
+                    "Obtain the department of 'George Washington Carver'.",
+                    "Fetch the department where the employee's name is 'George Washington Carver'.",
+                    "Get the department associated with 'George Washington Carver'."
+                ]
+            ],
+            [
+                "[('Communication Systems Projects',)]",
+                [
+                    "Obtain the department of 'Hedy Lamarr'.",
+                    "Fetch the department where the employee's name is 'Hedy Lamarr'.",
+                    "Get the department associated with 'Hedy Lamarr'."
+                ]
+            ],
+            [
+                "[('Engineering',)]",
+                [
+                    "Obtain the department of 'Ada Lovelace'.",
+                    "Fetch the department where the employee's name is 'Ada Lovelace'.",
+                    "Get the department associated with 'Ada Lovelace'."
+                ]
+            ],
+            [
+                "[('Information Technology',)]",
+                [
+                    "Obtain the department of 'Ada Lovelace (IT)'.",
+                    "Fetch the department where the employee's name is 'Ada Lovelace (IT)'.",
+                    "Get the department associated with 'Ada Lovelace (IT)'."
+                ]
+            ],
+            [
+                "[('Structural Integrity Assessment',)]",
+                [
+                    "Obtain the department of 'Alexander Graham Bell'.",
+                    "Fetch the department where the employee's name is 'Alexander Graham Bell'.",
+                    "Get the department associated with 'Alexander Graham Bell'."
+                ]
+            ],
+            [
+                "[('Conceptual Design and Visualization',)]",
+                [
+                    "Obtain the department of 'Leonardo Vinci'.",
+                    "Fetch the department where the employee's name is 'Leonardo Vinci'.",
+                    "Get the department associated with 'Leonardo Vinci'."
+                ]
+            ],
+            [
+                "[('Information Technology',)]",
+                [
+                    "Obtain the department of 'Linus Torvalds'.",
+                    "Fetch the department where the employee's name is 'Linus Torvalds'.",
+                    "Get the department associated with 'Linus Torvalds'."
+                ]
+            ],
+            [
+                "[('User Interface Design for Engineering Software',)]",
+                [
+                    "Obtain the department of 'Steve Jobs'.",
+                    "Fetch the department where the employee's name is 'Steve Jobs'.",
+                    "Get the department associated with 'Steve Jobs'."
+                ]
+            ],
+            [
+                "[('Climate Change Adaptation Strategies',)]",
+                [
+                    "Obtain the department of 'Greta Thunberg'.",
+                    "Fetch the department where the employee's name is 'Greta Thunberg'.",
+                    "Get the department associated with 'Greta Thunberg'."
+                ]
+            ],
+            [
+                "[('Environmental Impact Analysis',)]",
+                [
+                    "Obtain the department of 'John Muir'.",
+                    "Fetch the department where the employee's name is 'John Muir'.",
+                    "Get the department associated with 'John Muir'."
+                ]
+            ]
+        ],
+        [
+            [
+                "[(None,)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Dr. Helena Quantum'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Dr. Helena Quantum'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Dr. Helena Quantum'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Frank Lloyd Wright'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Frank Lloyd Wright'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Frank Lloyd Wright'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Gustave Eiffel'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Gustave Eiffel'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Gustave Eiffel'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Henrietta Leavitt'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Henrietta Leavitt'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Henrietta Leavitt'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Leonardo Da Vinci'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Leonardo Da Vinci'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Leonardo Da Vinci'."
+                ]
+            ],
+            [
+                "[('Ada Lovelace',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Marie Curie'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Marie Curie'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Marie Curie'."
+                ]
+            ],
+            [
+                "[('Alan Turing',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Isaac Newton'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Isaac Newton'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Isaac Newton'."
+                ]
+            ],
+            [
+                "[('Dr. Helena Quantum',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Marcus Aurelius'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Marcus Aurelius'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Marcus Aurelius'."
+                ]
+            ],
+            [
+                "[('Dr. Helena Quantum',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Nikola Tesla'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Nikola Tesla'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Nikola Tesla'."
+                ]
+            ],
+            [
+                "[('George Washington Carver',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Mae Jemison'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Mae Jemison'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Mae Jemison'."
+                ]
+            ],
+            [
+                "[('Grace Hopper',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Galileo Galilei'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Galileo Galilei'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Galileo Galilei'."
+                ]
+            ],
+            [
+                "[('Hedy Lamarr',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Rosalind Franklin'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Rosalind Franklin'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Rosalind Franklin'."
+                ]
+            ],
+            [
+                "[('Isaac Newton',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Chien-Shiung Wu'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Chien-Shiung Wu'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Chien-Shiung Wu'."
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Alan Turing'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Alan Turing'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Alan Turing'."
+                ]
+            ],
+            [
+                "[('Leonardo Da Vinci',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Grace Hopper'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Grace Hopper'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Grace Hopper'."
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Don Draper'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Don Draper'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Don Draper'."
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Rachel Carson'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Rachel Carson'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Rachel Carson'."
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Sheryl Sandberg'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Sheryl Sandberg'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Sheryl Sandberg'."
+                ]
+            ],
+            [
+                "[('Marcus Aurelius',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Warren Buffett'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Warren Buffett'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Warren Buffett'."
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'George Washington Carver'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'George Washington Carver'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'George Washington Carver'."
+                ]
+            ],
+            [
+                "[('Marie Curie',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Hedy Lamarr'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Hedy Lamarr'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Hedy Lamarr'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Ada Lovelace'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Ada Lovelace'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Ada Lovelace'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Ada Lovelace (IT)'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Ada Lovelace (IT)'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Ada Lovelace (IT)'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Alexander Graham Bell'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Alexander Graham Bell'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Alexander Graham Bell'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Leonardo Vinci'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Leonardo Vinci'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Leonardo Vinci'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Linus Torvalds'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Linus Torvalds'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Linus Torvalds'."
+                ]
+            ],
+            [
+                "[('Nikola Tesla',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Steve Jobs'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Steve Jobs'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Steve Jobs'."
+                ]
+            ],
+            [
+                "[('Rachel Carson',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'Greta Thunberg'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'Greta Thunberg'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'Greta Thunberg'."
+                ]
+            ],
+            [
+                "[('Rachel Carson',)]",
+                [
+                    "Get the supervisor or manager for the employee named 'John Muir'.",
+                    "Find out who is the supervisor or manager of an employee with the name 'John Muir'.",
+                    "Retrieve the supervisor or manager associated with the employee named 'John Muir'."
+                ]
+            ]
+        ]
     ]
 }
