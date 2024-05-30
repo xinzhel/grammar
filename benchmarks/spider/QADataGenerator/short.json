@@ -1,0 +1,468 @@
+[
+    [
+        [
+            "[('Oil and gas',)]",
+            [
+                "Retrieve the industry type of the company named 'ExxonMobil'.",
+                "Fetch the industry associated with the company 'ExxonMobil'.",
+                "Obtain the industry for the company labelled as 'ExxonMobil'."
+            ]
+        ],
+        [
+            "[('Banking',)]",
+            [
+                "Retrieve the industry type of the company named 'JPMorgan Chase'.",
+                "Fetch the industry associated with the company 'JPMorgan Chase'.",
+                "Obtain the industry for the company labelled as 'JPMorgan Chase'."
+            ]
+        ],
+        [
+            "[('Conglomerate',)]",
+            [
+                "Retrieve the industry type of the company named 'General Electric'.",
+                "Fetch the industry associated with the company 'General Electric'.",
+                "Obtain the industry for the company labelled as 'General Electric'."
+            ]
+        ],
+        [
+            "[('Oil and gas',)]",
+            [
+                "Retrieve the industry type of the company named 'Royal Dutch Shell'.",
+                "Fetch the industry associated with the company 'Royal Dutch Shell'.",
+                "Obtain the industry for the company labelled as 'Royal Dutch Shell'."
+            ]
+        ],
+        [
+            "[('Banking',)]",
+            [
+                "Retrieve the industry type of the company named 'Industrial and Commercial Bank of China'.",
+                "Fetch the industry associated with the company 'Industrial and Commercial Bank of China'.",
+                "Obtain the industry for the company labelled as 'Industrial and Commercial Bank of China'."
+            ]
+        ],
+        [
+            "[('Banking',)]",
+            [
+                "Retrieve the industry type of the company named 'HSBC'.",
+                "Fetch the industry associated with the company 'HSBC'.",
+                "Obtain the industry for the company labelled as 'HSBC'."
+            ]
+        ],
+        [
+            "[('Oil and gas',)]",
+            [
+                "Retrieve the industry type of the company named 'PetroChina'.",
+                "Fetch the industry associated with the company 'PetroChina'.",
+                "Obtain the industry for the company labelled as 'PetroChina'."
+            ]
+        ],
+        [
+            "[('Conglomerate',)]",
+            [
+                "Retrieve the industry type of the company named 'Berkshire Hathaway'.",
+                "Fetch the industry associated with the company 'Berkshire Hathaway'.",
+                "Obtain the industry for the company labelled as 'Berkshire Hathaway'."
+            ]
+        ],
+        [
+            "[('Banking',)]",
+            [
+                "Retrieve the industry type of the company named 'Wells Fargo'.",
+                "Fetch the industry associated with the company 'Wells Fargo'.",
+                "Obtain the industry for the company labelled as 'Wells Fargo'."
+            ]
+        ],
+        [
+            "[('Oil and gas',)]",
+            [
+                "Retrieve the industry type of the company named 'Petrobras'.",
+                "Fetch the industry associated with the company 'Petrobras'.",
+                "Obtain the industry for the company labelled as 'Petrobras'."
+            ]
+        ],
+        [
+            "[('Oil and gas',)]",
+            [
+                "Retrieve the industry type of the company named 'BP'.",
+                "Fetch the industry associated with the company 'BP'.",
+                "Obtain the industry for the company labelled as 'BP'."
+            ]
+        ],
+        [
+            "[('Oil and gas',)]",
+            [
+                "Retrieve the industry type of the company named 'Chevron'.",
+                "Fetch the industry associated with the company 'Chevron'.",
+                "Obtain the industry for the company labelled as 'Chevron'."
+            ]
+        ],
+        [
+            "[('Banking',)]",
+            [
+                "Retrieve the industry type of the company named 'China Construction Bank'.",
+                "Fetch the industry associated with the company 'China Construction Bank'.",
+                "Obtain the industry for the company labelled as 'China Construction Bank'."
+            ]
+        ],
+        [
+            "[('Banking',)]",
+            [
+                "Retrieve the industry type of the company named 'Citigroup'.",
+                "Fetch the industry associated with the company 'Citigroup'.",
+                "Obtain the industry for the company labelled as 'Citigroup'."
+            ]
+        ],
+        [
+            "[('Oil and gas',)]",
+            [
+                "Retrieve the industry type of the company named 'Gazprom'.",
+                "Fetch the industry associated with the company 'Gazprom'.",
+                "Obtain the industry for the company labelled as 'Gazprom'."
+            ]
+        ],
+        [
+            "[('Retailing',)]",
+            [
+                "Retrieve the industry type of the company named 'Walmart'.",
+                "Fetch the industry associated with the company 'Walmart'.",
+                "Obtain the industry for the company labelled as 'Walmart'."
+            ]
+        ],
+        [
+            "[('Automotive',)]",
+            [
+                "Retrieve the industry type of the company named 'Volkswagen Group'.",
+                "Fetch the industry associated with the company 'Volkswagen Group'.",
+                "Obtain the industry for the company labelled as 'Volkswagen Group'."
+            ]
+        ],
+        [
+            "[('Oil and gas',)]",
+            [
+                "Retrieve the industry type of the company named 'Total'.",
+                "Fetch the industry associated with the company 'Total'.",
+                "Obtain the industry for the company labelled as 'Total'."
+            ]
+        ],
+        [
+            "[('Banking',)]",
+            [
+                "Retrieve the industry type of the company named 'Agricultural Bank of China'.",
+                "Fetch the industry associated with the company 'Agricultural Bank of China'.",
+                "Obtain the industry for the company labelled as 'Agricultural Bank of China'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('USA',)]",
+            [
+                "Find the headquarters of the company named 'ExxonMobil'.",
+                "Search for the location of the headquarters for the company called 'ExxonMobil'.",
+                "Lookup where the headquarters for 'ExxonMobil' company is located."
+            ]
+        ],
+        [
+            "[('USA',)]",
+            [
+                "Find the headquarters of the company named 'JPMorgan Chase'.",
+                "Search for the location of the headquarters for the company called 'JPMorgan Chase'.",
+                "Lookup where the headquarters for 'JPMorgan Chase' company is located."
+            ]
+        ],
+        [
+            "[('USA',)]",
+            [
+                "Find the headquarters of the company named 'General Electric'.",
+                "Search for the location of the headquarters for the company called 'General Electric'.",
+                "Lookup where the headquarters for 'General Electric' company is located."
+            ]
+        ],
+        [
+            "[('Netherlands',)]",
+            [
+                "Find the headquarters of the company named 'Royal Dutch Shell'.",
+                "Search for the location of the headquarters for the company called 'Royal Dutch Shell'.",
+                "Lookup where the headquarters for 'Royal Dutch Shell' company is located."
+            ]
+        ],
+        [
+            "[('China',)]",
+            [
+                "Find the headquarters of the company named 'Industrial and Commercial Bank of China'.",
+                "Search for the location of the headquarters for the company called 'Industrial and Commercial Bank of China'.",
+                "Lookup where the headquarters for 'Industrial and Commercial Bank of China' company is located."
+            ]
+        ],
+        [
+            "[('UK',)]",
+            [
+                "Find the headquarters of the company named 'HSBC'.",
+                "Search for the location of the headquarters for the company called 'HSBC'.",
+                "Lookup where the headquarters for 'HSBC' company is located."
+            ]
+        ],
+        [
+            "[('China',)]",
+            [
+                "Find the headquarters of the company named 'PetroChina'.",
+                "Search for the location of the headquarters for the company called 'PetroChina'.",
+                "Lookup where the headquarters for 'PetroChina' company is located."
+            ]
+        ],
+        [
+            "[('USA',)]",
+            [
+                "Find the headquarters of the company named 'Berkshire Hathaway'.",
+                "Search for the location of the headquarters for the company called 'Berkshire Hathaway'.",
+                "Lookup where the headquarters for 'Berkshire Hathaway' company is located."
+            ]
+        ],
+        [
+            "[('USA',)]",
+            [
+                "Find the headquarters of the company named 'Wells Fargo'.",
+                "Search for the location of the headquarters for the company called 'Wells Fargo'.",
+                "Lookup where the headquarters for 'Wells Fargo' company is located."
+            ]
+        ],
+        [
+            "[('Brazil',)]",
+            [
+                "Find the headquarters of the company named 'Petrobras'.",
+                "Search for the location of the headquarters for the company called 'Petrobras'.",
+                "Lookup where the headquarters for 'Petrobras' company is located."
+            ]
+        ],
+        [
+            "[('UK',)]",
+            [
+                "Find the headquarters of the company named 'BP'.",
+                "Search for the location of the headquarters for the company called 'BP'.",
+                "Lookup where the headquarters for 'BP' company is located."
+            ]
+        ],
+        [
+            "[('USA',)]",
+            [
+                "Find the headquarters of the company named 'Chevron'.",
+                "Search for the location of the headquarters for the company called 'Chevron'.",
+                "Lookup where the headquarters for 'Chevron' company is located."
+            ]
+        ],
+        [
+            "[('China',)]",
+            [
+                "Find the headquarters of the company named 'China Construction Bank'.",
+                "Search for the location of the headquarters for the company called 'China Construction Bank'.",
+                "Lookup where the headquarters for 'China Construction Bank' company is located."
+            ]
+        ],
+        [
+            "[('USA',)]",
+            [
+                "Find the headquarters of the company named 'Citigroup'.",
+                "Search for the location of the headquarters for the company called 'Citigroup'.",
+                "Lookup where the headquarters for 'Citigroup' company is located."
+            ]
+        ],
+        [
+            "[('Russia',)]",
+            [
+                "Find the headquarters of the company named 'Gazprom'.",
+                "Search for the location of the headquarters for the company called 'Gazprom'.",
+                "Lookup where the headquarters for 'Gazprom' company is located."
+            ]
+        ],
+        [
+            "[('USA',)]",
+            [
+                "Find the headquarters of the company named 'Walmart'.",
+                "Search for the location of the headquarters for the company called 'Walmart'.",
+                "Lookup where the headquarters for 'Walmart' company is located."
+            ]
+        ],
+        [
+            "[('Germany',)]",
+            [
+                "Find the headquarters of the company named 'Volkswagen Group'.",
+                "Search for the location of the headquarters for the company called 'Volkswagen Group'.",
+                "Lookup where the headquarters for 'Volkswagen Group' company is located."
+            ]
+        ],
+        [
+            "[('France',)]",
+            [
+                "Find the headquarters of the company named 'Total'.",
+                "Search for the location of the headquarters for the company called 'Total'.",
+                "Lookup where the headquarters for 'Total' company is located."
+            ]
+        ],
+        [
+            "[('China',)]",
+            [
+                "Find the headquarters of the company named 'Agricultural Bank of China'.",
+                "Search for the location of the headquarters for the company called 'Agricultural Bank of China'.",
+                "Lookup where the headquarters for 'Agricultural Bank of China' company is located."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('United States',)]",
+            [
+                "Get the nationality of the person named 'Reggie Lewis'.",
+                "Retrieve the nationality of person with name 'Reggie Lewis'.",
+                "Identify the nationality for the individual named 'Reggie Lewis'."
+            ]
+        ],
+        [
+            "[('United States',)]",
+            [
+                "Get the nationality of the person named 'Brad Lohaus'.",
+                "Retrieve the nationality of person with name 'Brad Lohaus'.",
+                "Identify the nationality for the individual named 'Brad Lohaus'."
+            ]
+        ],
+        [
+            "[('United Kindom',)]",
+            [
+                "Get the nationality of the person named 'Tom Sheehey'.",
+                "Retrieve the nationality of person with name 'Tom Sheehey'.",
+                "Identify the nationality for the individual named 'Tom Sheehey'."
+            ]
+        ],
+        [
+            "[('United States',)]",
+            [
+                "Get the nationality of the person named 'Darryl Kennedy'.",
+                "Retrieve the nationality of person with name 'Darryl Kennedy'.",
+                "Identify the nationality for the individual named 'Darryl Kennedy'."
+            ]
+        ],
+        [
+            "[('United Kindom',)]",
+            [
+                "Get the nationality of the person named 'David Butler'.",
+                "Retrieve the nationality of person with name 'David Butler'.",
+                "Identify the nationality for the individual named 'David Butler'."
+            ]
+        ],
+        [
+            "[('United States',)]",
+            [
+                "Get the nationality of the person named 'Tim Naegeli'.",
+                "Retrieve the nationality of person with name 'Tim Naegeli'.",
+                "Identify the nationality for the individual named 'Tim Naegeli'."
+            ]
+        ],
+        [
+            "[('United States',)]",
+            [
+                "Get the nationality of the person named 'Jerry Corcoran'.",
+                "Retrieve the nationality of person with name 'Jerry Corcoran'.",
+                "Identify the nationality for the individual named 'Jerry Corcoran'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Northeastern',)]",
+            [
+                "Find the graduation college for a person with the name 'Reggie Lewis'.",
+                "Looking up the college where the person named 'Reggie Lewis' graduated from.",
+                "Obtain the name of the graduation college for 'Reggie Lewis'."
+            ]
+        ],
+        [
+            "[('Iowa',)]",
+            [
+                "Find the graduation college for a person with the name 'Brad Lohaus'.",
+                "Looking up the college where the person named 'Brad Lohaus' graduated from.",
+                "Obtain the name of the graduation college for 'Brad Lohaus'."
+            ]
+        ],
+        [
+            "[('Virginia',)]",
+            [
+                "Find the graduation college for a person with the name 'Tom Sheehey'.",
+                "Looking up the college where the person named 'Tom Sheehey' graduated from.",
+                "Obtain the name of the graduation college for 'Tom Sheehey'."
+            ]
+        ],
+        [
+            "[('Oklahoma',)]",
+            [
+                "Find the graduation college for a person with the name 'Darryl Kennedy'.",
+                "Looking up the college where the person named 'Darryl Kennedy' graduated from.",
+                "Obtain the name of the graduation college for 'Darryl Kennedy'."
+            ]
+        ],
+        [
+            "[('California',)]",
+            [
+                "Find the graduation college for a person with the name 'David Butler'.",
+                "Looking up the college where the person named 'David Butler' graduated from.",
+                "Obtain the name of the graduation college for 'David Butler'."
+            ]
+        ],
+        [
+            "[('Wisconsin\u2013Stevens Point',)]",
+            [
+                "Find the graduation college for a person with the name 'Tim Naegeli'.",
+                "Looking up the college where the person named 'Tim Naegeli' graduated from.",
+                "Obtain the name of the graduation college for 'Tim Naegeli'."
+            ]
+        ],
+        [
+            "[('Northeastern',)]",
+            [
+                "Find the graduation college for a person with the name 'Jerry Corcoran'.",
+                "Looking up the college where the person named 'Jerry Corcoran' graduated from.",
+                "Obtain the name of the graduation college for 'Jerry Corcoran'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[(1,)]",
+            [
+                "Find the number of years 'Darryl Kennedy' has been working at 'PetroChina'.",
+                "Retrieve the working duration of 'Darryl Kennedy' in the company named 'PetroChina'.",
+                "Obtain how long 'Darryl Kennedy' has been employed at 'PetroChina'."
+            ]
+        ],
+        [
+            "[(2,)]",
+            [
+                "Find the number of years 'Tom Sheehey' has been working at 'BP'.",
+                "Retrieve the working duration of 'Tom Sheehey' in the company named 'BP'.",
+                "Obtain how long 'Tom Sheehey' has been employed at 'BP'."
+            ]
+        ],
+        [
+            "[(3,)]",
+            [
+                "Find the number of years 'Brad Lohaus' has been working at 'China Construction Bank'.",
+                "Retrieve the working duration of 'Brad Lohaus' in the company named 'China Construction Bank'.",
+                "Obtain how long 'Brad Lohaus' has been employed at 'China Construction Bank'."
+            ]
+        ],
+        [
+            "[(1,)]",
+            [
+                "Find the number of years 'Reggie Lewis' has been working at 'Gazprom'.",
+                "Retrieve the working duration of 'Reggie Lewis' in the company named 'Gazprom'.",
+                "Obtain how long 'Reggie Lewis' has been employed at 'Gazprom'."
+            ]
+        ],
+        [
+            "[(4,)]",
+            [
+                "Find the number of years 'Jerry Corcoran' has been working at 'Volkswagen Group'.",
+                "Retrieve the working duration of 'Jerry Corcoran' in the company named 'Volkswagen Group'.",
+                "Obtain how long 'Jerry Corcoran' has been employed at 'Volkswagen Group'."
+            ]
+        ]
+    ]
+]

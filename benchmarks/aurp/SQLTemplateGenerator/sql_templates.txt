@@ -1,0 +1,10 @@
+SELECT Location FROM Client WHERE Name = '[Client.Name]';
+SELECT Industry FROM Client WHERE Name = '[Client.Name]';
+SELECT JobTitle FROM Employee WHERE Name = '[Employee.Name]';
+SELECT Department FROM Employee WHERE Name = '[Employee.Name]';
+SELECT SupervisorOrManager FROM Employee WHERE Name = '[Employee.Name]';
+SELECT StartDate FROM Project WHERE Name = '[Project.Name]';
+SELECT EndDate FROM Project WHERE Name = '[Project.Name]';
+SELECT Client FROM Project WHERE Name = '[Project.Name]';
+SELECT ProjectDirector FROM Project WHERE Name = '[Project.Name]';
+SELECT ProjectManager FROM Project WHERE Name = '[Project.Name]';

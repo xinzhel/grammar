@@ -1,2 +1,5 @@
 .vscode/
 __pycache__/
+eval_data/spider/
+benchmarks/spider/spider-database/download/
+
