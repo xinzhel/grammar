@@ -1,2 +1,4 @@
 langchain
 pymysql
+spacy
+sqlalchemy

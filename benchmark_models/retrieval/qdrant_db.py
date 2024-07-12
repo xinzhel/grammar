@@ -1,6 +1,6 @@
 from typing import Any, Dict, List, Optional
 import requests
-from grammar.retrieval.embed import get_query_embedding
+from .embed import get_query_embedding
 from typing import Any, Dict, List, Optional
 import requests
 import json

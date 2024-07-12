@@ -1,16 +1,21 @@
 # GRAMMAR: GRounded and Modular Methodology for Assessment of Retrieval-Augmented Language Models
-
-
-
 GRAMMAR is structured around two key components:
 1) Grounded Data Generation Method: 
 Grounded Data Generation Method: This approach generates text queries and corresponding answers from an existing knowledge base (relational database) for targeted evaluations. Using SQL as an intermediate representation, it allows for the controlled creation of various text queries with consistent underlying logic.
 2) Modular Evaluation Protocol: This protocol assesses robustness by not only identifying proposed vulnerabilities but also pinpointing which component exhibits robustness issues against these vulnerabilities.
 
-## Generation of Query-Answer Pairs
+## Demo 1: Aurp
+* Step 1: Initiate Grounded Data Generation on Aurp database ([Notebook](benchmarks/aurp/generate_eval_data.ipynb))
+* Step 2: Run Benchmark Models ([Notebook](benchmarks/aurp/generate_response.ipynb))
+* Step 3: Modular Evaluation ([Notebook](benchmarks/aurp/eval.ipynb))
 
+## Demo 2: Spider 
+* Step 1: Initiate Grounded Data Generation on Spider database ([Notebook](benchmarks/aurp/generate_eval_data.ipynb))
+* Step 2: Run Benchmark Models (TBC)
+* Step 3: Modular Evaluation (TBC)
 
-
+## Details of GRAMMAR
+### 1. Grounded Data Generation 
 Following the the steps:
 
 <img src="pics/data_gen_2.0.png" alt="Data Generation Diagram" width="800" >
@@ -41,7 +46,7 @@ gpt4_llm = AnyOpenAILLM(model_name = "gpt4")
 **Step 2: Generate SQL templates**
 
 ```python
-## a. Automatically generate SQL query templates
+## a) Automatically generate SQL query templates
 sql_template_generator = SQLTemplateGenerator(connection_string, llm)
 sql_template_generator.set_system_msg()
 sql_templates = sql_template_generator.generate()
@@ -63,13 +68,25 @@ SELECT People_ID FROM employment WHERE Year_working = '[employment.Year_working]
 To ensure the reliability of the generated SQL templates, you can manually verify and modify them, add new templates, and then reload them for the following steps.
 
 ```python
-# b. Manually modify SQL query templates (optional)
+# b) Manually modify SQL query templates (optional)
 
-# c. Load modified SQL query templatesn (optional)
+
+# c) Load modified SQL query templatesn (optional)
 sql_templates = sql_template_generator.load(root_dir)
 ```
 
-Below is the modified content in the file. The section [Modify SQL Templates](##modify_sql_templates) suggests guidelines for modifying the SQL templates.
+Below are guidelines for **b) manually modify the SQL templates**:
+
+1. **Selecting Attributes That Are Understandable to Humans**
+   The selected and condition columns in the query MUST BE MEANINGFUL and DESCRIPTIVE to ensure the queries are easily understood by non-technical users.
+
+2. **Generating Queries With One Ground-truth Answer**
+   In the evaluation of question-answering (QA) models, a unique challenge arises from the existence of multiple valid answers to a single query, which necessitates a nuanced approach to assessing model performance. 
+   Consider the question: ""Get the name of the client in the digital industry'". For such a question, a set of correct responses could include any combination of names from a predefined list, such as Apple, Amazon, Meta, Facebook\. This multiplicity of correct answers underscores the complexity of evaluating QA models, as it requires the assessment mechanism to recognize and validate the full spectrum of possible correct answers rather than comparing the model's output against a single 'gold standard' answer. Therefore, queries should be generated to ensure one ground-truth answer. Specifically, the evaluation of certain SQL queries, such as ``SELECT Name FROM Company WHERE Industry = '[Company.Industry]';``, requires a complete and thorough listing of multiple answers that can be dynamically changed. To solve the issue, the solution involves adding a specific criterion to the prompt for generating SQL queries. In contrast, the query ``SELECT Industry FROM Company WHERE Name = '[Company.Name]';`` is preferred as it's likely to yield a singular answer about a company's industry based on a specific company name.
+
+
+
+So the output file above can be transformed into:
 
 ```
 SELECT Industry FROM company WHERE Name = '[company.Name]';
@@ -106,14 +123,9 @@ qa_generator.save(all_answers_to_text_queries, root_dir, file_name)
 
 
 
+**Step 5: Re-Run Step 3 and Step 4 to Generate Constrastive Data**
+
+For example, one hypothesis can be that  models are vulnerable to long queries. The only change is to set `linguistic_attr=long` at Step 2.
 
 
-## Guidelines for Modifying SQL Templates
-
-**Selecting Attributes That Are Understandable to Humans**
-The selected and condition columns in the query MUST BE MEANINGFUL and DESCRIPTIVE to ensure the queries are easily understood by non-technical users.
-
-**Generating Queries With One Ground-truth Answer**
-In the evaluation of question-answering (QA) models, a unique challenge arises from the existence of multiple valid answers to a single query, which necessitates a nuanced approach to assessing model performance. 
-
-Consider the question: ""Get the name of the client in the digital industry'". For such a question, a set of correct responses could include any combination of names from a predefined list, such as Apple, Amazon, Meta, Facebook\. This multiplicity of correct answers underscores the complexity of evaluating QA models, as it requires the assessment mechanism to recognize and validate the full spectrum of possible correct answers rather than comparing the model's output against a single 'gold standard' answer. Therefore, queries should be generated to ensure one ground-truth answer. Specifically, the evaluation of certain SQL queries, such as ``SELECT Name FROM Company WHERE Industry = '[Company.Industry]';``, requires a complete and thorough listing of multiple answers that can be dynamically changed. To solve the issue, the solution involves adding a specific criterion to the prompt for generating SQL queries. In contrast, the query ``SELECT Industry FROM Company WHERE Name = '[Company.Name]';`` is preferred as it's likely to yield a singular answer about a company's industry based on a specific company name.
+### 2. Modular Evaluation Protocol

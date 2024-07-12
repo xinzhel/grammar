@@ -2,9 +2,8 @@
 from abc import ABC, abstractmethod
 from typing import Any, Dict, List, Optional, Union
 from pydantic import BaseModel
-from grammar.retrieval.qdrant_db import QdrantEndPoint
-from grammar.retrieval.doc_db import documents
-from grammar.retrieval.tokenizer import SpacyTokenizer
+from .qdrant_db import QdrantEndPoint
+from .tokenizer import SpacyTokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 
@@ -134,7 +133,7 @@ class Qdrant(Retrieval):
 
 ##### Keyword Matching #####
 class KeywordMatching(Retrieval):
-    def __init__(self):
+    def __init__(self, documents):
         """
         Initializes the KeywordMatching model with an index of documents.
         
@@ -142,6 +141,7 @@ class KeywordMatching(Retrieval):
         """
         super().__init__()
         self.tokenizer = SpacyTokenizer()
+        self.documents = documents
         
     def search(self, query, k=None):
         """
@@ -154,7 +154,7 @@ class KeywordMatching(Retrieval):
         query_keywords = set(self.tokenizer.tokenize(query))
         items = []
         
-        for doc_id, doc_text in documents.items():
+        for doc_id, doc_text in self.documents.items():
             doc_words = set(self.tokenizer.tokenize(doc_text))
             match_count = len(query_keywords.intersection(doc_words))
             if match_count > 0:
