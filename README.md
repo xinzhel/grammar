@@ -1,4 +1,4 @@
-# GRAMMAR: GRounded and Modular Methodology for Assessment of Retrieval-Augmented Language Models
+# GRAMMAR: GRounded and Modular Methodology for Assessment of Closed-Domain Retrieval-Augmented Language Models
 GRAMMAR is structured around two key components:
 1) Grounded Data Generation Method: 
 Grounded Data Generation Method: This approach generates text queries and corresponding answers from an existing knowledge base (relational database) for targeted evaluations. Using SQL as an intermediate representation, it allows for the controlled creation of various text queries with consistent underlying logic.
