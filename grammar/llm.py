@@ -9,7 +9,11 @@ client = AzureOpenAI(
 import numpy as np
 import json
 from typing import Optional, Union, List
-
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_random_exponential,
+)
 class GPTUsageRecord:
     def __init__(self):
         self.episode_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
@@ -49,7 +53,8 @@ class AnyOpenAILLM:
             raise ValueError("OPENAI_API_KEY not set, please run `export OPENAI_API_KEY=<your key>` to ser it")
         else:
             openai.api_key = API_KEY
-        
+    
+    @retry(wait=wait_random_exponential(min=1, max=5), stop=stop_after_attempt(5))
     def __call__(self, usr_msg, system_msg='', 
                  history: List[str]=[], 
                  temperature=None, 

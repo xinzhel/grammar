@@ -1,0 +1,5 @@
+SELECT Industry, Company_ID FROM company WHERE Name = '[company.Name]';
+SELECT Headquarters, Company_ID FROM company WHERE Name = '[company.Name]';
+SELECT Nationality, People_ID FROM people WHERE Name = '[people.Name]';
+SELECT Graduation_College, People_ID FROM people WHERE Name = '[people.Name]';
+SELECT e.Year_working, e.Company_ID, e.People_ID FROM employment e JOIN company c ON e.Company_ID = c.Company_ID JOIN people p ON e.People_ID = p.People_ID WHERE c.Name = '[company.Name]' AND p.Name = '[people.Name]';

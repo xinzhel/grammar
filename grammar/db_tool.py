@@ -45,15 +45,44 @@ class DBTool:
         table_names = list(self.metadata.tables.keys())
         # remove associative tables with "_" to connect two table names
         table_names = [name for name in table_names if "_" not in name]
-        if verbose:
-            for entity_name in table_names:
-                print("The Entity Type: ", entity_name)
-                schema = self.infer_schema_from_entity_types([entity_name])
-                table_name, columns = schema[0][0], schema[0][1]
-                print("The Relevant Tables: ", table_name)
-
         return table_names
     
+    def get_table_schema(self, table_or_table_name):
+        """ Schema of a table
+            Args:
+                table_or_table_name (str or Table): the table object or the table name
+            
+            Returns:
+                schema (Tuple[str, List[Dict]]): the table name and the columns
+        """
+        table = table_or_table_name
+        if isinstance(table_or_table_name, str):
+            table = Table(table_or_table_name, self.metadata, autoload=True, autoload_with=self.engine)
+        columns = []
+        for column in table.columns:
+            column_info = {}
+            column_info['name'] = column.name
+            column_info['type'] = str(column.type)
+            column_info['nullable'] = column.nullable
+            column_info['primary_key'] = column.primary_key
+            columns.append(column_info)
+            # column_info['default'] = column.default
+            # column_info['autoincrement'] = column.autoincrement
+            # column_info['comment'] = column.comment
+            # column_info['foreign_keys'] = list(column.foreign_keys)
+        return (table.name, columns)
+
+    @property
+    def db_schema(self):
+        """ Schema of the database
+            Returns:
+                schema (List[Tuple[str, List[Dict]]]): a list of tuples, each tuple contains the table name and the columns
+        """
+        schema = []
+        for table in self.metadata.sorted_tables:
+            schema.append(self.get_table_schema(table))
+        return schema
+
     def get_date_columns(self, table_name):
 
         table = Table(table_name, self.metadata, autoload=True, autoload_with=self.engine)
@@ -69,30 +98,14 @@ class DBTool:
             """
         assert type(entity_types) == list
         schema = []
-        # Access the first table (as an example)
-        for table in self.metadata.sorted_tables:
-            table_name = table.name
+        
+        for table_name, columns in self.db_schema:
             if not check_relevant_table(table_name, entity_types):
                 continue
-
-            # Extract column details
-            columns = [] 
-            for column in table.columns:
-                column_info = {}
-                column_info['name'] = column.name
-                column_info['type'] = str(column.type)
-                column_info['nullable'] = column.nullable
-                column_info['primary_key'] = column.primary_key
-                columns.append(column_info)
-                # column_info['default'] = column.default
-                # column_info['autoincrement'] = column.autoincrement
-                # column_info['comment'] = column.comment
-                # column_info['foreign_keys'] = list(column.foreign_keys)
-            
             schema.append((table_name, columns))
         return schema
 
-    def stringify_schema(self, schema):
+    def stringify_schema(self, schema=None):
         """Stringify the schema for the given entity types. 
             Args:
                 schema (List[Tuple[str, List[Dict]]]): a list of tuples, each tuple contains the table name and the columns
@@ -100,6 +113,8 @@ class DBTool:
             Returns:
                 schema_str (str): a string representation of the schema
             """
+        if schema is None:
+            schema = self.db_schema
         schema_str = ""
         for table_name, columns in schema:
             schema_str += f"Table: {table_name}\n"

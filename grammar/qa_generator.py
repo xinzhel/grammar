@@ -50,7 +50,7 @@ class QADataGenerator:
                     {answer_for_fillin1: [fillin1_for_text_template1, fillin1_for_text_template2, ...], answer_for_fillin2: [...]}, # _for_sql_template2
                 ],       
         """
-        extract_info_for_qa_generation
+        
         sql_templates, placeholders, text_template_lists = extract_info_for_qa_generation(sql_to_text_templates)
 
         all_answers_to_text_queries = []

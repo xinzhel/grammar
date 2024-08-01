@@ -1,0 +1,468 @@
+[
+    [
+        [
+            "[('Oil and gas', 1.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'ExxonMobil'.",
+                "2. In order to identify the sector in which a company named 'ExxonMobil' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'ExxonMobil'."
+            ]
+        ],
+        [
+            "[('Banking', 2.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'JPMorgan Chase'.",
+                "2. In order to identify the sector in which a company named 'JPMorgan Chase' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'JPMorgan Chase'."
+            ]
+        ],
+        [
+            "[('Conglomerate', 3.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'General Electric'.",
+                "2. In order to identify the sector in which a company named 'General Electric' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'General Electric'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 4.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Royal Dutch Shell'.",
+                "2. In order to identify the sector in which a company named 'Royal Dutch Shell' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Royal Dutch Shell'."
+            ]
+        ],
+        [
+            "[('Banking', 5.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Industrial and Commercial Bank of China'.",
+                "2. In order to identify the sector in which a company named 'Industrial and Commercial Bank of China' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Industrial and Commercial Bank of China'."
+            ]
+        ],
+        [
+            "[('Banking', 6.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'HSBC'.",
+                "2. In order to identify the sector in which a company named 'HSBC' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'HSBC'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 7.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'PetroChina'.",
+                "2. In order to identify the sector in which a company named 'PetroChina' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'PetroChina'."
+            ]
+        ],
+        [
+            "[('Conglomerate', 8.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Berkshire Hathaway'.",
+                "2. In order to identify the sector in which a company named 'Berkshire Hathaway' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Berkshire Hathaway'."
+            ]
+        ],
+        [
+            "[('Banking', 9.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Wells Fargo'.",
+                "2. In order to identify the sector in which a company named 'Wells Fargo' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Wells Fargo'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 10.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Petrobras'.",
+                "2. In order to identify the sector in which a company named 'Petrobras' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Petrobras'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 11.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'BP'.",
+                "2. In order to identify the sector in which a company named 'BP' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'BP'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 12.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Chevron'.",
+                "2. In order to identify the sector in which a company named 'Chevron' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Chevron'."
+            ]
+        ],
+        [
+            "[('Banking', 13.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'China Construction Bank'.",
+                "2. In order to identify the sector in which a company named 'China Construction Bank' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'China Construction Bank'."
+            ]
+        ],
+        [
+            "[('Banking', 14.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Citigroup'.",
+                "2. In order to identify the sector in which a company named 'Citigroup' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Citigroup'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 15.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Gazprom'.",
+                "2. In order to identify the sector in which a company named 'Gazprom' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Gazprom'."
+            ]
+        ],
+        [
+            "[('Retailing', 16.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Walmart'.",
+                "2. In order to identify the sector in which a company named 'Walmart' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Walmart'."
+            ]
+        ],
+        [
+            "[('Automotive', 17.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Volkswagen Group'.",
+                "2. In order to identify the sector in which a company named 'Volkswagen Group' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Volkswagen Group'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 18.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Total'.",
+                "2. In order to identify the sector in which a company named 'Total' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Total'."
+            ]
+        ],
+        [
+            "[('Banking', 19.0)]",
+            [
+                "1. We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'Agricultural Bank of China'.",
+                "2. In order to identify the sector in which a company named 'Agricultural Bank of China' is doing business, we are checking its industry from the available data. ",
+                "3. We are attempting to determine the business sector or industry of a specific company. In this case, the company we are interested in bears the name 'Agricultural Bank of China'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('USA', 1.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'ExxonMobil'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'ExxonMobil', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'ExxonMobil'?\""
+            ]
+        ],
+        [
+            "[('USA', 2.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'JPMorgan Chase'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'JPMorgan Chase', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'JPMorgan Chase'?\""
+            ]
+        ],
+        [
+            "[('USA', 3.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'General Electric'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'General Electric', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'General Electric'?\""
+            ]
+        ],
+        [
+            "[('Netherlands', 4.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Royal Dutch Shell'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Royal Dutch Shell', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Royal Dutch Shell'?\""
+            ]
+        ],
+        [
+            "[('China', 5.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Industrial and Commercial Bank of China'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Industrial and Commercial Bank of China', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Industrial and Commercial Bank of China'?\""
+            ]
+        ],
+        [
+            "[('UK', 6.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'HSBC'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'HSBC', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'HSBC'?\""
+            ]
+        ],
+        [
+            "[('China', 7.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'PetroChina'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'PetroChina', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'PetroChina'?\""
+            ]
+        ],
+        [
+            "[('USA', 8.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Berkshire Hathaway'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Berkshire Hathaway', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Berkshire Hathaway'?\""
+            ]
+        ],
+        [
+            "[('USA', 9.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Wells Fargo'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Wells Fargo', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Wells Fargo'?\""
+            ]
+        ],
+        [
+            "[('Brazil', 10.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Petrobras'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Petrobras', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Petrobras'?\""
+            ]
+        ],
+        [
+            "[('UK', 11.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'BP'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'BP', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'BP'?\""
+            ]
+        ],
+        [
+            "[('USA', 12.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Chevron'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Chevron', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Chevron'?\""
+            ]
+        ],
+        [
+            "[('China', 13.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'China Construction Bank'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'China Construction Bank', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'China Construction Bank'?\""
+            ]
+        ],
+        [
+            "[('USA', 14.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Citigroup'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Citigroup', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Citigroup'?\""
+            ]
+        ],
+        [
+            "[('Russia', 15.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Gazprom'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Gazprom', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Gazprom'?\""
+            ]
+        ],
+        [
+            "[('USA', 16.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Walmart'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Walmart', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Walmart'?\""
+            ]
+        ],
+        [
+            "[('Germany', 17.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Volkswagen Group'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Volkswagen Group', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Volkswagen Group'?\""
+            ]
+        ],
+        [
+            "[('France', 18.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Total'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Total', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Total'?\""
+            ]
+        ],
+        [
+            "[('China', 19.0)]",
+            [
+                "\"Can you help me find out the location of the main office of the company with the exact name 'Agricultural Bank of China'?\"",
+                "\"Could you provide me with the information about where the headquarters of the corporation, precisely named 'Agricultural Bank of China', is situated?\" ",
+                "\"What is the location of the main headquarters for the business that's specifically identified as 'Agricultural Bank of China'?\""
+            ]
+        ]
+    ],
+    [
+        [
+            "[('United States', 1)]",
+            [
+                "1. For the person registered under the name 'Reggie Lewis', can you please find out what their listed nationality is in our 'people' records?",
+                "2. We are trying to determine the nationality of a person identified as 'Reggie Lewis' in the 'people' database. Can you provide that information?",
+                "3. From the 'people' data set, I need to know the nationality of the individual whose name is recorded as 'Reggie Lewis'. Can you retrieve this information?"
+            ]
+        ],
+        [
+            "[('United States', 2)]",
+            [
+                "1. For the person registered under the name 'Brad Lohaus', can you please find out what their listed nationality is in our 'people' records?",
+                "2. We are trying to determine the nationality of a person identified as 'Brad Lohaus' in the 'people' database. Can you provide that information?",
+                "3. From the 'people' data set, I need to know the nationality of the individual whose name is recorded as 'Brad Lohaus'. Can you retrieve this information?"
+            ]
+        ],
+        [
+            "[('United Kindom', 3)]",
+            [
+                "1. For the person registered under the name 'Tom Sheehey', can you please find out what their listed nationality is in our 'people' records?",
+                "2. We are trying to determine the nationality of a person identified as 'Tom Sheehey' in the 'people' database. Can you provide that information?",
+                "3. From the 'people' data set, I need to know the nationality of the individual whose name is recorded as 'Tom Sheehey'. Can you retrieve this information?"
+            ]
+        ],
+        [
+            "[('United States', 4)]",
+            [
+                "1. For the person registered under the name 'Darryl Kennedy', can you please find out what their listed nationality is in our 'people' records?",
+                "2. We are trying to determine the nationality of a person identified as 'Darryl Kennedy' in the 'people' database. Can you provide that information?",
+                "3. From the 'people' data set, I need to know the nationality of the individual whose name is recorded as 'Darryl Kennedy'. Can you retrieve this information?"
+            ]
+        ],
+        [
+            "[('United Kindom', 5)]",
+            [
+                "1. For the person registered under the name 'David Butler', can you please find out what their listed nationality is in our 'people' records?",
+                "2. We are trying to determine the nationality of a person identified as 'David Butler' in the 'people' database. Can you provide that information?",
+                "3. From the 'people' data set, I need to know the nationality of the individual whose name is recorded as 'David Butler'. Can you retrieve this information?"
+            ]
+        ],
+        [
+            "[('United States', 6)]",
+            [
+                "1. For the person registered under the name 'Tim Naegeli', can you please find out what their listed nationality is in our 'people' records?",
+                "2. We are trying to determine the nationality of a person identified as 'Tim Naegeli' in the 'people' database. Can you provide that information?",
+                "3. From the 'people' data set, I need to know the nationality of the individual whose name is recorded as 'Tim Naegeli'. Can you retrieve this information?"
+            ]
+        ],
+        [
+            "[('United States', 7)]",
+            [
+                "1. For the person registered under the name 'Jerry Corcoran', can you please find out what their listed nationality is in our 'people' records?",
+                "2. We are trying to determine the nationality of a person identified as 'Jerry Corcoran' in the 'people' database. Can you provide that information?",
+                "3. From the 'people' data set, I need to know the nationality of the individual whose name is recorded as 'Jerry Corcoran'. Can you retrieve this information?"
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Northeastern', 1)]",
+            [
+                "\"Give me the details of the college from which a person, whose name is specified as 'Reggie Lewis', has graduated.\"",
+                "\"Could you provide information about the graduation college of a person by the name 'Reggie Lewis'?\"",
+                "\"I need to learn from which college did the person named 'Reggie Lewis' graduate.\""
+            ]
+        ],
+        [
+            "[('Iowa', 2)]",
+            [
+                "\"Give me the details of the college from which a person, whose name is specified as 'Brad Lohaus', has graduated.\"",
+                "\"Could you provide information about the graduation college of a person by the name 'Brad Lohaus'?\"",
+                "\"I need to learn from which college did the person named 'Brad Lohaus' graduate.\""
+            ]
+        ],
+        [
+            "[('Virginia', 3)]",
+            [
+                "\"Give me the details of the college from which a person, whose name is specified as 'Tom Sheehey', has graduated.\"",
+                "\"Could you provide information about the graduation college of a person by the name 'Tom Sheehey'?\"",
+                "\"I need to learn from which college did the person named 'Tom Sheehey' graduate.\""
+            ]
+        ],
+        [
+            "[('Oklahoma', 4)]",
+            [
+                "\"Give me the details of the college from which a person, whose name is specified as 'Darryl Kennedy', has graduated.\"",
+                "\"Could you provide information about the graduation college of a person by the name 'Darryl Kennedy'?\"",
+                "\"I need to learn from which college did the person named 'Darryl Kennedy' graduate.\""
+            ]
+        ],
+        [
+            "[('California', 5)]",
+            [
+                "\"Give me the details of the college from which a person, whose name is specified as 'David Butler', has graduated.\"",
+                "\"Could you provide information about the graduation college of a person by the name 'David Butler'?\"",
+                "\"I need to learn from which college did the person named 'David Butler' graduate.\""
+            ]
+        ],
+        [
+            "[('Wisconsin\u2013Stevens Point', 6)]",
+            [
+                "\"Give me the details of the college from which a person, whose name is specified as 'Tim Naegeli', has graduated.\"",
+                "\"Could you provide information about the graduation college of a person by the name 'Tim Naegeli'?\"",
+                "\"I need to learn from which college did the person named 'Tim Naegeli' graduate.\""
+            ]
+        ],
+        [
+            "[('Northeastern', 7)]",
+            [
+                "\"Give me the details of the college from which a person, whose name is specified as 'Jerry Corcoran', has graduated.\"",
+                "\"Could you provide information about the graduation college of a person by the name 'Jerry Corcoran'?\"",
+                "\"I need to learn from which college did the person named 'Jerry Corcoran' graduate.\""
+            ]
+        ]
+    ],
+    [
+        [
+            "[(1, 7, 4)]",
+            [
+                "\"Find out the number of years someone, specified by 'Darryl Kennedy', has been working in a particular company, signified by 'PetroChina'. This search brings together information about employment, people, and companies.\"",
+                "\"Seek to determine how long an individual, recognized by 'Darryl Kennedy', has been employed at a certain company, indicated by 'PetroChina'. This type of inquiry necessitates the amalgamation of data from employment, people, and companies.\"",
+                "\"Look for the duration, in years, an individual, whose name is 'Darryl Kennedy', has been in service at a specific firm, noted by 'PetroChina'. By executing this, we will need to pull in details from employment records, people profiles, and company information.\""
+            ]
+        ],
+        [
+            "[(2, 11, 3)]",
+            [
+                "\"Find out the number of years someone, specified by 'Tom Sheehey', has been working in a particular company, signified by 'BP'. This search brings together information about employment, people, and companies.\"",
+                "\"Seek to determine how long an individual, recognized by 'Tom Sheehey', has been employed at a certain company, indicated by 'BP'. This type of inquiry necessitates the amalgamation of data from employment, people, and companies.\"",
+                "\"Look for the duration, in years, an individual, whose name is 'Tom Sheehey', has been in service at a specific firm, noted by 'BP'. By executing this, we will need to pull in details from employment records, people profiles, and company information.\""
+            ]
+        ],
+        [
+            "[(3, 13, 2)]",
+            [
+                "\"Find out the number of years someone, specified by 'Brad Lohaus', has been working in a particular company, signified by 'China Construction Bank'. This search brings together information about employment, people, and companies.\"",
+                "\"Seek to determine how long an individual, recognized by 'Brad Lohaus', has been employed at a certain company, indicated by 'China Construction Bank'. This type of inquiry necessitates the amalgamation of data from employment, people, and companies.\"",
+                "\"Look for the duration, in years, an individual, whose name is 'Brad Lohaus', has been in service at a specific firm, noted by 'China Construction Bank'. By executing this, we will need to pull in details from employment records, people profiles, and company information.\""
+            ]
+        ],
+        [
+            "[(1, 15, 1)]",
+            [
+                "\"Find out the number of years someone, specified by 'Reggie Lewis', has been working in a particular company, signified by 'Gazprom'. This search brings together information about employment, people, and companies.\"",
+                "\"Seek to determine how long an individual, recognized by 'Reggie Lewis', has been employed at a certain company, indicated by 'Gazprom'. This type of inquiry necessitates the amalgamation of data from employment, people, and companies.\"",
+                "\"Look for the duration, in years, an individual, whose name is 'Reggie Lewis', has been in service at a specific firm, noted by 'Gazprom'. By executing this, we will need to pull in details from employment records, people profiles, and company information.\""
+            ]
+        ],
+        [
+            "[(4, 17, 7)]",
+            [
+                "\"Find out the number of years someone, specified by 'Jerry Corcoran', has been working in a particular company, signified by 'Volkswagen Group'. This search brings together information about employment, people, and companies.\"",
+                "\"Seek to determine how long an individual, recognized by 'Jerry Corcoran', has been employed at a certain company, indicated by 'Volkswagen Group'. This type of inquiry necessitates the amalgamation of data from employment, people, and companies.\"",
+                "\"Look for the duration, in years, an individual, whose name is 'Jerry Corcoran', has been in service at a specific firm, noted by 'Volkswagen Group'. By executing this, we will need to pull in details from employment records, people profiles, and company information.\""
+            ]
+        ]
+    ]
+]

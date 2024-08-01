@@ -2,4 +2,4 @@
 __pycache__/
 eval_data/spider/
 benchmarks/spider/spider-database/download/
-
+.DS_Store

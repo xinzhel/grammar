@@ -100,8 +100,10 @@ class SQLTemplateGenerator:
             file.write(sql_templates)
 
     @classmethod
-    def load(cls, root_dir):
-        file_name = os.path.join(root_dir, f"{cls.__name__}/sql_templates.txt")
+    def load(cls, root_dir, file_name=None):
+        if file_name is None:
+            file_name = "sql_templates.txt"
+        file_name = os.path.join(root_dir, f"{cls.__name__}/{file_name}")
         # read lines and convert to list
         with open(file_name, 'r') as file:
             sql_templates = file.readlines()

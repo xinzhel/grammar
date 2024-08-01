@@ -59,9 +59,10 @@ class Retrieval(ABC):
     def search(self, query, k=10):
         raise NotImplementedError
 
-    def format_sources(self, items: List[RetrievedItem]) -> str:
+    def format_sources(self, items: List[RetrievedItem], num_selected=1) -> str:
         # Sort the results based on match_count in descending order and return the best result;
         # if there are multiple results with the same match_count, randomly select one of them.
+        assert num_selected == 1, "Only support formatting one best document"
         sorted_results = self.rank(items)
         return sorted_results[0].content
     

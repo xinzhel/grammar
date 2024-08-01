@@ -129,3 +129,7 @@ For example, one hypothesis can be that  models are vulnerable to long queries. 
 
 
 ### 2. Modular Evaluation Protocol
+
+<!-- # Acknowledgement
+A part of this work is progressed as my intern in Aurecon. Special thanks to Theodore Galanos, Slaven Marusic in Aurecon for supporting us via the access to OpenAI models and their retrieval module. -->
+
