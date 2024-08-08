@@ -1,0 +1,12 @@
+{
+    "total": {
+        "prompt_tokens": 57087,
+        "completion_tokens": 5772,
+        "total_tokens": 62859
+    },
+    "recent": {
+        "prompt_tokens": 57087,
+        "completion_tokens": 5772,
+        "total_tokens": 62859
+    }
+}
