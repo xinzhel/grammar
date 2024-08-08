@@ -1,0 +1,867 @@
+[
+    [
+        [
+            "[('Oil and gas', 1.0)]",
+            [
+                "Retrieve the industry type of the company named 'EnergySphere'.",
+                "Fetch the industry associated with the company 'EnergySphere'.",
+                "Obtain the industry for the company labelled as 'EnergySphere'.",
+                "Fetch industry from a business with the name 'EnergySphere'.",
+                "Finding the industry of the firm named 'EnergySphere'.",
+                "Retrieving industry related to the organization named 'EnergySphere'.",
+                "Obtaining the sector linked to the corporate entity 'EnergySphere'.",
+                "Collect the industry of the entity labelled 'EnergySphere'.",
+                "Obtain industry corresponding to company named 'EnergySphere'.",
+                "Find the sector associated with the business titled 'EnergySphere'."
+            ]
+        ],
+        [
+            "[('Banking', 2.0)]",
+            [
+                "Retrieve the industry type of the company named 'GlobalBank Corp'.",
+                "Fetch the industry associated with the company 'GlobalBank Corp'.",
+                "Obtain the industry for the company labelled as 'GlobalBank Corp'.",
+                "Fetch industry from a business with the name 'GlobalBank Corp'.",
+                "Finding the industry of the firm named 'GlobalBank Corp'.",
+                "Retrieving industry related to the organization named 'GlobalBank Corp'.",
+                "Obtaining the sector linked to the corporate entity 'GlobalBank Corp'.",
+                "Collect the industry of the entity labelled 'GlobalBank Corp'.",
+                "Obtain industry corresponding to company named 'GlobalBank Corp'.",
+                "Find the sector associated with the business titled 'GlobalBank Corp'."
+            ]
+        ],
+        [
+            "[('Conglomerate', 3.0)]",
+            [
+                "Retrieve the industry type of the company named 'United Industries'.",
+                "Fetch the industry associated with the company 'United Industries'.",
+                "Obtain the industry for the company labelled as 'United Industries'.",
+                "Fetch industry from a business with the name 'United Industries'.",
+                "Finding the industry of the firm named 'United Industries'.",
+                "Retrieving industry related to the organization named 'United Industries'.",
+                "Obtaining the sector linked to the corporate entity 'United Industries'.",
+                "Collect the industry of the entity labelled 'United Industries'.",
+                "Obtain industry corresponding to company named 'United Industries'.",
+                "Find the sector associated with the business titled 'United Industries'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 4.0)]",
+            [
+                "Retrieve the industry type of the company named 'Continental Fuel'.",
+                "Fetch the industry associated with the company 'Continental Fuel'.",
+                "Obtain the industry for the company labelled as 'Continental Fuel'.",
+                "Fetch industry from a business with the name 'Continental Fuel'.",
+                "Finding the industry of the firm named 'Continental Fuel'.",
+                "Retrieving industry related to the organization named 'Continental Fuel'.",
+                "Obtaining the sector linked to the corporate entity 'Continental Fuel'.",
+                "Collect the industry of the entity labelled 'Continental Fuel'.",
+                "Obtain industry corresponding to company named 'Continental Fuel'.",
+                "Find the sector associated with the business titled 'Continental Fuel'."
+            ]
+        ],
+        [
+            "[('Banking', 5.0)]",
+            [
+                "Retrieve the industry type of the company named 'Eastern Financial Bank'.",
+                "Fetch the industry associated with the company 'Eastern Financial Bank'.",
+                "Obtain the industry for the company labelled as 'Eastern Financial Bank'.",
+                "Fetch industry from a business with the name 'Eastern Financial Bank'.",
+                "Finding the industry of the firm named 'Eastern Financial Bank'.",
+                "Retrieving industry related to the organization named 'Eastern Financial Bank'.",
+                "Obtaining the sector linked to the corporate entity 'Eastern Financial Bank'.",
+                "Collect the industry of the entity labelled 'Eastern Financial Bank'.",
+                "Obtain industry corresponding to company named 'Eastern Financial Bank'.",
+                "Find the sector associated with the business titled 'Eastern Financial Bank'."
+            ]
+        ],
+        [
+            "[('Banking', 6.0)]",
+            [
+                "Retrieve the industry type of the company named 'Empire Bank'.",
+                "Fetch the industry associated with the company 'Empire Bank'.",
+                "Obtain the industry for the company labelled as 'Empire Bank'.",
+                "Fetch industry from a business with the name 'Empire Bank'.",
+                "Finding the industry of the firm named 'Empire Bank'.",
+                "Retrieving industry related to the organization named 'Empire Bank'.",
+                "Obtaining the sector linked to the corporate entity 'Empire Bank'.",
+                "Collect the industry of the entity labelled 'Empire Bank'.",
+                "Obtain industry corresponding to company named 'Empire Bank'.",
+                "Find the sector associated with the business titled 'Empire Bank'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 7.0)]",
+            [
+                "Retrieve the industry type of the company named 'Phoenix Petro'.",
+                "Fetch the industry associated with the company 'Phoenix Petro'.",
+                "Obtain the industry for the company labelled as 'Phoenix Petro'.",
+                "Fetch industry from a business with the name 'Phoenix Petro'.",
+                "Finding the industry of the firm named 'Phoenix Petro'.",
+                "Retrieving industry related to the organization named 'Phoenix Petro'.",
+                "Obtaining the sector linked to the corporate entity 'Phoenix Petro'.",
+                "Collect the industry of the entity labelled 'Phoenix Petro'.",
+                "Obtain industry corresponding to company named 'Phoenix Petro'.",
+                "Find the sector associated with the business titled 'Phoenix Petro'."
+            ]
+        ],
+        [
+            "[('Conglomerate', 8.0)]",
+            [
+                "Retrieve the industry type of the company named 'Equity Holdings'.",
+                "Fetch the industry associated with the company 'Equity Holdings'.",
+                "Obtain the industry for the company labelled as 'Equity Holdings'.",
+                "Fetch industry from a business with the name 'Equity Holdings'.",
+                "Finding the industry of the firm named 'Equity Holdings'.",
+                "Retrieving industry related to the organization named 'Equity Holdings'.",
+                "Obtaining the sector linked to the corporate entity 'Equity Holdings'.",
+                "Collect the industry of the entity labelled 'Equity Holdings'.",
+                "Obtain industry corresponding to company named 'Equity Holdings'.",
+                "Find the sector associated with the business titled 'Equity Holdings'."
+            ]
+        ],
+        [
+            "[('Banking', 9.0)]",
+            [
+                "Retrieve the industry type of the company named 'CapitalFirst Bank'.",
+                "Fetch the industry associated with the company 'CapitalFirst Bank'.",
+                "Obtain the industry for the company labelled as 'CapitalFirst Bank'.",
+                "Fetch industry from a business with the name 'CapitalFirst Bank'.",
+                "Finding the industry of the firm named 'CapitalFirst Bank'.",
+                "Retrieving industry related to the organization named 'CapitalFirst Bank'.",
+                "Obtaining the sector linked to the corporate entity 'CapitalFirst Bank'.",
+                "Collect the industry of the entity labelled 'CapitalFirst Bank'.",
+                "Obtain industry corresponding to company named 'CapitalFirst Bank'.",
+                "Find the sector associated with the business titled 'CapitalFirst Bank'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 10.0)]",
+            [
+                "Retrieve the industry type of the company named 'RioEnergy'.",
+                "Fetch the industry associated with the company 'RioEnergy'.",
+                "Obtain the industry for the company labelled as 'RioEnergy'.",
+                "Fetch industry from a business with the name 'RioEnergy'.",
+                "Finding the industry of the firm named 'RioEnergy'.",
+                "Retrieving industry related to the organization named 'RioEnergy'.",
+                "Obtaining the sector linked to the corporate entity 'RioEnergy'.",
+                "Collect the industry of the entity labelled 'RioEnergy'.",
+                "Obtain industry corresponding to company named 'RioEnergy'.",
+                "Find the sector associated with the business titled 'RioEnergy'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 11.0)]",
+            [
+                "Retrieve the industry type of the company named 'BritOil'.",
+                "Fetch the industry associated with the company 'BritOil'.",
+                "Obtain the industry for the company labelled as 'BritOil'.",
+                "Fetch industry from a business with the name 'BritOil'.",
+                "Finding the industry of the firm named 'BritOil'.",
+                "Retrieving industry related to the organization named 'BritOil'.",
+                "Obtaining the sector linked to the corporate entity 'BritOil'.",
+                "Collect the industry of the entity labelled 'BritOil'.",
+                "Obtain industry corresponding to company named 'BritOil'.",
+                "Find the sector associated with the business titled 'BritOil'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 12.0)]",
+            [
+                "Retrieve the industry type of the company named 'Pacific Oil'.",
+                "Fetch the industry associated with the company 'Pacific Oil'.",
+                "Obtain the industry for the company labelled as 'Pacific Oil'.",
+                "Fetch industry from a business with the name 'Pacific Oil'.",
+                "Finding the industry of the firm named 'Pacific Oil'.",
+                "Retrieving industry related to the organization named 'Pacific Oil'.",
+                "Obtaining the sector linked to the corporate entity 'Pacific Oil'.",
+                "Collect the industry of the entity labelled 'Pacific Oil'.",
+                "Obtain industry corresponding to company named 'Pacific Oil'.",
+                "Find the sector associated with the business titled 'Pacific Oil'."
+            ]
+        ],
+        [
+            "[('Banking', 13.0)]",
+            [
+                "Retrieve the industry type of the company named 'Eastern Star Bank'.",
+                "Fetch the industry associated with the company 'Eastern Star Bank'.",
+                "Obtain the industry for the company labelled as 'Eastern Star Bank'.",
+                "Fetch industry from a business with the name 'Eastern Star Bank'.",
+                "Finding the industry of the firm named 'Eastern Star Bank'.",
+                "Retrieving industry related to the organization named 'Eastern Star Bank'.",
+                "Obtaining the sector linked to the corporate entity 'Eastern Star Bank'.",
+                "Collect the industry of the entity labelled 'Eastern Star Bank'.",
+                "Obtain industry corresponding to company named 'Eastern Star Bank'.",
+                "Find the sector associated with the business titled 'Eastern Star Bank'."
+            ]
+        ],
+        [
+            "[('Banking', 14.0)]",
+            [
+                "Retrieve the industry type of the company named 'CityFinance'.",
+                "Fetch the industry associated with the company 'CityFinance'.",
+                "Obtain the industry for the company labelled as 'CityFinance'.",
+                "Fetch industry from a business with the name 'CityFinance'.",
+                "Finding the industry of the firm named 'CityFinance'.",
+                "Retrieving industry related to the organization named 'CityFinance'.",
+                "Obtaining the sector linked to the corporate entity 'CityFinance'.",
+                "Collect the industry of the entity labelled 'CityFinance'.",
+                "Obtain industry corresponding to company named 'CityFinance'.",
+                "Find the sector associated with the business titled 'CityFinance'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 15.0)]",
+            [
+                "Retrieve the industry type of the company named 'NordGas'.",
+                "Fetch the industry associated with the company 'NordGas'.",
+                "Obtain the industry for the company labelled as 'NordGas'.",
+                "Fetch industry from a business with the name 'NordGas'.",
+                "Finding the industry of the firm named 'NordGas'.",
+                "Retrieving industry related to the organization named 'NordGas'.",
+                "Obtaining the sector linked to the corporate entity 'NordGas'.",
+                "Collect the industry of the entity labelled 'NordGas'.",
+                "Obtain industry corresponding to company named 'NordGas'.",
+                "Find the sector associated with the business titled 'NordGas'."
+            ]
+        ],
+        [
+            "[('Retailing', 16.0)]",
+            [
+                "Retrieve the industry type of the company named 'SuperStore'.",
+                "Fetch the industry associated with the company 'SuperStore'.",
+                "Obtain the industry for the company labelled as 'SuperStore'.",
+                "Fetch industry from a business with the name 'SuperStore'.",
+                "Finding the industry of the firm named 'SuperStore'.",
+                "Retrieving industry related to the organization named 'SuperStore'.",
+                "Obtaining the sector linked to the corporate entity 'SuperStore'.",
+                "Collect the industry of the entity labelled 'SuperStore'.",
+                "Obtain industry corresponding to company named 'SuperStore'.",
+                "Find the sector associated with the business titled 'SuperStore'."
+            ]
+        ],
+        [
+            "[('Automotive', 17.0)]",
+            [
+                "Retrieve the industry type of the company named 'AutoMasters'.",
+                "Fetch the industry associated with the company 'AutoMasters'.",
+                "Obtain the industry for the company labelled as 'AutoMasters'.",
+                "Fetch industry from a business with the name 'AutoMasters'.",
+                "Finding the industry of the firm named 'AutoMasters'.",
+                "Retrieving industry related to the organization named 'AutoMasters'.",
+                "Obtaining the sector linked to the corporate entity 'AutoMasters'.",
+                "Collect the industry of the entity labelled 'AutoMasters'.",
+                "Obtain industry corresponding to company named 'AutoMasters'.",
+                "Find the sector associated with the business titled 'AutoMasters'."
+            ]
+        ],
+        [
+            "[('Oil and gas', 18.0)]",
+            [
+                "Retrieve the industry type of the company named 'EuroPetrol'.",
+                "Fetch the industry associated with the company 'EuroPetrol'.",
+                "Obtain the industry for the company labelled as 'EuroPetrol'.",
+                "Fetch industry from a business with the name 'EuroPetrol'.",
+                "Finding the industry of the firm named 'EuroPetrol'.",
+                "Retrieving industry related to the organization named 'EuroPetrol'.",
+                "Obtaining the sector linked to the corporate entity 'EuroPetrol'.",
+                "Collect the industry of the entity labelled 'EuroPetrol'.",
+                "Obtain industry corresponding to company named 'EuroPetrol'.",
+                "Find the sector associated with the business titled 'EuroPetrol'."
+            ]
+        ],
+        [
+            "[('Banking', 19.0)]",
+            [
+                "Retrieve the industry type of the company named 'Greenfield Bank'.",
+                "Fetch the industry associated with the company 'Greenfield Bank'.",
+                "Obtain the industry for the company labelled as 'Greenfield Bank'.",
+                "Fetch industry from a business with the name 'Greenfield Bank'.",
+                "Finding the industry of the firm named 'Greenfield Bank'.",
+                "Retrieving industry related to the organization named 'Greenfield Bank'.",
+                "Obtaining the sector linked to the corporate entity 'Greenfield Bank'.",
+                "Collect the industry of the entity labelled 'Greenfield Bank'.",
+                "Obtain industry corresponding to company named 'Greenfield Bank'.",
+                "Find the sector associated with the business titled 'Greenfield Bank'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('USA', 1.0)]",
+            [
+                "Find the headquarters of the company named 'EnergySphere'.",
+                "Search for the location of the headquarters for the company called 'EnergySphere'.",
+                "Lookup where the headquarters for 'EnergySphere' company is located.",
+                "Headquarters location for company named 'EnergySphere'",
+                "Find the headquarters of 'EnergySphere'",
+                "Locate the headquarters for 'EnergySphere'",
+                "Headquarters for 'EnergySphere' is needed ",
+                "Determine the headquarters of 'EnergySphere'",
+                "Fetch the headquarters location for 'EnergySphere'",
+                "Finding the location of the main office for 'EnergySphere'"
+            ]
+        ],
+        [
+            "[('USA', 2.0)]",
+            [
+                "Find the headquarters of the company named 'GlobalBank Corp'.",
+                "Search for the location of the headquarters for the company called 'GlobalBank Corp'.",
+                "Lookup where the headquarters for 'GlobalBank Corp' company is located.",
+                "Headquarters location for company named 'GlobalBank Corp'",
+                "Find the headquarters of 'GlobalBank Corp'",
+                "Locate the headquarters for 'GlobalBank Corp'",
+                "Headquarters for 'GlobalBank Corp' is needed ",
+                "Determine the headquarters of 'GlobalBank Corp'",
+                "Fetch the headquarters location for 'GlobalBank Corp'",
+                "Finding the location of the main office for 'GlobalBank Corp'"
+            ]
+        ],
+        [
+            "[('USA', 3.0)]",
+            [
+                "Find the headquarters of the company named 'United Industries'.",
+                "Search for the location of the headquarters for the company called 'United Industries'.",
+                "Lookup where the headquarters for 'United Industries' company is located.",
+                "Headquarters location for company named 'United Industries'",
+                "Find the headquarters of 'United Industries'",
+                "Locate the headquarters for 'United Industries'",
+                "Headquarters for 'United Industries' is needed ",
+                "Determine the headquarters of 'United Industries'",
+                "Fetch the headquarters location for 'United Industries'",
+                "Finding the location of the main office for 'United Industries'"
+            ]
+        ],
+        [
+            "[('Netherlands', 4.0)]",
+            [
+                "Find the headquarters of the company named 'Continental Fuel'.",
+                "Search for the location of the headquarters for the company called 'Continental Fuel'.",
+                "Lookup where the headquarters for 'Continental Fuel' company is located.",
+                "Headquarters location for company named 'Continental Fuel'",
+                "Find the headquarters of 'Continental Fuel'",
+                "Locate the headquarters for 'Continental Fuel'",
+                "Headquarters for 'Continental Fuel' is needed ",
+                "Determine the headquarters of 'Continental Fuel'",
+                "Fetch the headquarters location for 'Continental Fuel'",
+                "Finding the location of the main office for 'Continental Fuel'"
+            ]
+        ],
+        [
+            "[('China', 5.0)]",
+            [
+                "Find the headquarters of the company named 'Eastern Financial Bank'.",
+                "Search for the location of the headquarters for the company called 'Eastern Financial Bank'.",
+                "Lookup where the headquarters for 'Eastern Financial Bank' company is located.",
+                "Headquarters location for company named 'Eastern Financial Bank'",
+                "Find the headquarters of 'Eastern Financial Bank'",
+                "Locate the headquarters for 'Eastern Financial Bank'",
+                "Headquarters for 'Eastern Financial Bank' is needed ",
+                "Determine the headquarters of 'Eastern Financial Bank'",
+                "Fetch the headquarters location for 'Eastern Financial Bank'",
+                "Finding the location of the main office for 'Eastern Financial Bank'"
+            ]
+        ],
+        [
+            "[('UK', 6.0)]",
+            [
+                "Find the headquarters of the company named 'Empire Bank'.",
+                "Search for the location of the headquarters for the company called 'Empire Bank'.",
+                "Lookup where the headquarters for 'Empire Bank' company is located.",
+                "Headquarters location for company named 'Empire Bank'",
+                "Find the headquarters of 'Empire Bank'",
+                "Locate the headquarters for 'Empire Bank'",
+                "Headquarters for 'Empire Bank' is needed ",
+                "Determine the headquarters of 'Empire Bank'",
+                "Fetch the headquarters location for 'Empire Bank'",
+                "Finding the location of the main office for 'Empire Bank'"
+            ]
+        ],
+        [
+            "[('China', 7.0)]",
+            [
+                "Find the headquarters of the company named 'Phoenix Petro'.",
+                "Search for the location of the headquarters for the company called 'Phoenix Petro'.",
+                "Lookup where the headquarters for 'Phoenix Petro' company is located.",
+                "Headquarters location for company named 'Phoenix Petro'",
+                "Find the headquarters of 'Phoenix Petro'",
+                "Locate the headquarters for 'Phoenix Petro'",
+                "Headquarters for 'Phoenix Petro' is needed ",
+                "Determine the headquarters of 'Phoenix Petro'",
+                "Fetch the headquarters location for 'Phoenix Petro'",
+                "Finding the location of the main office for 'Phoenix Petro'"
+            ]
+        ],
+        [
+            "[('USA', 8.0)]",
+            [
+                "Find the headquarters of the company named 'Equity Holdings'.",
+                "Search for the location of the headquarters for the company called 'Equity Holdings'.",
+                "Lookup where the headquarters for 'Equity Holdings' company is located.",
+                "Headquarters location for company named 'Equity Holdings'",
+                "Find the headquarters of 'Equity Holdings'",
+                "Locate the headquarters for 'Equity Holdings'",
+                "Headquarters for 'Equity Holdings' is needed ",
+                "Determine the headquarters of 'Equity Holdings'",
+                "Fetch the headquarters location for 'Equity Holdings'",
+                "Finding the location of the main office for 'Equity Holdings'"
+            ]
+        ],
+        [
+            "[('USA', 9.0)]",
+            [
+                "Find the headquarters of the company named 'CapitalFirst Bank'.",
+                "Search for the location of the headquarters for the company called 'CapitalFirst Bank'.",
+                "Lookup where the headquarters for 'CapitalFirst Bank' company is located.",
+                "Headquarters location for company named 'CapitalFirst Bank'",
+                "Find the headquarters of 'CapitalFirst Bank'",
+                "Locate the headquarters for 'CapitalFirst Bank'",
+                "Headquarters for 'CapitalFirst Bank' is needed ",
+                "Determine the headquarters of 'CapitalFirst Bank'",
+                "Fetch the headquarters location for 'CapitalFirst Bank'",
+                "Finding the location of the main office for 'CapitalFirst Bank'"
+            ]
+        ],
+        [
+            "[('Brazil', 10.0)]",
+            [
+                "Find the headquarters of the company named 'RioEnergy'.",
+                "Search for the location of the headquarters for the company called 'RioEnergy'.",
+                "Lookup where the headquarters for 'RioEnergy' company is located.",
+                "Headquarters location for company named 'RioEnergy'",
+                "Find the headquarters of 'RioEnergy'",
+                "Locate the headquarters for 'RioEnergy'",
+                "Headquarters for 'RioEnergy' is needed ",
+                "Determine the headquarters of 'RioEnergy'",
+                "Fetch the headquarters location for 'RioEnergy'",
+                "Finding the location of the main office for 'RioEnergy'"
+            ]
+        ],
+        [
+            "[('UK', 11.0)]",
+            [
+                "Find the headquarters of the company named 'BritOil'.",
+                "Search for the location of the headquarters for the company called 'BritOil'.",
+                "Lookup where the headquarters for 'BritOil' company is located.",
+                "Headquarters location for company named 'BritOil'",
+                "Find the headquarters of 'BritOil'",
+                "Locate the headquarters for 'BritOil'",
+                "Headquarters for 'BritOil' is needed ",
+                "Determine the headquarters of 'BritOil'",
+                "Fetch the headquarters location for 'BritOil'",
+                "Finding the location of the main office for 'BritOil'"
+            ]
+        ],
+        [
+            "[('USA', 12.0)]",
+            [
+                "Find the headquarters of the company named 'Pacific Oil'.",
+                "Search for the location of the headquarters for the company called 'Pacific Oil'.",
+                "Lookup where the headquarters for 'Pacific Oil' company is located.",
+                "Headquarters location for company named 'Pacific Oil'",
+                "Find the headquarters of 'Pacific Oil'",
+                "Locate the headquarters for 'Pacific Oil'",
+                "Headquarters for 'Pacific Oil' is needed ",
+                "Determine the headquarters of 'Pacific Oil'",
+                "Fetch the headquarters location for 'Pacific Oil'",
+                "Finding the location of the main office for 'Pacific Oil'"
+            ]
+        ],
+        [
+            "[('China', 13.0)]",
+            [
+                "Find the headquarters of the company named 'Eastern Star Bank'.",
+                "Search for the location of the headquarters for the company called 'Eastern Star Bank'.",
+                "Lookup where the headquarters for 'Eastern Star Bank' company is located.",
+                "Headquarters location for company named 'Eastern Star Bank'",
+                "Find the headquarters of 'Eastern Star Bank'",
+                "Locate the headquarters for 'Eastern Star Bank'",
+                "Headquarters for 'Eastern Star Bank' is needed ",
+                "Determine the headquarters of 'Eastern Star Bank'",
+                "Fetch the headquarters location for 'Eastern Star Bank'",
+                "Finding the location of the main office for 'Eastern Star Bank'"
+            ]
+        ],
+        [
+            "[('USA', 14.0)]",
+            [
+                "Find the headquarters of the company named 'CityFinance'.",
+                "Search for the location of the headquarters for the company called 'CityFinance'.",
+                "Lookup where the headquarters for 'CityFinance' company is located.",
+                "Headquarters location for company named 'CityFinance'",
+                "Find the headquarters of 'CityFinance'",
+                "Locate the headquarters for 'CityFinance'",
+                "Headquarters for 'CityFinance' is needed ",
+                "Determine the headquarters of 'CityFinance'",
+                "Fetch the headquarters location for 'CityFinance'",
+                "Finding the location of the main office for 'CityFinance'"
+            ]
+        ],
+        [
+            "[('Russia', 15.0)]",
+            [
+                "Find the headquarters of the company named 'NordGas'.",
+                "Search for the location of the headquarters for the company called 'NordGas'.",
+                "Lookup where the headquarters for 'NordGas' company is located.",
+                "Headquarters location for company named 'NordGas'",
+                "Find the headquarters of 'NordGas'",
+                "Locate the headquarters for 'NordGas'",
+                "Headquarters for 'NordGas' is needed ",
+                "Determine the headquarters of 'NordGas'",
+                "Fetch the headquarters location for 'NordGas'",
+                "Finding the location of the main office for 'NordGas'"
+            ]
+        ],
+        [
+            "[('USA', 16.0)]",
+            [
+                "Find the headquarters of the company named 'SuperStore'.",
+                "Search for the location of the headquarters for the company called 'SuperStore'.",
+                "Lookup where the headquarters for 'SuperStore' company is located.",
+                "Headquarters location for company named 'SuperStore'",
+                "Find the headquarters of 'SuperStore'",
+                "Locate the headquarters for 'SuperStore'",
+                "Headquarters for 'SuperStore' is needed ",
+                "Determine the headquarters of 'SuperStore'",
+                "Fetch the headquarters location for 'SuperStore'",
+                "Finding the location of the main office for 'SuperStore'"
+            ]
+        ],
+        [
+            "[('Germany', 17.0)]",
+            [
+                "Find the headquarters of the company named 'AutoMasters'.",
+                "Search for the location of the headquarters for the company called 'AutoMasters'.",
+                "Lookup where the headquarters for 'AutoMasters' company is located.",
+                "Headquarters location for company named 'AutoMasters'",
+                "Find the headquarters of 'AutoMasters'",
+                "Locate the headquarters for 'AutoMasters'",
+                "Headquarters for 'AutoMasters' is needed ",
+                "Determine the headquarters of 'AutoMasters'",
+                "Fetch the headquarters location for 'AutoMasters'",
+                "Finding the location of the main office for 'AutoMasters'"
+            ]
+        ],
+        [
+            "[('France', 18.0)]",
+            [
+                "Find the headquarters of the company named 'EuroPetrol'.",
+                "Search for the location of the headquarters for the company called 'EuroPetrol'.",
+                "Lookup where the headquarters for 'EuroPetrol' company is located.",
+                "Headquarters location for company named 'EuroPetrol'",
+                "Find the headquarters of 'EuroPetrol'",
+                "Locate the headquarters for 'EuroPetrol'",
+                "Headquarters for 'EuroPetrol' is needed ",
+                "Determine the headquarters of 'EuroPetrol'",
+                "Fetch the headquarters location for 'EuroPetrol'",
+                "Finding the location of the main office for 'EuroPetrol'"
+            ]
+        ],
+        [
+            "[('China', 19.0)]",
+            [
+                "Find the headquarters of the company named 'Greenfield Bank'.",
+                "Search for the location of the headquarters for the company called 'Greenfield Bank'.",
+                "Lookup where the headquarters for 'Greenfield Bank' company is located.",
+                "Headquarters location for company named 'Greenfield Bank'",
+                "Find the headquarters of 'Greenfield Bank'",
+                "Locate the headquarters for 'Greenfield Bank'",
+                "Headquarters for 'Greenfield Bank' is needed ",
+                "Determine the headquarters of 'Greenfield Bank'",
+                "Fetch the headquarters location for 'Greenfield Bank'",
+                "Finding the location of the main office for 'Greenfield Bank'"
+            ]
+        ]
+    ],
+    [
+        [
+            "[('United States', 1)]",
+            [
+                "Get the nationality of the person named 'Reggie Lewis'.",
+                "Retrieve the nationality of person with name 'Reggie Lewis'.",
+                "Identify the nationality for the individual named 'Reggie Lewis'.",
+                "Fetch nationality of person named 'Reggie Lewis'.",
+                "Retrieving nationality for 'Reggie Lewis'.",
+                "Find the nationality of 'Reggie Lewis'.",
+                "Obtain the nationality of the person named 'Reggie Lewis'.",
+                "Acquire nationality information for 'Reggie Lewis'.",
+                "Seeking nationality of individual named 'Reggie Lewis'.",
+                "Discover the nationality of the person 'Reggie Lewis'."
+            ]
+        ],
+        [
+            "[('United States', 2)]",
+            [
+                "Get the nationality of the person named 'Brad Lohaus'.",
+                "Retrieve the nationality of person with name 'Brad Lohaus'.",
+                "Identify the nationality for the individual named 'Brad Lohaus'.",
+                "Fetch nationality of person named 'Brad Lohaus'.",
+                "Retrieving nationality for 'Brad Lohaus'.",
+                "Find the nationality of 'Brad Lohaus'.",
+                "Obtain the nationality of the person named 'Brad Lohaus'.",
+                "Acquire nationality information for 'Brad Lohaus'.",
+                "Seeking nationality of individual named 'Brad Lohaus'.",
+                "Discover the nationality of the person 'Brad Lohaus'."
+            ]
+        ],
+        [
+            "[('United Kindom', 3)]",
+            [
+                "Get the nationality of the person named 'Tom Sheehey'.",
+                "Retrieve the nationality of person with name 'Tom Sheehey'.",
+                "Identify the nationality for the individual named 'Tom Sheehey'.",
+                "Fetch nationality of person named 'Tom Sheehey'.",
+                "Retrieving nationality for 'Tom Sheehey'.",
+                "Find the nationality of 'Tom Sheehey'.",
+                "Obtain the nationality of the person named 'Tom Sheehey'.",
+                "Acquire nationality information for 'Tom Sheehey'.",
+                "Seeking nationality of individual named 'Tom Sheehey'.",
+                "Discover the nationality of the person 'Tom Sheehey'."
+            ]
+        ],
+        [
+            "[('United States', 4)]",
+            [
+                "Get the nationality of the person named 'Darryl Kennedy'.",
+                "Retrieve the nationality of person with name 'Darryl Kennedy'.",
+                "Identify the nationality for the individual named 'Darryl Kennedy'.",
+                "Fetch nationality of person named 'Darryl Kennedy'.",
+                "Retrieving nationality for 'Darryl Kennedy'.",
+                "Find the nationality of 'Darryl Kennedy'.",
+                "Obtain the nationality of the person named 'Darryl Kennedy'.",
+                "Acquire nationality information for 'Darryl Kennedy'.",
+                "Seeking nationality of individual named 'Darryl Kennedy'.",
+                "Discover the nationality of the person 'Darryl Kennedy'."
+            ]
+        ],
+        [
+            "[('United Kindom', 5)]",
+            [
+                "Get the nationality of the person named 'David Butler'.",
+                "Retrieve the nationality of person with name 'David Butler'.",
+                "Identify the nationality for the individual named 'David Butler'.",
+                "Fetch nationality of person named 'David Butler'.",
+                "Retrieving nationality for 'David Butler'.",
+                "Find the nationality of 'David Butler'.",
+                "Obtain the nationality of the person named 'David Butler'.",
+                "Acquire nationality information for 'David Butler'.",
+                "Seeking nationality of individual named 'David Butler'.",
+                "Discover the nationality of the person 'David Butler'."
+            ]
+        ],
+        [
+            "[('United States', 6)]",
+            [
+                "Get the nationality of the person named 'Tim Naegeli'.",
+                "Retrieve the nationality of person with name 'Tim Naegeli'.",
+                "Identify the nationality for the individual named 'Tim Naegeli'.",
+                "Fetch nationality of person named 'Tim Naegeli'.",
+                "Retrieving nationality for 'Tim Naegeli'.",
+                "Find the nationality of 'Tim Naegeli'.",
+                "Obtain the nationality of the person named 'Tim Naegeli'.",
+                "Acquire nationality information for 'Tim Naegeli'.",
+                "Seeking nationality of individual named 'Tim Naegeli'.",
+                "Discover the nationality of the person 'Tim Naegeli'."
+            ]
+        ],
+        [
+            "[('United States', 7)]",
+            [
+                "Get the nationality of the person named 'Jerry Corcoran'.",
+                "Retrieve the nationality of person with name 'Jerry Corcoran'.",
+                "Identify the nationality for the individual named 'Jerry Corcoran'.",
+                "Fetch nationality of person named 'Jerry Corcoran'.",
+                "Retrieving nationality for 'Jerry Corcoran'.",
+                "Find the nationality of 'Jerry Corcoran'.",
+                "Obtain the nationality of the person named 'Jerry Corcoran'.",
+                "Acquire nationality information for 'Jerry Corcoran'.",
+                "Seeking nationality of individual named 'Jerry Corcoran'.",
+                "Discover the nationality of the person 'Jerry Corcoran'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Northeastern', 1)]",
+            [
+                "Find the graduation college for a person with the name 'Reggie Lewis'.",
+                "Looking up the college where the person named 'Reggie Lewis' graduated from.",
+                "Obtain the name of the graduation college for 'Reggie Lewis'.",
+                "Get graduation college for person named 'Reggie Lewis'",
+                "Fetch graduation college of 'Reggie Lewis'",
+                "Pull the graduation college where person's name is 'Reggie Lewis'",
+                "Get the graduating college of 'Reggie Lewis'",
+                "Fetch information on the college where 'Reggie Lewis' graduated",
+                "Obtain graduation college for 'Reggie Lewis'",
+                "Retrieve college from which 'Reggie Lewis' graduated"
+            ]
+        ],
+        [
+            "[('Iowa', 2)]",
+            [
+                "Find the graduation college for a person with the name 'Brad Lohaus'.",
+                "Looking up the college where the person named 'Brad Lohaus' graduated from.",
+                "Obtain the name of the graduation college for 'Brad Lohaus'.",
+                "Get graduation college for person named 'Brad Lohaus'",
+                "Fetch graduation college of 'Brad Lohaus'",
+                "Pull the graduation college where person's name is 'Brad Lohaus'",
+                "Get the graduating college of 'Brad Lohaus'",
+                "Fetch information on the college where 'Brad Lohaus' graduated",
+                "Obtain graduation college for 'Brad Lohaus'",
+                "Retrieve college from which 'Brad Lohaus' graduated"
+            ]
+        ],
+        [
+            "[('Virginia', 3)]",
+            [
+                "Find the graduation college for a person with the name 'Tom Sheehey'.",
+                "Looking up the college where the person named 'Tom Sheehey' graduated from.",
+                "Obtain the name of the graduation college for 'Tom Sheehey'.",
+                "Get graduation college for person named 'Tom Sheehey'",
+                "Fetch graduation college of 'Tom Sheehey'",
+                "Pull the graduation college where person's name is 'Tom Sheehey'",
+                "Get the graduating college of 'Tom Sheehey'",
+                "Fetch information on the college where 'Tom Sheehey' graduated",
+                "Obtain graduation college for 'Tom Sheehey'",
+                "Retrieve college from which 'Tom Sheehey' graduated"
+            ]
+        ],
+        [
+            "[('Oklahoma', 4)]",
+            [
+                "Find the graduation college for a person with the name 'Darryl Kennedy'.",
+                "Looking up the college where the person named 'Darryl Kennedy' graduated from.",
+                "Obtain the name of the graduation college for 'Darryl Kennedy'.",
+                "Get graduation college for person named 'Darryl Kennedy'",
+                "Fetch graduation college of 'Darryl Kennedy'",
+                "Pull the graduation college where person's name is 'Darryl Kennedy'",
+                "Get the graduating college of 'Darryl Kennedy'",
+                "Fetch information on the college where 'Darryl Kennedy' graduated",
+                "Obtain graduation college for 'Darryl Kennedy'",
+                "Retrieve college from which 'Darryl Kennedy' graduated"
+            ]
+        ],
+        [
+            "[('California', 5)]",
+            [
+                "Find the graduation college for a person with the name 'David Butler'.",
+                "Looking up the college where the person named 'David Butler' graduated from.",
+                "Obtain the name of the graduation college for 'David Butler'.",
+                "Get graduation college for person named 'David Butler'",
+                "Fetch graduation college of 'David Butler'",
+                "Pull the graduation college where person's name is 'David Butler'",
+                "Get the graduating college of 'David Butler'",
+                "Fetch information on the college where 'David Butler' graduated",
+                "Obtain graduation college for 'David Butler'",
+                "Retrieve college from which 'David Butler' graduated"
+            ]
+        ],
+        [
+            "[('Wisconsin\u2013Stevens Point', 6)]",
+            [
+                "Find the graduation college for a person with the name 'Tim Naegeli'.",
+                "Looking up the college where the person named 'Tim Naegeli' graduated from.",
+                "Obtain the name of the graduation college for 'Tim Naegeli'.",
+                "Get graduation college for person named 'Tim Naegeli'",
+                "Fetch graduation college of 'Tim Naegeli'",
+                "Pull the graduation college where person's name is 'Tim Naegeli'",
+                "Get the graduating college of 'Tim Naegeli'",
+                "Fetch information on the college where 'Tim Naegeli' graduated",
+                "Obtain graduation college for 'Tim Naegeli'",
+                "Retrieve college from which 'Tim Naegeli' graduated"
+            ]
+        ],
+        [
+            "[('Northeastern', 7)]",
+            [
+                "Find the graduation college for a person with the name 'Jerry Corcoran'.",
+                "Looking up the college where the person named 'Jerry Corcoran' graduated from.",
+                "Obtain the name of the graduation college for 'Jerry Corcoran'.",
+                "Get graduation college for person named 'Jerry Corcoran'",
+                "Fetch graduation college of 'Jerry Corcoran'",
+                "Pull the graduation college where person's name is 'Jerry Corcoran'",
+                "Get the graduating college of 'Jerry Corcoran'",
+                "Fetch information on the college where 'Jerry Corcoran' graduated",
+                "Obtain graduation college for 'Jerry Corcoran'",
+                "Retrieve college from which 'Jerry Corcoran' graduated"
+            ]
+        ]
+    ],
+    [
+        [
+            "[(1, 7, 4)]",
+            [
+                "Find the number of years 'Darryl Kennedy' has been working at 'Phoenix Petro'.",
+                "Retrieve the working duration of 'Darryl Kennedy' in the company named 'Phoenix Petro'.",
+                "Obtain how long 'Darryl Kennedy' has been employed at 'Phoenix Petro'.",
+                "Years working for 'Darryl Kennedy' at 'Phoenix Petro'",
+                "Working years of 'Darryl Kennedy' in 'Phoenix Petro'",
+                "'Darryl Kennedy' serving years at 'Phoenix Petro'",
+                "Years of service by 'Darryl Kennedy' for 'Phoenix Petro'",
+                "'Darryl Kennedy' has been working at 'Phoenix Petro' for these years",
+                "Service years at 'Phoenix Petro' for 'Darryl Kennedy'",
+                "Length of employment for 'Darryl Kennedy' at 'Phoenix Petro'"
+            ]
+        ],
+        [
+            "[(2, 11, 3)]",
+            [
+                "Find the number of years 'Tom Sheehey' has been working at 'BritOil'.",
+                "Retrieve the working duration of 'Tom Sheehey' in the company named 'BritOil'.",
+                "Obtain how long 'Tom Sheehey' has been employed at 'BritOil'.",
+                "Years working for 'Tom Sheehey' at 'BritOil'",
+                "Working years of 'Tom Sheehey' in 'BritOil'",
+                "'Tom Sheehey' serving years at 'BritOil'",
+                "Years of service by 'Tom Sheehey' for 'BritOil'",
+                "'Tom Sheehey' has been working at 'BritOil' for these years",
+                "Service years at 'BritOil' for 'Tom Sheehey'",
+                "Length of employment for 'Tom Sheehey' at 'BritOil'"
+            ]
+        ],
+        [
+            "[(3, 13, 2)]",
+            [
+                "Find the number of years 'Brad Lohaus' has been working at 'Eastern Star Bank'.",
+                "Retrieve the working duration of 'Brad Lohaus' in the company named 'Eastern Star Bank'.",
+                "Obtain how long 'Brad Lohaus' has been employed at 'Eastern Star Bank'.",
+                "Years working for 'Brad Lohaus' at 'Eastern Star Bank'",
+                "Working years of 'Brad Lohaus' in 'Eastern Star Bank'",
+                "'Brad Lohaus' serving years at 'Eastern Star Bank'",
+                "Years of service by 'Brad Lohaus' for 'Eastern Star Bank'",
+                "'Brad Lohaus' has been working at 'Eastern Star Bank' for these years",
+                "Service years at 'Eastern Star Bank' for 'Brad Lohaus'",
+                "Length of employment for 'Brad Lohaus' at 'Eastern Star Bank'"
+            ]
+        ],
+        [
+            "[(1, 15, 1)]",
+            [
+                "Find the number of years 'Reggie Lewis' has been working at 'NordGas'.",
+                "Retrieve the working duration of 'Reggie Lewis' in the company named 'NordGas'.",
+                "Obtain how long 'Reggie Lewis' has been employed at 'NordGas'.",
+                "Years working for 'Reggie Lewis' at 'NordGas'",
+                "Working years of 'Reggie Lewis' in 'NordGas'",
+                "'Reggie Lewis' serving years at 'NordGas'",
+                "Years of service by 'Reggie Lewis' for 'NordGas'",
+                "'Reggie Lewis' has been working at 'NordGas' for these years",
+                "Service years at 'NordGas' for 'Reggie Lewis'",
+                "Length of employment for 'Reggie Lewis' at 'NordGas'"
+            ]
+        ],
+        [
+            "[(4, 17, 7)]",
+            [
+                "Find the number of years 'Jerry Corcoran' has been working at 'AutoMasters'.",
+                "Retrieve the working duration of 'Jerry Corcoran' in the company named 'AutoMasters'.",
+                "Obtain how long 'Jerry Corcoran' has been employed at 'AutoMasters'.",
+                "Years working for 'Jerry Corcoran' at 'AutoMasters'",
+                "Working years of 'Jerry Corcoran' in 'AutoMasters'",
+                "'Jerry Corcoran' serving years at 'AutoMasters'",
+                "Years of service by 'Jerry Corcoran' for 'AutoMasters'",
+                "'Jerry Corcoran' has been working at 'AutoMasters' for these years",
+                "Service years at 'AutoMasters' for 'Jerry Corcoran'",
+                "Length of employment for 'Jerry Corcoran' at 'AutoMasters'"
+            ]
+        ]
+    ]
+]

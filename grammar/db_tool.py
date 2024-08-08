@@ -96,7 +96,7 @@ class DBTool:
             Returns:
                 schema (List[Tuple[str, List[Dict]]]): a list of tuples, each tuple contains the table name and the columns
             """
-        assert type(entity_types) == list
+        assert isinstance(entity_types, (list, tuple)), "`entity_types` must be a list or tuple"
         schema = []
         
         for table_name, columns in self.db_schema:

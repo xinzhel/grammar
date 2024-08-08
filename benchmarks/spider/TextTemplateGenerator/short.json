@@ -1,1 +1,62 @@
-{"SELECT Industry FROM company WHERE Name = '[company.Name]';": ["Retrieve the industry type of the company named '[company.Name]'.", "Fetch the industry associated with the company '[company.Name]'.", "Obtain the industry for the company labelled as '[company.Name]'."], "SELECT Headquarters FROM company WHERE Name = '[company.Name]';": ["Find the headquarters of the company named '[company.Name]'.", "Search for the location of the headquarters for the company called '[company.Name]'.", "Lookup where the headquarters for '[company.Name]' company is located."], "SELECT Nationality FROM people WHERE Name = '[people.Name]';": ["Get the nationality of the person named '[people.Name]'.", "Retrieve the nationality of person with name '[people.Name]'.", "Identify the nationality for the individual named '[people.Name]'."], "SELECT Graduation_College FROM people WHERE Name = '[people.Name]';": ["Find the graduation college for a person with the name '[people.Name]'.", "Looking up the college where the person named '[people.Name]' graduated from.", "Obtain the name of the graduation college for '[people.Name]'."], "SELECT e.Year_working FROM employment e JOIN company c ON e.Company_ID = c.Company_ID JOIN people p ON e.People_ID = p.People_ID WHERE c.Name = '[company.Name]' AND p.Name = '[people.Name]';": ["Find the number of years '[people.Name]' has been working at '[company.Name]'.", "Retrieve the working duration of '[people.Name]' in the company named '[company.Name]'.", "Obtain how long '[people.Name]' has been employed at '[company.Name]'."]}
+{
+    "SELECT Industry FROM company WHERE Name = '[company.Name]';": [
+        "Retrieve the industry type of the company named '[company.Name]'.",
+        "Fetch the industry associated with the company '[company.Name]'.",
+        "Obtain the industry for the company labelled as '[company.Name]'.",
+        "Fetch industry from a business with the name '[company.Name]'.",
+        "Finding the industry of the firm named '[company.Name]'.",
+        "Retrieving industry related to the organization named '[company.Name]'.",
+        "Obtaining the sector linked to the corporate entity '[company.Name]'.",
+        "Collect the industry of the entity labelled '[company.Name]'.",
+        "Obtain industry corresponding to company named '[company.Name]'.",
+        "Find the sector associated with the business titled '[company.Name]'."
+    ],
+    "SELECT Headquarters FROM company WHERE Name = '[company.Name]';": [
+        "Find the headquarters of the company named '[company.Name]'.",
+        "Search for the location of the headquarters for the company called '[company.Name]'.",
+        "Lookup where the headquarters for '[company.Name]' company is located.",
+        "Headquarters location for company named '[company.Name]'",
+        "Find the headquarters of '[company.Name]'",
+        "Locate the headquarters for '[company.Name]'",
+        "Headquarters for '[company.Name]' is needed ",
+        "Determine the headquarters of '[company.Name]'",
+        "Fetch the headquarters location for '[company.Name]'",
+        "Finding the location of the main office for '[company.Name]'"
+    ],
+    "SELECT Nationality FROM people WHERE Name = '[people.Name]';": [
+        "Get the nationality of the person named '[people.Name]'.",
+        "Retrieve the nationality of person with name '[people.Name]'.",
+        "Identify the nationality for the individual named '[people.Name]'.",
+        "Fetch nationality of person named '[people.Name]'.",
+        "Retrieving nationality for '[people.Name]'.",
+        "Find the nationality of '[people.Name]'.",
+        "Obtain the nationality of the person named '[people.Name]'.",
+        "Acquire nationality information for '[people.Name]'.",
+        "Seeking nationality of individual named '[people.Name]'.",
+        "Discover the nationality of the person '[people.Name]'."
+    ],
+    "SELECT Graduation_College FROM people WHERE Name = '[people.Name]';": [
+        "Find the graduation college for a person with the name '[people.Name]'.",
+        "Looking up the college where the person named '[people.Name]' graduated from.",
+        "Obtain the name of the graduation college for '[people.Name]'.",
+        "Get graduation college for person named '[people.Name]'",
+        "Fetch graduation college of '[people.Name]'",
+        "Pull the graduation college where person's name is '[people.Name]'",
+        "Get the graduating college of '[people.Name]'",
+        "Fetch information on the college where '[people.Name]' graduated",
+        "Obtain graduation college for '[people.Name]'",
+        "Retrieve college from which '[people.Name]' graduated"
+    ],
+    "SELECT e.Year_working FROM employment e JOIN company c ON e.Company_ID = c.Company_ID JOIN people p ON e.People_ID = p.People_ID WHERE c.Name = '[company.Name]' AND p.Name = '[people.Name]';": [
+        "Find the number of years '[people.Name]' has been working at '[company.Name]'.",
+        "Retrieve the working duration of '[people.Name]' in the company named '[company.Name]'.",
+        "Obtain how long '[people.Name]' has been employed at '[company.Name]'.",
+        "Years working for '[people.Name]' at '[company.Name]'",
+        "Working years of '[people.Name]' in '[company.Name]'",
+        "'[people.Name]' serving years at '[company.Name]'",
+        "Years of service by '[people.Name]' for '[company.Name]'",
+        "'[people.Name]' has been working at '[company.Name]' for these years",
+        "Service years at '[company.Name]' for '[people.Name]'",
+        "Length of employment for '[people.Name]' at '[company.Name]'"
+    ]
+}
