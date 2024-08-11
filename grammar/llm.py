@@ -16,7 +16,7 @@ from tenacity import (
 )
 class GPTUsageRecord:
     def __init__(self):
-        self.episode_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+        self.episode_usage = {'num_invoke': 0, "prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
 
     # update the total usage of the model
     def write_usage(self, model_name):
@@ -26,7 +26,10 @@ class GPTUsageRecord:
             with open(file, 'r') as f:
                 previous_usage = json.load(f)
         else:
-            previous_usage = {'total': {'prompt_tokens': 0, 'completion_tokens': 0, 'total_tokens': 0}, 'recent': {'prompt_tokens': 0, 'completion_tokens': 0, 'total_tokens': 0}}
+            previous_usage = {
+                'total': {'num_invoke': 0, 'prompt_tokens': 0, 'completion_tokens': 0, 'total_tokens': 0}, 
+                'recent': {'num_invoke': 0, 'prompt_tokens': 0, 'completion_tokens': 0, 'total_tokens': 0}
+            }
 
 
         # write gpt usage record to json
@@ -94,6 +97,7 @@ class AnyOpenAILLM:
         for key in self.gpt_usage_record.episode_usage.keys():
             try:
                 self.gpt_usage_record.episode_usage[key] += completion.usage.to_dict()[key]
+                self.gpt_usage_record.episode_usage['num_invoke'] += 1
             except:
                 pass
         return completion.choices[0].message.content

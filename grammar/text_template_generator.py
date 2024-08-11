@@ -24,6 +24,7 @@ class TextTemplateGenerator(Generator):
         \n\t- Each placeholder is a combination of table and column names, formatted as "[Table.Column]", like "[User.Name]".\
         \n\t- Keep the original placeholders from the SQL queries intact.\
         \n\t- Create text that can be comprehended by people who have no knowledge of relational databases.\
+        \n\t- To imitate real-user queries, generated queries should not indicate the existence of a relational database or tables or SQL query.\
         \n\t- {constraints}
 
         ##RESPONSE FORMAT##

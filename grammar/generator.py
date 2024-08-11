@@ -23,11 +23,18 @@ class Generator(ABC):
         self.llm = llm.gpt4_llm if llm is None else llm
 
         # cache
+        self.cache_from = None
         if self.only_cache_default:
             self.cache_generations = []
         else:
             # avoid re-generating with the same prompt
             self.cache_generations = {}
+        
+        # Used for testing the use of other Python objects along with `Generator` so the real generation is not necessary
+        self._test_mode = False
+    
+    def set_test_mode(self, test_mode:bool):
+        self._test_mode = test_mode
             
     @classmethod
     def from_file(cls, file_path:str=None, root_dir: str='.', **kwargs):
@@ -45,17 +52,22 @@ class Generator(ABC):
                     # convert the keys to the original type
                     try:
                         generator.cache_generations =  {eval(k): v for k, v in cache_generations.items()}
+                        generator.cache_from = file_path
                     except:
                         generator.cache_generations = cache_generations
         return generator
     
     def save(self, file_path:str=None, root_dir:str='.', override=False):
+        if self._test_mode: 
+            return
         file_path = self._default_save_path(root_dir=root_dir) if file_path is None else file_path
         if os.path.exists(file_path):
             if not override:
                 raise ValueError(f"File {file_path} already exists.")
             else:
                 os.remove(file_path)
+        else: # make dir if dir not exist; otherwise, keep the same
+            os.makedirs(os.path.dirname(file_path), exist_ok=True)
         with open(file_path, 'w') as fp:
             if self.only_cache_default:
                 assert isinstance(self.cache_generations, list), "The `cache_generations` should be a list."
@@ -81,6 +93,7 @@ class Generator(ABC):
     
     def generate(self, k: Union[str, tuple[str]]=None, num_generations=None, verbose=False, override=False): 
         
+        
         if self.only_cache_default:
             assert k is None, "The `k` should not be given when `only_cache_default` is True."
             if not self.cache_generations:
@@ -98,6 +111,10 @@ class Generator(ABC):
                     print(f"The {len(exist_generations)} generations for the input `k` exist in `cache_generations`! No need to generate more.")
                 return exist_generations[:num_generations+1]
             # Case 1.2: generate more
+            if self._test_mode:
+                import time
+                print(f'TEST MODE: waiting for 1000 seconds for stopping LLM generation... \n Key: {k} \n \File Path: {self.cache_from}')
+                time.sleep(1000)
             new_generations = self._generate(k, num_generations=num_generations-len(exist_generations), verbose=verbose)
             self.cache_generations[k].extend(new_generations)
             if verbose:
@@ -105,6 +122,10 @@ class Generator(ABC):
         else:
             # Case 2: not in cache; 
             # Case 3: override
+            if self._test_mode:
+                import time
+                print(f'TEST MODE: waiting for 1000 seconds for stopping LLM generation... \n Key: {k} \n \File Path: {self.cache_from}')
+                time.sleep(1000)
             self.cache_generations[k] = self._generate(k, num_generations=num_generations, verbose=verbose)
         return self.cache_generations[k]
 

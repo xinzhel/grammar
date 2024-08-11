@@ -1,0 +1,13 @@
+{
+    "short": {
+        "num_invoke": 405,
+        "prompt_tokens": 16693,
+        "completion_tokens": 135,
+        "total_tokens": 16828
+    },
+    "long": {
+        "prompt_tokens": 18437,
+        "completion_tokens": 131,
+        "total_tokens": 18568
+    }
+}

@@ -1,5 +1,0 @@
-SELECT StartDate FROM Project WHERE Name = '[Project.Name]';
-SELECT EndDate FROM Project WHERE Name = '[Project.Name]';
-SELECT Client FROM Project WHERE Name = '[Project.Name]';
-SELECT ProjectDirector FROM Project WHERE Name = '[Project.Name]';
-SELECT ProjectManager FROM Project WHERE Name = '[Project.Name]';

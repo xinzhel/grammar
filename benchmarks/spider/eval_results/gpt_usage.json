@@ -1,15 +1,23 @@
 {
-    "long_add_for_balance": {
+    "long_response_add_for_balance": {
         "prompt_tokens": 65112,
         "completion_tokens": 10876,
         "total_tokens": 75988
     },
-    "short_add_for_balance": {
+    "short_response_add_for_balance": {
         "prompt_tokens": 57087,
         "completion_tokens": 5772,
         "total_tokens": 62859
+    },
+    "long_judgement_add_for_balance": {
+        "prompt_tokens": 26694,
+        "completion_tokens": 134,
+        "total_tokens": 26828
+    },
+    "short_judgement_add_for_balance": {
+        "num_invoke": 528,
+        "prompt_tokens": 26516,
+        "completion_tokens": 176,
+        "total_tokens": 26692
     }
 }
-
-
-

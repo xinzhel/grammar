@@ -1,0 +1,13 @@
+{
+    "short": {
+        "prompt_tokens": 154677,
+        "completion_tokens": 10814,
+        "total_tokens": 165491
+    },
+    "long": {
+        "prompt_tokens": 60048,
+        "completion_tokens": 2913,
+        "total_tokens": 62961
+    }
+
+}

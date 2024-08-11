@@ -1,0 +1,18 @@
+{
+    "('client',)": [
+        "SELECT Location, Name FROM Client WHERE Name = '[Client.Name]';",
+        "SELECT Industry, Name FROM Client WHERE Name = '[Client.Name]';"
+    ],
+    "('employee',)": [
+        "SELECT JobTitle, Name FROM Employee WHERE Name = '[Employee.Name]';",
+        "SELECT Department, Name FROM Employee WHERE Name = '[Employee.Name]';",
+        "SELECT SupervisorOrManager, Name FROM Employee WHERE Name = '[Employee.Name]';"
+    ],
+    "('project', )": [
+        "SELECT StartDate, Name FROM Project WHERE Name = '[Project.Name]';",
+        "SELECT EndDate, Name FROM Project WHERE Name = '[Project.Name]';",
+        "SELECT Client, Name FROM Project WHERE Name = '[Project.Name]';",
+        "SELECT ProjectDirector, Name FROM Project WHERE Name = '[Project.Name]';",
+        "SELECT ProjectManager, Name FROM Project WHERE Name = '[Project.Name]';"
+    ]
+}

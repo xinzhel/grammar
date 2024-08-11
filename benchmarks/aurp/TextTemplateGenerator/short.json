@@ -1,58 +1,52 @@
 {
-    "Project": {
-        "SELECT StartDate FROM Project WHERE Name = '[Project.Name]';": [
-            "Start date for project '[Project.Name]'",
-            "Look up start date of '[Project.Name]'",
-            "Get '[Project.Name]' start date"
-        ],
-        "SELECT EndDate FROM Project WHERE Name = '[Project.Name]';": [
-            "Get end date for '[Project.Name]'",
-            "Look up end date corresponding to '[Project.Name]'",
-            "Fetch end date linked with '[Project.Name]'"
-        ],
-        "SELECT Client FROM Project WHERE Name = '[Project.Name]';": [
-            "Client linked with '[Project.Name]'",
-            "Client belonging to '[Project.Name]'",
-            "Client associated with '[Project.Name]'"
-        ],
-        "SELECT ProjectDirector FROM Project WHERE Name = '[Project.Name]';": [
-            "Project director for '[Project.Name]'",
-            "Who's the project director of '[Project.Name]'?",
-            "Identify the director of project '[Project.Name]'"
-        ],
-        "SELECT ProjectManager FROM Project WHERE Name = '[Project.Name]';": [
-            "Project manager for '[Project.Name]'",
-            "Who is the project manager of '[Project.Name]'?",
-            "Identify the project manager of '[Project.Name]'"
-        ]
-    },
-    "Client": {
-        "SELECT Location FROM Client WHERE Name = '[Client.Name]';": [
-            "Get '[Client.Name]' location details",
-            "Find which location '[Client.Name]' is located in",
-            "Determine the location of '[Client.Name]'"
-        ],
-        "SELECT Industry FROM Client WHERE Name = '[Client.Name]';": [
-            "Get industry for '[Client.Name]'.",
-            "Find industry associated with '[Client.Name]'.",
-            "Check industry of '[Client.Name]'."
-        ]
-    },
-    "Employee": {
-        "SELECT JobTitle FROM Employee WHERE Name = '[Employee.Name]';": [
-            "'Job title' under '[Employee.Name]'",
-            "'Job title' corresponding to '[Employee.Name]'",
-            "The work designation for '[Employee.Name]'"
-        ],
-        "SELECT Department FROM Employee WHERE Name = '[Employee.Name]';": [
-            "Check '[Employee.Name]' for department",
-            "Department corresponding to '[Employee.Name]'",
-            "Look for department associated with '[Employee.Name]'"
-        ],
-        "SELECT SupervisorOrManager FROM Employee WHERE Name = '[Employee.Name]';": [
-            "Find supervisor or manager for '[Employee.Name]'",
-            "Get supervisor or manager related to '[Employee.Name]'",
-            "Identify supervisor or manager corresponding to '[Employee.Name]'"
-        ]
-    }
+    "SELECT StartDate FROM Project WHERE Name = '[Project.Name]';": [
+        "Start date for project '[Project.Name]'",
+        "Look up start date of '[Project.Name]'",
+        "Get '[Project.Name]' start date"
+    ],
+    "SELECT EndDate FROM Project WHERE Name = '[Project.Name]';": [
+        "Get end date for '[Project.Name]'",
+        "Look up end date corresponding to '[Project.Name]'",
+        "Fetch end date linked with '[Project.Name]'"
+    ],
+    "SELECT Client FROM Project WHERE Name = '[Project.Name]';": [
+        "Client linked with '[Project.Name]'",
+        "Client belonging to '[Project.Name]'",
+        "Client associated with '[Project.Name]'"
+    ],
+    "SELECT ProjectDirector FROM Project WHERE Name = '[Project.Name]';": [
+        "Project director for '[Project.Name]'",
+        "Who's the project director of '[Project.Name]'?",
+        "Identify the director of project '[Project.Name]'"
+    ],
+    "SELECT ProjectManager FROM Project WHERE Name = '[Project.Name]';": [
+        "Project manager for '[Project.Name]'",
+        "Who is the project manager of '[Project.Name]'?",
+        "Identify the project manager of '[Project.Name]'"
+    ],
+    "SELECT Location FROM Client WHERE Name = '[Client.Name]';": [
+        "Get '[Client.Name]' location details",
+        "Find which location '[Client.Name]' is located in",
+        "Determine the location of '[Client.Name]'"
+    ],
+    "SELECT Industry FROM Client WHERE Name = '[Client.Name]';": [
+        "Get industry for '[Client.Name]'.",
+        "Find industry associated with '[Client.Name]'.",
+        "Check industry of '[Client.Name]'."
+    ],
+    "SELECT JobTitle FROM Employee WHERE Name = '[Employee.Name]';": [
+        "'Job title' under '[Employee.Name]'",
+        "'Job title' corresponding to '[Employee.Name]'",
+        "The work designation for '[Employee.Name]'"
+    ],
+    "SELECT Department FROM Employee WHERE Name = '[Employee.Name]';": [
+        "Check '[Employee.Name]' for department",
+        "Department corresponding to '[Employee.Name]'",
+        "Look for department associated with '[Employee.Name]'"
+    ],
+    "SELECT SupervisorOrManager FROM Employee WHERE Name = '[Employee.Name]';": [
+        "Find supervisor or manager for '[Employee.Name]'",
+        "Get supervisor or manager related to '[Employee.Name]'",
+        "Identify supervisor or manager corresponding to '[Employee.Name]'"
+    ]
 }

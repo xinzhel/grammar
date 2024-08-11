@@ -1,0 +1,1064 @@
+[
+    [
+        [
+            "[('Maldives', 'Blue Horizon Hotels')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Blue Horizon Hotels'."
+            ]
+        ],
+        [
+            "[('Sydney, Australia', 'EcoSpace Real Estate')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'EcoSpace Real Estate'."
+            ]
+        ],
+        [
+            "[('Tokyo, Japan', 'Future Tech Innovations')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Future Tech Innovations'."
+            ]
+        ],
+        [
+            "[('Costa Rica', 'Greenworld Resorts')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Greenworld Resorts'."
+            ]
+        ],
+        [
+            "[('London, UK', 'Pinnacle Health Group')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Pinnacle Health Group'."
+            ]
+        ],
+        [
+            "[('Silicon Valley, USA', 'Quantum Communications Corp')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Quantum Communications Corp'."
+            ]
+        ],
+        [
+            "[('Paris, France', 'Serene Stays Hospitality')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Serene Stays Hospitality'."
+            ]
+        ],
+        [
+            "[('Dubai, UAE', 'Skyline Developers')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Skyline Developers'."
+            ]
+        ],
+        [
+            "[('New York City, USA', 'Urban Oasis Developments')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Urban Oasis Developments'."
+            ]
+        ],
+        [
+            "[('Mumbai, India', 'Vista Healthcare Solutions')]",
+            [
+                "Please fetch the address corresponding to the client whose name matches with the client name in our system, specifically 'Vista Healthcare Solutions'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Hospitality', 'Blue Horizon Hotels')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Blue Horizon Hotels'?"
+            ]
+        ],
+        [
+            "[('Real Estate', 'EcoSpace Real Estate')]",
+            [
+                "Could you help me find the industry for the client whose name is 'EcoSpace Real Estate'?"
+            ]
+        ],
+        [
+            "[('Technology and Communications Infrastructure', 'Future Tech Innovations')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Future Tech Innovations'?"
+            ]
+        ],
+        [
+            "[('Hospitality', 'Greenworld Resorts')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Greenworld Resorts'?"
+            ]
+        ],
+        [
+            "[('Healthcare and Hospital', 'Pinnacle Health Group')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Pinnacle Health Group'?"
+            ]
+        ],
+        [
+            "[('Technology and Communications Infrastructure', 'Quantum Communications Corp')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Quantum Communications Corp'?"
+            ]
+        ],
+        [
+            "[('Hospitality', 'Serene Stays Hospitality')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Serene Stays Hospitality'?"
+            ]
+        ],
+        [
+            "[('Real Estate', 'Skyline Developers')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Skyline Developers'?"
+            ]
+        ],
+        [
+            "[('Real Estate', 'Urban Oasis Developments')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Urban Oasis Developments'?"
+            ]
+        ],
+        [
+            "[('Healthcare and Hospital', 'Vista Healthcare Solutions')]",
+            [
+                "Could you help me find the industry for the client whose name is 'Vista Healthcare Solutions'?"
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Chief Executive Officer (CEO)', 'Dr. Helena Quantum')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Dr. Helena Quantum'."
+            ]
+        ],
+        [
+            "[('Architectural Liaison Engineer', 'Frank Lloyd Wright')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Frank Lloyd Wright'."
+            ]
+        ],
+        [
+            "[('Lead Structural Engineer', 'Gustave Eiffel')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Gustave Eiffel'."
+            ]
+        ],
+        [
+            "[('BIM (Building Information Modeling) Manager', 'Henrietta Leavitt')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Henrietta Leavitt'."
+            ]
+        ],
+        [
+            "[('Project Director', 'Leonardo Da Vinci')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Leonardo Da Vinci'."
+            ]
+        ],
+        [
+            "[('Project Director', 'Marie Curie')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Marie Curie'."
+            ]
+        ],
+        [
+            "[('Assistant Project Manager', 'Isaac Newton')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Isaac Newton'."
+            ]
+        ],
+        [
+            "[('Chief Operating Officer (COO)', 'Marcus Aurelius')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Marcus Aurelius'."
+            ]
+        ],
+        [
+            "[('Chief Technical Officer (CTO)', 'Nikola Tesla')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Nikola Tesla'."
+            ]
+        ],
+        [
+            "[('Project Coordinator', 'Mae Jemison')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Mae Jemison'."
+            ]
+        ],
+        [
+            "[('Assistant Project Manager', 'Galileo Galilei')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Galileo Galilei'."
+            ]
+        ],
+        [
+            "[('Project Coordinator', 'Rosalind Franklin')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Rosalind Franklin'."
+            ]
+        ],
+        [
+            "[('Project Coordinator', 'Chien-Shiung Wu')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Chien-Shiung Wu'."
+            ]
+        ],
+        [
+            "[('Project Manager', 'Alan Turing')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Alan Turing'."
+            ]
+        ],
+        [
+            "[('Project Manager', 'Grace Hopper')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Grace Hopper'."
+            ]
+        ],
+        [
+            "[('Marketing and Communications Manager', 'Don Draper')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Don Draper'."
+            ]
+        ],
+        [
+            "[('Director of Sustainability', 'Rachel Carson')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Rachel Carson'."
+            ]
+        ],
+        [
+            "[('Human Resources Manager', 'Sheryl Sandberg')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Sheryl Sandberg'."
+            ]
+        ],
+        [
+            "[('Finance Manager', 'Warren Buffett')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Warren Buffett'."
+            ]
+        ],
+        [
+            "[('Project Manager', 'George Washington Carver')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'George Washington Carver'."
+            ]
+        ],
+        [
+            "[('Project Manager', 'Hedy Lamarr')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Hedy Lamarr'."
+            ]
+        ],
+        [
+            "[('Director of Engineering', 'Ada Lovelace')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Ada Lovelace'."
+            ]
+        ],
+        [
+            "[('IT Support Specialist', 'Ada Lovelace (IT)')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Ada Lovelace (IT)'."
+            ]
+        ],
+        [
+            "[('Structural Health Monitoring Engineer', 'Alexander Graham Bell')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Alexander Graham Bell'."
+            ]
+        ],
+        [
+            "[('Design Engineer', 'Leonardo Vinci')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Leonardo Vinci'."
+            ]
+        ],
+        [
+            "[('IT Support Specialist', 'Linus Torvalds')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Linus Torvalds'."
+            ]
+        ],
+        [
+            "[('Design Engineer', 'Steve Jobs')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Steve Jobs'."
+            ]
+        ],
+        [
+            "[('Sustainability Consultant', 'Greta Thunberg')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'Greta Thunberg'."
+            ]
+        ],
+        [
+            "[('Sustainability Consultant', 'John Muir')]",
+            [
+                "Please search in the 'Employee' records and retrieve the job title of the person whose name matches with 'John Muir'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Executive Management', 'Dr. Helena Quantum')]",
+            [
+                "The system is looking for information about the department where the employee named Dr. Helena Quantum is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Architectural Integration', 'Frank Lloyd Wright')]",
+            [
+                "The system is looking for information about the department where the employee named Frank Lloyd Wright is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Structural Engineering', 'Gustave Eiffel')]",
+            [
+                "The system is looking for information about the department where the employee named Gustave Eiffel is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Digital Construction Management', 'Henrietta Leavitt')]",
+            [
+                "The system is looking for information about the department where the employee named Henrietta Leavitt is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Special Projects', 'Leonardo Da Vinci')]",
+            [
+                "The system is looking for information about the department where the employee named Leonardo Da Vinci is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Research and Development Projects', 'Marie Curie')]",
+            [
+                "The system is looking for information about the department where the employee named Marie Curie is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Physics Applications in Structural Design', 'Isaac Newton')]",
+            [
+                "The system is looking for information about the department where the employee named Isaac Newton is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Operations', 'Marcus Aurelius')]",
+            [
+                "The system is looking for information about the department where the employee named Marcus Aurelius is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Technology and Innovation', 'Nikola Tesla')]",
+            [
+                "The system is looking for information about the department where the employee named Nikola Tesla is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Space Utilization and Design', 'Mae Jemison')]",
+            [
+                "The system is looking for information about the department where the employee named Mae Jemison is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Observational Technologies for Construction', 'Galileo Galilei')]",
+            [
+                "The system is looking for information about the department where the employee named Galileo Galilei is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Engineering Documentation and Compliance', 'Rosalind Franklin')]",
+            [
+                "The system is looking for information about the department where the employee named Rosalind Franklin is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Quantum Mechanics in Structural Engineering', 'Chien-Shiung Wu')]",
+            [
+                "The system is looking for information about the department where the employee named Chien-Shiung Wu is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Technology Integration Projects', 'Alan Turing')]",
+            [
+                "The system is looking for information about the department where the employee named Alan Turing is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Software Development for Engineering Tools', 'Grace Hopper')]",
+            [
+                "The system is looking for information about the department where the employee named Grace Hopper is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Marketing and Public Relations', 'Don Draper')]",
+            [
+                "The system is looking for information about the department where the employee named Don Draper is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Sustainability Initiatives', 'Rachel Carson')]",
+            [
+                "The system is looking for information about the department where the employee named Rachel Carson is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Human Resources', 'Sheryl Sandberg')]",
+            [
+                "The system is looking for information about the department where the employee named Sheryl Sandberg is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Finance', 'Warren Buffett')]",
+            [
+                "The system is looking for information about the department where the employee named Warren Buffett is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Sustainable Materials Research', 'George Washington Carver')]",
+            [
+                "The system is looking for information about the department where the employee named George Washington Carver is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Communication Systems Projects', 'Hedy Lamarr')]",
+            [
+                "The system is looking for information about the department where the employee named Hedy Lamarr is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Engineering', 'Ada Lovelace')]",
+            [
+                "The system is looking for information about the department where the employee named Ada Lovelace is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Information Technology', 'Ada Lovelace (IT)')]",
+            [
+                "The system is looking for information about the department where the employee named Ada Lovelace (IT) is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Structural Integrity Assessment', 'Alexander Graham Bell')]",
+            [
+                "The system is looking for information about the department where the employee named Alexander Graham Bell is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Conceptual Design and Visualization', 'Leonardo Vinci')]",
+            [
+                "The system is looking for information about the department where the employee named Leonardo Vinci is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Information Technology', 'Linus Torvalds')]",
+            [
+                "The system is looking for information about the department where the employee named Linus Torvalds is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('User Interface Design for Engineering Software', 'Steve Jobs')]",
+            [
+                "The system is looking for information about the department where the employee named Steve Jobs is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Climate Change Adaptation Strategies', 'Greta Thunberg')]",
+            [
+                "The system is looking for information about the department where the employee named Greta Thunberg is working, according to the information about the employee."
+            ]
+        ],
+        [
+            "[('Environmental Impact Analysis', 'John Muir')]",
+            [
+                "The system is looking for information about the department where the employee named John Muir is working, according to the information about the employee."
+            ]
+        ]
+    ],
+    [
+        [
+            "[(None, 'Dr. Helena Quantum')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Dr. Helena Quantum'.  "
+            ]
+        ],
+        [
+            "[('Ada Lovelace', 'Frank Lloyd Wright')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Frank Lloyd Wright'.  "
+            ]
+        ],
+        [
+            "[('Ada Lovelace', 'Gustave Eiffel')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Gustave Eiffel'.  "
+            ]
+        ],
+        [
+            "[('Ada Lovelace', 'Henrietta Leavitt')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Henrietta Leavitt'.  "
+            ]
+        ],
+        [
+            "[('Ada Lovelace', 'Leonardo Da Vinci')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Leonardo Da Vinci'.  "
+            ]
+        ],
+        [
+            "[('Ada Lovelace', 'Marie Curie')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Marie Curie'.  "
+            ]
+        ],
+        [
+            "[('Alan Turing', 'Isaac Newton')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Isaac Newton'.  "
+            ]
+        ],
+        [
+            "[('Dr. Helena Quantum', 'Marcus Aurelius')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Marcus Aurelius'.  "
+            ]
+        ],
+        [
+            "[('Dr. Helena Quantum', 'Nikola Tesla')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Nikola Tesla'.  "
+            ]
+        ],
+        [
+            "[('George Washington Carver', 'Mae Jemison')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Mae Jemison'.  "
+            ]
+        ],
+        [
+            "[('Grace Hopper', 'Galileo Galilei')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Galileo Galilei'.  "
+            ]
+        ],
+        [
+            "[('Hedy Lamarr', 'Rosalind Franklin')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Rosalind Franklin'.  "
+            ]
+        ],
+        [
+            "[('Isaac Newton', 'Chien-Shiung Wu')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Chien-Shiung Wu'.  "
+            ]
+        ],
+        [
+            "[('Leonardo Da Vinci', 'Alan Turing')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Alan Turing'.  "
+            ]
+        ],
+        [
+            "[('Leonardo Da Vinci', 'Grace Hopper')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Grace Hopper'.  "
+            ]
+        ],
+        [
+            "[('Marcus Aurelius', 'Don Draper')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Don Draper'.  "
+            ]
+        ],
+        [
+            "[('Marcus Aurelius', 'Rachel Carson')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Rachel Carson'.  "
+            ]
+        ],
+        [
+            "[('Marcus Aurelius', 'Sheryl Sandberg')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Sheryl Sandberg'.  "
+            ]
+        ],
+        [
+            "[('Marcus Aurelius', 'Warren Buffett')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Warren Buffett'.  "
+            ]
+        ],
+        [
+            "[('Marie Curie', 'George Washington Carver')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'George Washington Carver'.  "
+            ]
+        ],
+        [
+            "[('Marie Curie', 'Hedy Lamarr')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Hedy Lamarr'.  "
+            ]
+        ],
+        [
+            "[('Nikola Tesla', 'Ada Lovelace')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Ada Lovelace'.  "
+            ]
+        ],
+        [
+            "[('Nikola Tesla', 'Ada Lovelace (IT)')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Ada Lovelace (IT)'.  "
+            ]
+        ],
+        [
+            "[('Nikola Tesla', 'Alexander Graham Bell')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Alexander Graham Bell'.  "
+            ]
+        ],
+        [
+            "[('Nikola Tesla', 'Leonardo Vinci')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Leonardo Vinci'.  "
+            ]
+        ],
+        [
+            "[('Nikola Tesla', 'Linus Torvalds')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Linus Torvalds'.  "
+            ]
+        ],
+        [
+            "[('Nikola Tesla', 'Steve Jobs')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Steve Jobs'.  "
+            ]
+        ],
+        [
+            "[('Rachel Carson', 'Greta Thunberg')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'Greta Thunberg'.  "
+            ]
+        ],
+        [
+            "[('Rachel Carson', 'John Muir')]",
+            [
+                "In the workplace, we are querying to find out who is the supervisor or manager of the employee whose name is mentioned as 'John Muir'.  "
+            ]
+        ]
+    ],
+    [
+        [
+            "[('2023-04-01', 'Blue Lagoon Luxury Resort')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Blue Lagoon Luxury Resort'. ",
+                "Let's find out the date when the project named 'Blue Lagoon Luxury Resort' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Blue Lagoon Luxury Resort', officially commenced."
+            ]
+        ],
+        [
+            "[('2022-08-01', 'Harbour View Green Spaces')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Harbour View Green Spaces'. ",
+                "Let's find out the date when the project named 'Harbour View Green Spaces' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Harbour View Green Spaces', officially commenced."
+            ]
+        ],
+        [
+            "[('2023-02-01', 'Innovative Tech Park')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Innovative Tech Park'. ",
+                "Let's find out the date when the project named 'Innovative Tech Park' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Innovative Tech Park', officially commenced."
+            ]
+        ],
+        [
+            "[('2022-11-15', 'Eco Retreat Development')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Eco Retreat Development'. ",
+                "Let's find out the date when the project named 'Eco Retreat Development' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Eco Retreat Development', officially commenced."
+            ]
+        ],
+        [
+            "[('2021-07-01', 'Central City Medical Hub')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Central City Medical Hub'. ",
+                "Let's find out the date when the project named 'Central City Medical Hub' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Central City Medical Hub', officially commenced."
+            ]
+        ],
+        [
+            "[('2023-01-15', 'Quantum Data Center Expansion')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Quantum Data Center Expansion'. ",
+                "Let's find out the date when the project named 'Quantum Data Center Expansion' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Quantum Data Center Expansion', officially commenced."
+            ]
+        ],
+        [
+            "[('2023-03-01', 'Champs-\u00c9lys\u00e9es Boutique Hotel')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Champs-\u00c9lys\u00e9es Boutique Hotel'. ",
+                "Let's find out the date when the project named 'Champs-\u00c9lys\u00e9es Boutique Hotel' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Champs-\u00c9lys\u00e9es Boutique Hotel', officially commenced."
+            ]
+        ],
+        [
+            "[('2022-09-01', 'Dubai Skyline Tower')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Dubai Skyline Tower'. ",
+                "Let's find out the date when the project named 'Dubai Skyline Tower' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Dubai Skyline Tower', officially commenced."
+            ]
+        ],
+        [
+            "[('2022-05-01', 'Metropolitan Luxury Apartments')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Metropolitan Luxury Apartments'. ",
+                "Let's find out the date when the project named 'Metropolitan Luxury Apartments' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Metropolitan Luxury Apartments', officially commenced."
+            ]
+        ],
+        [
+            "[('2023-01-10', 'Advanced Health Research Facility')]",
+            [
+                "The query is looking up the starting date for a particular project, and the name of that specific project is given as 'Advanced Health Research Facility'. ",
+                "Let's find out the date when the project named 'Advanced Health Research Facility' was initiated according to the records held in our project database. ",
+                "In reference to the information from our project database, we are interested in locating the details of when a certain project, identified as 'Advanced Health Research Facility', officially commenced."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('2025-05-20', 'Blue Lagoon Luxury Resort')]",
+            [
+                "Let's see when the project with the name 'Blue Lagoon Luxury Resort' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Blue Lagoon Luxury Resort'?",
+                "I need to find out when the project titled 'Blue Lagoon Luxury Resort' is expected to end."
+            ]
+        ],
+        [
+            "[('2025-02-20', 'Harbour View Green Spaces')]",
+            [
+                "Let's see when the project with the name 'Harbour View Green Spaces' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Harbour View Green Spaces'?",
+                "I need to find out when the project titled 'Harbour View Green Spaces' is expected to end."
+            ]
+        ],
+        [
+            "[('2025-03-15', 'Innovative Tech Park')]",
+            [
+                "Let's see when the project with the name 'Innovative Tech Park' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Innovative Tech Park'?",
+                "I need to find out when the project titled 'Innovative Tech Park' is expected to end."
+            ]
+        ],
+        [
+            "[('2024-08-30', 'Eco Retreat Development')]",
+            [
+                "Let's see when the project with the name 'Eco Retreat Development' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Eco Retreat Development'?",
+                "I need to find out when the project titled 'Eco Retreat Development' is expected to end."
+            ]
+        ],
+        [
+            "[('2023-09-30', 'Central City Medical Hub')]",
+            [
+                "Let's see when the project with the name 'Central City Medical Hub' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Central City Medical Hub'?",
+                "I need to find out when the project titled 'Central City Medical Hub' is expected to end."
+            ]
+        ],
+        [
+            "[('2024-06-30', 'Quantum Data Center Expansion')]",
+            [
+                "Let's see when the project with the name 'Quantum Data Center Expansion' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Quantum Data Center Expansion'?",
+                "I need to find out when the project titled 'Quantum Data Center Expansion' is expected to end."
+            ]
+        ],
+        [
+            "[('2024-10-30', 'Champs-\u00c9lys\u00e9es Boutique Hotel')]",
+            [
+                "Let's see when the project with the name 'Champs-\u00c9lys\u00e9es Boutique Hotel' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Champs-\u00c9lys\u00e9es Boutique Hotel'?",
+                "I need to find out when the project titled 'Champs-\u00c9lys\u00e9es Boutique Hotel' is expected to end."
+            ]
+        ],
+        [
+            "[('2025-12-31', 'Dubai Skyline Tower')]",
+            [
+                "Let's see when the project with the name 'Dubai Skyline Tower' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Dubai Skyline Tower'?",
+                "I need to find out when the project titled 'Dubai Skyline Tower' is expected to end."
+            ]
+        ],
+        [
+            "[('2024-12-31', 'Metropolitan Luxury Apartments')]",
+            [
+                "Let's see when the project with the name 'Metropolitan Luxury Apartments' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Metropolitan Luxury Apartments'?",
+                "I need to find out when the project titled 'Metropolitan Luxury Apartments' is expected to end."
+            ]
+        ],
+        [
+            "[('2024-07-25', 'Advanced Health Research Facility')]",
+            [
+                "Let's see when the project with the name 'Advanced Health Research Facility' is scheduled to end. ",
+                "Can you provide me the completion date for the project that goes by the name 'Advanced Health Research Facility'?",
+                "I need to find out when the project titled 'Advanced Health Research Facility' is expected to end."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Blue Horizon Hotels', 'Blue Lagoon Luxury Resort')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Blue Lagoon Luxury Resort'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Blue Lagoon Luxury Resort'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Blue Lagoon Luxury Resort'."
+            ]
+        ],
+        [
+            "[('EcoSpace Real Estate', 'Harbour View Green Spaces')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Harbour View Green Spaces'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Harbour View Green Spaces'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Harbour View Green Spaces'."
+            ]
+        ],
+        [
+            "[('Future Tech Innovations', 'Innovative Tech Park')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Innovative Tech Park'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Innovative Tech Park'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Innovative Tech Park'."
+            ]
+        ],
+        [
+            "[('Greenworld Resorts', 'Eco Retreat Development')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Eco Retreat Development'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Eco Retreat Development'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Eco Retreat Development'."
+            ]
+        ],
+        [
+            "[('Pinnacle Health Group', 'Central City Medical Hub')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Central City Medical Hub'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Central City Medical Hub'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Central City Medical Hub'."
+            ]
+        ],
+        [
+            "[('Quantum Communications Corp', 'Quantum Data Center Expansion')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Quantum Data Center Expansion'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Quantum Data Center Expansion'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Quantum Data Center Expansion'."
+            ]
+        ],
+        [
+            "[('Serene Stays Hospitality', 'Champs-\u00c9lys\u00e9es Boutique Hotel')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Champs-\u00c9lys\u00e9es Boutique Hotel'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Champs-\u00c9lys\u00e9es Boutique Hotel'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Champs-\u00c9lys\u00e9es Boutique Hotel'."
+            ]
+        ],
+        [
+            "[('Skyline Developers', 'Dubai Skyline Tower')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Dubai Skyline Tower'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Dubai Skyline Tower'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Dubai Skyline Tower'."
+            ]
+        ],
+        [
+            "[('Urban Oasis Developments', 'Metropolitan Luxury Apartments')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Metropolitan Luxury Apartments'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Metropolitan Luxury Apartments'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Metropolitan Luxury Apartments'."
+            ]
+        ],
+        [
+            "[('Vista Healthcare Solutions', 'Advanced Health Research Facility')]",
+            [
+                "The task at hand entails looking for a client associated with a project. This specific project is recognized by its distinct name, 'Advanced Health Research Facility'. ",
+                "We're on a quest to identify the client who is linked to a particular project, which goes by the unique moniker of 'Advanced Health Research Facility'. ",
+                "A search is in progress to find out which client is connected to a specific project that carries the distinctive identifier 'Advanced Health Research Facility'."
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Leonardo Da Vinci', 'Blue Lagoon Luxury Resort')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Blue Lagoon Luxury Resort'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Blue Lagoon Luxury Resort'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Blue Lagoon Luxury Resort'?"
+            ]
+        ],
+        [
+            "[('Marie Curie', 'Harbour View Green Spaces')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Harbour View Green Spaces'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Harbour View Green Spaces'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Harbour View Green Spaces'?"
+            ]
+        ],
+        [
+            "[('Marie Curie', 'Innovative Tech Park')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Innovative Tech Park'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Innovative Tech Park'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Innovative Tech Park'?"
+            ]
+        ],
+        [
+            "[('Marie Curie', 'Eco Retreat Development')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Eco Retreat Development'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Eco Retreat Development'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Eco Retreat Development'?"
+            ]
+        ],
+        [
+            "[('Leonardo Da Vinci', 'Central City Medical Hub')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Central City Medical Hub'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Central City Medical Hub'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Central City Medical Hub'?"
+            ]
+        ],
+        [
+            "[('Leonardo Da Vinci', 'Quantum Data Center Expansion')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Quantum Data Center Expansion'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Quantum Data Center Expansion'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Quantum Data Center Expansion'?"
+            ]
+        ],
+        [
+            "[('Marie Curie', 'Champs-\u00c9lys\u00e9es Boutique Hotel')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Champs-\u00c9lys\u00e9es Boutique Hotel'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Champs-\u00c9lys\u00e9es Boutique Hotel'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Champs-\u00c9lys\u00e9es Boutique Hotel'?"
+            ]
+        ],
+        [
+            "[('Marie Curie', 'Dubai Skyline Tower')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Dubai Skyline Tower'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Dubai Skyline Tower'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Dubai Skyline Tower'?"
+            ]
+        ],
+        [
+            "[('Leonardo Da Vinci', 'Metropolitan Luxury Apartments')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Metropolitan Luxury Apartments'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Metropolitan Luxury Apartments'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Metropolitan Luxury Apartments'?"
+            ]
+        ],
+        [
+            "[('Leonardo Da Vinci', 'Advanced Health Research Facility')]",
+            [
+                "Could you tell me who the Project Director is for the project named 'Advanced Health Research Facility'?",
+                "Can you find out who is in charge as the Project Director for the specific project that holds the name 'Advanced Health Research Facility'?",
+                "Would you mind finding out the name of the Project Director responsible for the project with the name 'Advanced Health Research Facility'?"
+            ]
+        ]
+    ],
+    [
+        [
+            "[('Hedy Lamarr', 'Blue Lagoon Luxury Resort')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Blue Lagoon Luxury Resort'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Blue Lagoon Luxury Resort'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Blue Lagoon Luxury Resort' according to the information for the client."
+            ]
+        ],
+        [
+            "[('Grace Hopper', 'Harbour View Green Spaces')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Harbour View Green Spaces'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Harbour View Green Spaces'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Harbour View Green Spaces' according to the information for the client."
+            ]
+        ],
+        [
+            "[('Grace Hopper', 'Innovative Tech Park')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Innovative Tech Park'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Innovative Tech Park'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Innovative Tech Park' according to the information for the client."
+            ]
+        ],
+        [
+            "[('George Washington Carver', 'Eco Retreat Development')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Eco Retreat Development'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Eco Retreat Development'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Eco Retreat Development' according to the information for the client."
+            ]
+        ],
+        [
+            "[('Alan Turing', 'Central City Medical Hub')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Central City Medical Hub'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Central City Medical Hub'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Central City Medical Hub' according to the information for the client."
+            ]
+        ],
+        [
+            "[('Alan Turing', 'Quantum Data Center Expansion')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Quantum Data Center Expansion'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Quantum Data Center Expansion'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Quantum Data Center Expansion' according to the information for the client."
+            ]
+        ],
+        [
+            "[('George Washington Carver', 'Champs-\u00c9lys\u00e9es Boutique Hotel')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Champs-\u00c9lys\u00e9es Boutique Hotel'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Champs-\u00c9lys\u00e9es Boutique Hotel'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Champs-\u00c9lys\u00e9es Boutique Hotel' according to the information for the client."
+            ]
+        ],
+        [
+            "[('Grace Hopper', 'Dubai Skyline Tower')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Dubai Skyline Tower'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Dubai Skyline Tower'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Dubai Skyline Tower' according to the information for the client."
+            ]
+        ],
+        [
+            "[('Hedy Lamarr', 'Metropolitan Luxury Apartments')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Metropolitan Luxury Apartments'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Metropolitan Luxury Apartments'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Metropolitan Luxury Apartments' according to the information for the client."
+            ]
+        ],
+        [
+            "[('Alan Turing', 'Advanced Health Research Facility')]",
+            [
+                "We are looking for the project manager of a certain project. This specific project is identified by its name, which in our records appears as 'Advanced Health Research Facility'.",
+                "We are interested in determining who is the project manager of a project in our records that goes by the name of 'Advanced Health Research Facility'.",
+                "We aim to find out the project manager for a project which is registered under the name 'Advanced Health Research Facility' according to the information for the client."
+            ]
+        ]
+    ]
+]

@@ -13,7 +13,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'ExxonMobil'.",
@@ -29,7 +30,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'ExxonMobil'.",
@@ -45,7 +47,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'ExxonMobil'.",
@@ -61,7 +64,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'ExxonMobil'.",
@@ -77,7 +81,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'ExxonMobil'.",
@@ -93,7 +98,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'ExxonMobil'.",
@@ -109,7 +115,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'ExxonMobil'.",
@@ -125,7 +132,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'ExxonMobil'.",
@@ -141,7 +149,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'ExxonMobil'.",
@@ -157,7 +166,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 0
+        "query_tag": 0,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'JPMorgan Chase'.",
@@ -173,7 +183,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'JPMorgan Chase'.",
@@ -189,7 +200,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'JPMorgan Chase'.",
@@ -205,7 +217,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'JPMorgan Chase'.",
@@ -221,7 +234,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'JPMorgan Chase'.",
@@ -237,7 +251,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'JPMorgan Chase'.",
@@ -253,7 +268,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'JPMorgan Chase'.",
@@ -269,7 +285,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'JPMorgan Chase'.",
@@ -285,7 +302,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'JPMorgan Chase'.",
@@ -301,7 +319,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'JPMorgan Chase'.",
@@ -317,7 +336,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 1
+        "query_tag": 1,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'General Electric'.",
@@ -333,7 +353,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'General Electric'.",
@@ -349,7 +370,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'General Electric'.",
@@ -365,7 +387,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'General Electric'.",
@@ -381,7 +404,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'General Electric'.",
@@ -397,7 +421,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'General Electric'.",
@@ -413,7 +438,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'General Electric'.",
@@ -429,7 +455,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'General Electric'.",
@@ -445,7 +472,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'General Electric'.",
@@ -461,7 +489,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'General Electric'.",
@@ -477,7 +506,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 2
+        "query_tag": 2,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Royal Dutch Shell'.",
@@ -493,7 +523,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Royal Dutch Shell'.",
@@ -509,7 +540,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Royal Dutch Shell'.",
@@ -525,7 +557,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Royal Dutch Shell'.",
@@ -541,7 +574,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Royal Dutch Shell'.",
@@ -557,7 +591,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Royal Dutch Shell'.",
@@ -573,7 +608,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Royal Dutch Shell'.",
@@ -589,7 +625,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Royal Dutch Shell'.",
@@ -605,7 +642,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Royal Dutch Shell'.",
@@ -621,7 +659,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Royal Dutch Shell'.",
@@ -637,7 +676,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 3
+        "query_tag": 3,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Industrial and Commercial Bank of China'.",
@@ -653,7 +693,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Industrial and Commercial Bank of China'.",
@@ -669,7 +710,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Industrial and Commercial Bank of China'.",
@@ -685,7 +727,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Industrial and Commercial Bank of China'.",
@@ -701,7 +744,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Industrial and Commercial Bank of China'.",
@@ -717,7 +761,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Industrial and Commercial Bank of China'.",
@@ -733,7 +778,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Industrial and Commercial Bank of China'.",
@@ -749,7 +795,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Industrial and Commercial Bank of China'.",
@@ -765,7 +812,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Industrial and Commercial Bank of China'.",
@@ -781,7 +829,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Industrial and Commercial Bank of China'.",
@@ -797,7 +846,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 4
+        "query_tag": 4,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'HSBC'.",
@@ -813,7 +863,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'HSBC'.",
@@ -829,7 +880,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'HSBC'.",
@@ -845,7 +897,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'HSBC'.",
@@ -861,7 +914,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'HSBC'.",
@@ -877,7 +931,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'HSBC'.",
@@ -893,7 +948,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'HSBC'.",
@@ -909,7 +965,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'HSBC'.",
@@ -925,7 +982,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'HSBC'.",
@@ -941,7 +999,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'HSBC'.",
@@ -957,7 +1016,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 5
+        "query_tag": 5,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'PetroChina'.",
@@ -973,7 +1033,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'PetroChina'.",
@@ -989,7 +1050,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'PetroChina'.",
@@ -1005,7 +1067,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'PetroChina'.",
@@ -1021,7 +1084,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'PetroChina'.",
@@ -1037,7 +1101,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'PetroChina'.",
@@ -1053,7 +1118,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'PetroChina'.",
@@ -1069,7 +1135,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'PetroChina'.",
@@ -1085,7 +1152,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'PetroChina'.",
@@ -1101,7 +1169,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'PetroChina'.",
@@ -1117,7 +1186,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 6
+        "query_tag": 6,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Berkshire Hathaway'.",
@@ -1133,7 +1203,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Berkshire Hathaway'.",
@@ -1149,7 +1220,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Berkshire Hathaway'.",
@@ -1165,7 +1237,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Berkshire Hathaway'.",
@@ -1181,7 +1254,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Berkshire Hathaway'.",
@@ -1197,7 +1271,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Berkshire Hathaway'.",
@@ -1213,7 +1288,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Berkshire Hathaway'.",
@@ -1229,7 +1305,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Berkshire Hathaway'.",
@@ -1245,7 +1322,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Berkshire Hathaway'.",
@@ -1261,7 +1339,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Berkshire Hathaway'.",
@@ -1277,7 +1356,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 7
+        "query_tag": 7,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Wells Fargo'.",
@@ -1293,7 +1373,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Wells Fargo'.",
@@ -1309,7 +1390,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Wells Fargo'.",
@@ -1325,7 +1407,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Wells Fargo'.",
@@ -1341,7 +1424,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Wells Fargo'.",
@@ -1357,7 +1441,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Wells Fargo'.",
@@ -1373,7 +1458,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Wells Fargo'.",
@@ -1389,7 +1475,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Wells Fargo'.",
@@ -1405,7 +1492,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Wells Fargo'.",
@@ -1421,7 +1509,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Wells Fargo'.",
@@ -1437,7 +1526,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 8
+        "query_tag": 8,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Petrobras'.",
@@ -1453,7 +1543,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Petrobras'.",
@@ -1469,7 +1560,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Petrobras'.",
@@ -1485,7 +1577,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Petrobras'.",
@@ -1501,7 +1594,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Petrobras'.",
@@ -1517,7 +1611,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Petrobras'.",
@@ -1533,7 +1628,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Petrobras'.",
@@ -1549,7 +1645,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Petrobras'.",
@@ -1565,7 +1662,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Petrobras'.",
@@ -1581,7 +1679,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Petrobras'.",
@@ -1597,7 +1696,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 9
+        "query_tag": 9,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'BP'.",
@@ -1613,7 +1713,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'BP'.",
@@ -1629,7 +1730,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'BP'.",
@@ -1645,7 +1747,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'BP'.",
@@ -1661,7 +1764,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'BP'.",
@@ -1677,7 +1781,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'BP'.",
@@ -1693,7 +1798,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'BP'.",
@@ -1709,7 +1815,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'BP'.",
@@ -1725,7 +1832,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'BP'.",
@@ -1741,7 +1849,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'BP'.",
@@ -1757,7 +1866,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 10
+        "query_tag": 10,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Chevron'.",
@@ -1773,7 +1883,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Chevron'.",
@@ -1789,7 +1900,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Chevron'.",
@@ -1805,7 +1917,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Chevron'.",
@@ -1821,7 +1934,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Chevron'.",
@@ -1837,7 +1951,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Chevron'.",
@@ -1853,7 +1968,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Chevron'.",
@@ -1869,7 +1985,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Chevron'.",
@@ -1885,7 +2002,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Chevron'.",
@@ -1901,7 +2019,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Chevron'.",
@@ -1917,7 +2036,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 11
+        "query_tag": 11,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'China Construction Bank'.",
@@ -1933,7 +2053,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'China Construction Bank'.",
@@ -1949,7 +2070,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'China Construction Bank'.",
@@ -1965,7 +2087,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'China Construction Bank'.",
@@ -1981,7 +2104,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'China Construction Bank'.",
@@ -1997,7 +2121,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'China Construction Bank'.",
@@ -2013,7 +2138,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'China Construction Bank'.",
@@ -2029,7 +2155,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'China Construction Bank'.",
@@ -2045,7 +2172,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'China Construction Bank'.",
@@ -2061,7 +2189,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'China Construction Bank'.",
@@ -2077,7 +2206,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 12
+        "query_tag": 12,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Citigroup'.",
@@ -2093,7 +2223,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Citigroup'.",
@@ -2109,7 +2240,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Citigroup'.",
@@ -2125,7 +2257,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Citigroup'.",
@@ -2141,7 +2274,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Citigroup'.",
@@ -2157,7 +2291,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Citigroup'.",
@@ -2173,7 +2308,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Citigroup'.",
@@ -2189,7 +2325,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Citigroup'.",
@@ -2205,7 +2342,8 @@
         "retrieved_document_ids": [
             14
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Citigroup'.",
@@ -2221,7 +2359,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Citigroup'.",
@@ -2237,7 +2376,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 13
+        "query_tag": 13,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Gazprom'.",
@@ -2253,7 +2393,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Gazprom'.",
@@ -2269,7 +2410,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Gazprom'.",
@@ -2285,7 +2427,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Gazprom'.",
@@ -2301,7 +2444,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Gazprom'.",
@@ -2317,7 +2461,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Gazprom'.",
@@ -2333,7 +2478,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Gazprom'.",
@@ -2349,7 +2495,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Gazprom'.",
@@ -2365,7 +2512,8 @@
         "retrieved_document_ids": [
             15
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Gazprom'.",
@@ -2381,7 +2529,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Gazprom'.",
@@ -2397,7 +2546,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 14
+        "query_tag": 14,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Walmart'.",
@@ -2413,7 +2563,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Walmart'.",
@@ -2429,7 +2580,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Walmart'.",
@@ -2445,7 +2597,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Walmart'.",
@@ -2461,7 +2614,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Walmart'.",
@@ -2477,7 +2631,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Walmart'.",
@@ -2493,7 +2648,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Walmart'.",
@@ -2509,7 +2665,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Walmart'.",
@@ -2525,7 +2682,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Walmart'.",
@@ -2541,7 +2699,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Walmart'.",
@@ -2557,7 +2716,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 15
+        "query_tag": 15,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Volkswagen Group'.",
@@ -2573,7 +2733,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Volkswagen Group'.",
@@ -2589,7 +2750,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Volkswagen Group'.",
@@ -2605,7 +2767,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Volkswagen Group'.",
@@ -2621,7 +2784,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Volkswagen Group'.",
@@ -2637,7 +2801,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Volkswagen Group'.",
@@ -2653,7 +2818,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Volkswagen Group'.",
@@ -2669,7 +2835,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Volkswagen Group'.",
@@ -2685,7 +2852,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Volkswagen Group'.",
@@ -2701,7 +2869,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Volkswagen Group'.",
@@ -2717,7 +2886,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 16
+        "query_tag": 16,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Total'.",
@@ -2733,7 +2903,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Total'.",
@@ -2749,7 +2920,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Total'.",
@@ -2765,7 +2937,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch industry from a business with the name 'Total'.",
@@ -2781,7 +2954,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Total'.",
@@ -2797,7 +2971,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Total'.",
@@ -2813,7 +2988,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Total'.",
@@ -2829,7 +3005,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Total'.",
@@ -2845,7 +3022,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Total'.",
@@ -2861,7 +3039,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Total'.",
@@ -2877,7 +3056,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 17
+        "query_tag": 17,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the industry type of the company named 'Agricultural Bank of China'.",
@@ -2893,7 +3073,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the industry associated with the company 'Agricultural Bank of China'.",
@@ -2909,7 +3090,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the industry for the company labelled as 'Agricultural Bank of China'.",
@@ -2925,7 +3107,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch industry from a business with the name 'Agricultural Bank of China'.",
@@ -2941,7 +3124,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the industry of the firm named 'Agricultural Bank of China'.",
@@ -2957,7 +3141,8 @@
         "retrieved_document_ids": [
             19
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving industry related to the organization named 'Agricultural Bank of China'.",
@@ -2973,7 +3158,8 @@
         "retrieved_document_ids": [
             19
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Obtaining the sector linked to the corporate entity 'Agricultural Bank of China'.",
@@ -2989,7 +3175,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Collect the industry of the entity labelled 'Agricultural Bank of China'.",
@@ -3005,7 +3192,8 @@
         "retrieved_document_ids": [
             19
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain industry corresponding to company named 'Agricultural Bank of China'.",
@@ -3021,7 +3209,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Find the sector associated with the business titled 'Agricultural Bank of China'.",
@@ -3037,7 +3226,8 @@
         "retrieved_document_ids": [
             19
         ],
-        "query_tag": 18
+        "query_tag": 18,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'ExxonMobil'.",
@@ -3053,7 +3243,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'ExxonMobil'.",
@@ -3069,7 +3260,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'ExxonMobil' company is located.",
@@ -3085,7 +3277,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'ExxonMobil'",
@@ -3101,7 +3294,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'ExxonMobil'",
@@ -3117,7 +3311,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'ExxonMobil'",
@@ -3133,7 +3328,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'ExxonMobil' is needed ",
@@ -3149,7 +3345,8 @@
         "retrieved_document_ids": [
             1
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'ExxonMobil'",
@@ -3165,7 +3362,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'ExxonMobil'",
@@ -3181,7 +3379,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'ExxonMobil'",
@@ -3197,7 +3396,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 19
+        "query_tag": 19,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'JPMorgan Chase'.",
@@ -3213,7 +3413,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'JPMorgan Chase'.",
@@ -3229,7 +3430,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'JPMorgan Chase' company is located.",
@@ -3245,7 +3447,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'JPMorgan Chase'",
@@ -3261,7 +3464,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'JPMorgan Chase'",
@@ -3277,7 +3481,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'JPMorgan Chase'",
@@ -3293,7 +3498,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'JPMorgan Chase' is needed ",
@@ -3309,7 +3515,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'JPMorgan Chase'",
@@ -3325,7 +3532,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'JPMorgan Chase'",
@@ -3341,7 +3549,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'JPMorgan Chase'",
@@ -3357,7 +3566,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 20
+        "query_tag": 20,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'General Electric'.",
@@ -3373,7 +3583,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'General Electric'.",
@@ -3389,7 +3600,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'General Electric' company is located.",
@@ -3405,7 +3617,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'General Electric'",
@@ -3421,7 +3634,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'General Electric'",
@@ -3437,7 +3651,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'General Electric'",
@@ -3453,7 +3668,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'General Electric' is needed ",
@@ -3469,7 +3685,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'General Electric'",
@@ -3485,7 +3702,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'General Electric'",
@@ -3501,7 +3719,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'General Electric'",
@@ -3517,7 +3736,8 @@
         "retrieved_document_ids": [
             3
         ],
-        "query_tag": 21
+        "query_tag": 21,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Royal Dutch Shell'.",
@@ -3533,7 +3753,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Royal Dutch Shell'.",
@@ -3549,7 +3770,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Royal Dutch Shell' company is located.",
@@ -3565,7 +3787,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Royal Dutch Shell'",
@@ -3581,7 +3804,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Royal Dutch Shell'",
@@ -3597,7 +3821,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Royal Dutch Shell'",
@@ -3613,7 +3838,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Royal Dutch Shell' is needed ",
@@ -3629,7 +3855,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Royal Dutch Shell'",
@@ -3645,7 +3872,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Royal Dutch Shell'",
@@ -3661,7 +3889,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Royal Dutch Shell'",
@@ -3677,7 +3906,8 @@
         "retrieved_document_ids": [
             4
         ],
-        "query_tag": 22
+        "query_tag": 22,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Industrial and Commercial Bank of China'.",
@@ -3693,7 +3923,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Industrial and Commercial Bank of China'.",
@@ -3709,7 +3940,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Industrial and Commercial Bank of China' company is located.",
@@ -3725,7 +3957,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Industrial and Commercial Bank of China'",
@@ -3741,7 +3974,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Industrial and Commercial Bank of China'",
@@ -3757,7 +3991,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Industrial and Commercial Bank of China'",
@@ -3773,7 +4008,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Industrial and Commercial Bank of China' is needed ",
@@ -3789,7 +4025,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Industrial and Commercial Bank of China'",
@@ -3805,7 +4042,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Industrial and Commercial Bank of China'",
@@ -3821,7 +4059,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Industrial and Commercial Bank of China'",
@@ -3837,7 +4076,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 23
+        "query_tag": 23,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'HSBC'.",
@@ -3853,7 +4093,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'HSBC'.",
@@ -3869,7 +4110,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'HSBC' company is located.",
@@ -3885,7 +4127,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'HSBC'",
@@ -3901,7 +4144,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'HSBC'",
@@ -3917,7 +4161,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'HSBC'",
@@ -3933,7 +4178,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'HSBC' is needed ",
@@ -3949,7 +4195,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'HSBC'",
@@ -3965,7 +4212,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'HSBC'",
@@ -3981,7 +4229,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'HSBC'",
@@ -3997,7 +4246,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 24
+        "query_tag": 24,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'PetroChina'.",
@@ -4013,7 +4263,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'PetroChina'.",
@@ -4029,7 +4280,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'PetroChina' company is located.",
@@ -4045,7 +4297,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'PetroChina'",
@@ -4061,7 +4314,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'PetroChina'",
@@ -4077,7 +4331,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'PetroChina'",
@@ -4093,7 +4348,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'PetroChina' is needed ",
@@ -4109,7 +4365,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'PetroChina'",
@@ -4125,7 +4382,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'PetroChina'",
@@ -4141,7 +4399,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'PetroChina'",
@@ -4157,7 +4416,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 25
+        "query_tag": 25,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Berkshire Hathaway'.",
@@ -4173,7 +4433,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Berkshire Hathaway'.",
@@ -4189,7 +4450,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Berkshire Hathaway' company is located.",
@@ -4205,7 +4467,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Berkshire Hathaway'",
@@ -4221,7 +4484,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Berkshire Hathaway'",
@@ -4237,7 +4501,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Berkshire Hathaway'",
@@ -4253,7 +4518,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Berkshire Hathaway' is needed ",
@@ -4269,7 +4535,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Berkshire Hathaway'",
@@ -4285,7 +4552,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Berkshire Hathaway'",
@@ -4301,7 +4569,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Berkshire Hathaway'",
@@ -4317,7 +4586,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 26
+        "query_tag": 26,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Wells Fargo'.",
@@ -4333,7 +4603,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Wells Fargo'.",
@@ -4349,7 +4620,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Wells Fargo' company is located.",
@@ -4365,7 +4637,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Wells Fargo'",
@@ -4381,7 +4654,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Wells Fargo'",
@@ -4397,7 +4671,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Wells Fargo'",
@@ -4413,7 +4688,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Wells Fargo' is needed ",
@@ -4429,7 +4705,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Wells Fargo'",
@@ -4445,7 +4722,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Wells Fargo'",
@@ -4461,7 +4739,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Wells Fargo'",
@@ -4477,7 +4756,8 @@
         "retrieved_document_ids": [
             9
         ],
-        "query_tag": 27
+        "query_tag": 27,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Petrobras'.",
@@ -4493,7 +4773,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Petrobras'.",
@@ -4509,7 +4790,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Petrobras' company is located.",
@@ -4525,7 +4807,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Petrobras'",
@@ -4541,7 +4824,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Petrobras'",
@@ -4557,7 +4841,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Petrobras'",
@@ -4573,7 +4858,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Petrobras' is needed ",
@@ -4589,7 +4875,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Petrobras'",
@@ -4605,7 +4892,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Petrobras'",
@@ -4621,7 +4909,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Petrobras'",
@@ -4637,7 +4926,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 28
+        "query_tag": 28,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'BP'.",
@@ -4653,7 +4943,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'BP'.",
@@ -4669,7 +4960,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'BP' company is located.",
@@ -4685,7 +4977,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'BP'",
@@ -4701,7 +4994,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'BP'",
@@ -4717,7 +5011,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'BP'",
@@ -4733,7 +5028,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'BP' is needed ",
@@ -4749,7 +5045,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'BP'",
@@ -4765,7 +5062,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'BP'",
@@ -4781,7 +5079,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'BP'",
@@ -4797,7 +5096,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 29
+        "query_tag": 29,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Chevron'.",
@@ -4813,7 +5113,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Chevron'.",
@@ -4829,7 +5130,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Chevron' company is located.",
@@ -4845,7 +5147,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Chevron'",
@@ -4861,7 +5164,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Chevron'",
@@ -4877,7 +5181,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Chevron'",
@@ -4893,7 +5198,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Chevron' is needed ",
@@ -4909,7 +5215,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Chevron'",
@@ -4925,7 +5232,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Chevron'",
@@ -4941,7 +5249,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Chevron'",
@@ -4957,7 +5266,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 30
+        "query_tag": 30,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'China Construction Bank'.",
@@ -4973,7 +5283,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'China Construction Bank'.",
@@ -4989,7 +5300,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'China Construction Bank' company is located.",
@@ -5005,7 +5317,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'China Construction Bank'",
@@ -5021,7 +5334,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'China Construction Bank'",
@@ -5037,7 +5351,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'China Construction Bank'",
@@ -5053,7 +5368,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'China Construction Bank' is needed ",
@@ -5069,7 +5385,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'China Construction Bank'",
@@ -5085,7 +5402,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'China Construction Bank'",
@@ -5101,7 +5419,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'China Construction Bank'",
@@ -5117,7 +5436,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 31
+        "query_tag": 31,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Citigroup'.",
@@ -5133,7 +5453,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Citigroup'.",
@@ -5149,7 +5470,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Citigroup' company is located.",
@@ -5165,7 +5487,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Citigroup'",
@@ -5181,7 +5504,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Citigroup'",
@@ -5197,7 +5521,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Citigroup'",
@@ -5213,7 +5538,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Citigroup' is needed ",
@@ -5229,7 +5555,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Citigroup'",
@@ -5245,7 +5572,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Citigroup'",
@@ -5261,7 +5589,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Citigroup'",
@@ -5277,7 +5606,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 32
+        "query_tag": 32,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Gazprom'.",
@@ -5293,7 +5623,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Gazprom'.",
@@ -5309,7 +5640,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Gazprom' company is located.",
@@ -5325,7 +5657,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Gazprom'",
@@ -5341,7 +5674,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Gazprom'",
@@ -5357,7 +5691,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Gazprom'",
@@ -5373,7 +5708,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Gazprom' is needed ",
@@ -5389,7 +5725,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Gazprom'",
@@ -5405,7 +5742,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Gazprom'",
@@ -5421,7 +5759,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Gazprom'",
@@ -5437,7 +5776,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 33
+        "query_tag": 33,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Walmart'.",
@@ -5453,7 +5793,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Walmart'.",
@@ -5469,7 +5810,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Walmart' company is located.",
@@ -5485,7 +5827,8 @@
         "retrieved_document_ids": [
             16
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Walmart'",
@@ -5501,7 +5844,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Walmart'",
@@ -5517,7 +5861,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Walmart'",
@@ -5533,7 +5878,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Walmart' is needed ",
@@ -5549,7 +5895,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Walmart'",
@@ -5565,7 +5912,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Walmart'",
@@ -5581,7 +5929,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Walmart'",
@@ -5597,7 +5946,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 34
+        "query_tag": 34,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Volkswagen Group'.",
@@ -5613,7 +5963,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Volkswagen Group'.",
@@ -5629,7 +5980,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Volkswagen Group' company is located.",
@@ -5645,7 +5997,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Volkswagen Group'",
@@ -5661,7 +6014,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Volkswagen Group'",
@@ -5677,7 +6031,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Volkswagen Group'",
@@ -5693,7 +6048,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Volkswagen Group' is needed ",
@@ -5709,7 +6065,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Volkswagen Group'",
@@ -5725,7 +6082,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Volkswagen Group'",
@@ -5741,7 +6099,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Volkswagen Group'",
@@ -5757,7 +6116,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 35
+        "query_tag": 35,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Total'.",
@@ -5773,7 +6133,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Total'.",
@@ -5789,7 +6150,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Total' company is located.",
@@ -5805,7 +6167,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Total'",
@@ -5821,7 +6184,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Total'",
@@ -5837,7 +6201,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Total'",
@@ -5853,7 +6218,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Total' is needed ",
@@ -5869,7 +6235,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Total'",
@@ -5885,7 +6252,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Total'",
@@ -5901,7 +6269,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Total'",
@@ -5917,7 +6286,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 36
+        "query_tag": 36,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of the company named 'Agricultural Bank of China'.",
@@ -5933,7 +6303,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Search for the location of the headquarters for the company called 'Agricultural Bank of China'.",
@@ -5949,7 +6320,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Lookup where the headquarters for 'Agricultural Bank of China' company is located.",
@@ -5965,7 +6337,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters location for company named 'Agricultural Bank of China'",
@@ -5981,7 +6354,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Find the headquarters of 'Agricultural Bank of China'",
@@ -5997,7 +6371,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Locate the headquarters for 'Agricultural Bank of China'",
@@ -6013,7 +6388,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Headquarters for 'Agricultural Bank of China' is needed ",
@@ -6029,7 +6405,8 @@
         "retrieved_document_ids": [
             19
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Determine the headquarters of 'Agricultural Bank of China'",
@@ -6045,7 +6422,8 @@
         "retrieved_document_ids": [
             13
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch the headquarters location for 'Agricultural Bank of China'",
@@ -6061,7 +6439,8 @@
         "retrieved_document_ids": [
             10
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Finding the location of the main office for 'Agricultural Bank of China'",
@@ -6077,7 +6456,8 @@
         "retrieved_document_ids": [
             19
         ],
-        "query_tag": 37
+        "query_tag": 37,
+        "judgement": "Correct"
     },
     {
         "query": "Get the nationality of the person named 'Reggie Lewis'.",
@@ -6093,7 +6473,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the nationality of person with name 'Reggie Lewis'.",
@@ -6109,7 +6490,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Identify the nationality for the individual named 'Reggie Lewis'.",
@@ -6125,7 +6507,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch nationality of person named 'Reggie Lewis'.",
@@ -6141,7 +6524,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieving nationality for 'Reggie Lewis'.",
@@ -6157,7 +6541,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the nationality of 'Reggie Lewis'.",
@@ -6173,7 +6558,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the nationality of the person named 'Reggie Lewis'.",
@@ -6189,7 +6575,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Acquire nationality information for 'Reggie Lewis'.",
@@ -6205,7 +6592,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Seeking nationality of individual named 'Reggie Lewis'.",
@@ -6221,7 +6609,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Discover the nationality of the person 'Reggie Lewis'.",
@@ -6237,7 +6626,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 38
+        "query_tag": 38,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the nationality of the person named 'Brad Lohaus'.",
@@ -6253,7 +6643,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieve the nationality of person with name 'Brad Lohaus'.",
@@ -6269,7 +6660,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Identify the nationality for the individual named 'Brad Lohaus'.",
@@ -6285,7 +6677,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch nationality of person named 'Brad Lohaus'.",
@@ -6301,7 +6694,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Retrieving nationality for 'Brad Lohaus'.",
@@ -6317,7 +6711,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Find the nationality of 'Brad Lohaus'.",
@@ -6333,7 +6728,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Obtain the nationality of the person named 'Brad Lohaus'.",
@@ -6349,7 +6745,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Acquire nationality information for 'Brad Lohaus'.",
@@ -6365,7 +6762,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Incorrect"
     },
     {
         "query": "Seeking nationality of individual named 'Brad Lohaus'.",
@@ -6381,7 +6779,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Discover the nationality of the person 'Brad Lohaus'.",
@@ -6397,7 +6796,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 39
+        "query_tag": 39,
+        "judgement": "Correct"
     },
     {
         "query": "Get the nationality of the person named 'Tom Sheehey'.",
@@ -6413,7 +6813,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the nationality of person with name 'Tom Sheehey'.",
@@ -6429,7 +6830,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Identify the nationality for the individual named 'Tom Sheehey'.",
@@ -6445,7 +6847,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch nationality of person named 'Tom Sheehey'.",
@@ -6461,7 +6864,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieving nationality for 'Tom Sheehey'.",
@@ -6477,7 +6881,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the nationality of 'Tom Sheehey'.",
@@ -6493,7 +6898,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the nationality of the person named 'Tom Sheehey'.",
@@ -6509,7 +6915,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Acquire nationality information for 'Tom Sheehey'.",
@@ -6525,7 +6932,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Seeking nationality of individual named 'Tom Sheehey'.",
@@ -6541,7 +6949,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Discover the nationality of the person 'Tom Sheehey'.",
@@ -6557,7 +6966,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 40
+        "query_tag": 40,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the nationality of the person named 'Darryl Kennedy'.",
@@ -6573,7 +6983,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the nationality of person with name 'Darryl Kennedy'.",
@@ -6589,7 +7000,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Identify the nationality for the individual named 'Darryl Kennedy'.",
@@ -6605,7 +7017,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch nationality of person named 'Darryl Kennedy'.",
@@ -6621,7 +7034,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieving nationality for 'Darryl Kennedy'.",
@@ -6637,7 +7051,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the nationality of 'Darryl Kennedy'.",
@@ -6653,7 +7068,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the nationality of the person named 'Darryl Kennedy'.",
@@ -6669,7 +7085,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Acquire nationality information for 'Darryl Kennedy'.",
@@ -6685,7 +7102,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Seeking nationality of individual named 'Darryl Kennedy'.",
@@ -6701,7 +7119,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Discover the nationality of the person 'Darryl Kennedy'.",
@@ -6717,7 +7136,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 41
+        "query_tag": 41,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the nationality of the person named 'David Butler'.",
@@ -6733,7 +7153,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the nationality of person with name 'David Butler'.",
@@ -6749,7 +7170,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Incorrect"
     },
     {
         "query": "Identify the nationality for the individual named 'David Butler'.",
@@ -6765,7 +7187,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Correct"
     },
     {
         "query": "Fetch nationality of person named 'David Butler'.",
@@ -6781,7 +7204,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieving nationality for 'David Butler'.",
@@ -6797,7 +7221,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the nationality of 'David Butler'.",
@@ -6813,7 +7238,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the nationality of the person named 'David Butler'.",
@@ -6829,7 +7255,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Incorrect"
     },
     {
         "query": "Acquire nationality information for 'David Butler'.",
@@ -6845,7 +7272,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Correct"
     },
     {
         "query": "Seeking nationality of individual named 'David Butler'.",
@@ -6861,7 +7289,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Incorrect"
     },
     {
         "query": "Discover the nationality of the person 'David Butler'.",
@@ -6877,7 +7306,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 42
+        "query_tag": 42,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the nationality of the person named 'Tim Naegeli'.",
@@ -6893,7 +7323,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the nationality of person with name 'Tim Naegeli'.",
@@ -6909,7 +7340,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Identify the nationality for the individual named 'Tim Naegeli'.",
@@ -6925,7 +7357,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch nationality of person named 'Tim Naegeli'.",
@@ -6941,7 +7374,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieving nationality for 'Tim Naegeli'.",
@@ -6957,7 +7391,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the nationality of 'Tim Naegeli'.",
@@ -6973,7 +7408,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the nationality of the person named 'Tim Naegeli'.",
@@ -6989,7 +7425,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Acquire nationality information for 'Tim Naegeli'.",
@@ -7005,7 +7442,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Seeking nationality of individual named 'Tim Naegeli'.",
@@ -7021,7 +7459,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Discover the nationality of the person 'Tim Naegeli'.",
@@ -7037,7 +7476,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 43
+        "query_tag": 43,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the nationality of the person named 'Jerry Corcoran'.",
@@ -7053,7 +7493,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the nationality of person with name 'Jerry Corcoran'.",
@@ -7069,7 +7510,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Identify the nationality for the individual named 'Jerry Corcoran'.",
@@ -7085,7 +7527,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch nationality of person named 'Jerry Corcoran'.",
@@ -7101,7 +7544,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieving nationality for 'Jerry Corcoran'.",
@@ -7117,7 +7561,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the nationality of 'Jerry Corcoran'.",
@@ -7133,7 +7578,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the nationality of the person named 'Jerry Corcoran'.",
@@ -7149,7 +7595,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Acquire nationality information for 'Jerry Corcoran'.",
@@ -7165,7 +7612,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Seeking nationality of individual named 'Jerry Corcoran'.",
@@ -7181,7 +7629,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Discover the nationality of the person 'Jerry Corcoran'.",
@@ -7197,7 +7646,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 44
+        "query_tag": 44,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the graduation college for a person with the name 'Reggie Lewis'.",
@@ -7213,7 +7663,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Looking up the college where the person named 'Reggie Lewis' graduated from.",
@@ -7229,7 +7680,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the name of the graduation college for 'Reggie Lewis'.",
@@ -7245,7 +7697,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get graduation college for person named 'Reggie Lewis'",
@@ -7261,7 +7714,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch graduation college of 'Reggie Lewis'",
@@ -7277,7 +7731,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Pull the graduation college where person's name is 'Reggie Lewis'",
@@ -7293,7 +7748,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the graduating college of 'Reggie Lewis'",
@@ -7309,7 +7765,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch information on the college where 'Reggie Lewis' graduated",
@@ -7325,7 +7782,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain graduation college for 'Reggie Lewis'",
@@ -7341,7 +7799,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve college from which 'Reggie Lewis' graduated",
@@ -7357,7 +7816,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 45
+        "query_tag": 45,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the graduation college for a person with the name 'Brad Lohaus'.",
@@ -7373,7 +7833,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Looking up the college where the person named 'Brad Lohaus' graduated from.",
@@ -7389,7 +7850,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the name of the graduation college for 'Brad Lohaus'.",
@@ -7405,7 +7867,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get graduation college for person named 'Brad Lohaus'",
@@ -7421,7 +7884,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch graduation college of 'Brad Lohaus'",
@@ -7437,7 +7901,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Pull the graduation college where person's name is 'Brad Lohaus'",
@@ -7453,7 +7918,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the graduating college of 'Brad Lohaus'",
@@ -7469,7 +7935,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch information on the college where 'Brad Lohaus' graduated",
@@ -7485,7 +7952,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain graduation college for 'Brad Lohaus'",
@@ -7501,7 +7969,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve college from which 'Brad Lohaus' graduated",
@@ -7517,7 +7986,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 46
+        "query_tag": 46,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the graduation college for a person with the name 'Tom Sheehey'.",
@@ -7533,7 +8003,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Looking up the college where the person named 'Tom Sheehey' graduated from.",
@@ -7549,7 +8020,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the name of the graduation college for 'Tom Sheehey'.",
@@ -7565,7 +8037,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get graduation college for person named 'Tom Sheehey'",
@@ -7581,7 +8054,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch graduation college of 'Tom Sheehey'",
@@ -7597,7 +8071,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Pull the graduation college where person's name is 'Tom Sheehey'",
@@ -7613,7 +8088,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the graduating college of 'Tom Sheehey'",
@@ -7629,7 +8105,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch information on the college where 'Tom Sheehey' graduated",
@@ -7645,7 +8122,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain graduation college for 'Tom Sheehey'",
@@ -7661,7 +8139,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve college from which 'Tom Sheehey' graduated",
@@ -7677,7 +8156,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 47
+        "query_tag": 47,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the graduation college for a person with the name 'Darryl Kennedy'.",
@@ -7693,7 +8173,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Looking up the college where the person named 'Darryl Kennedy' graduated from.",
@@ -7709,7 +8190,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the name of the graduation college for 'Darryl Kennedy'.",
@@ -7725,7 +8207,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get graduation college for person named 'Darryl Kennedy'",
@@ -7741,7 +8224,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch graduation college of 'Darryl Kennedy'",
@@ -7757,7 +8241,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Pull the graduation college where person's name is 'Darryl Kennedy'",
@@ -7773,7 +8258,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the graduating college of 'Darryl Kennedy'",
@@ -7789,7 +8275,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch information on the college where 'Darryl Kennedy' graduated",
@@ -7805,7 +8292,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain graduation college for 'Darryl Kennedy'",
@@ -7821,7 +8309,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve college from which 'Darryl Kennedy' graduated",
@@ -7837,7 +8326,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 48
+        "query_tag": 48,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the graduation college for a person with the name 'David Butler'.",
@@ -7853,7 +8343,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Looking up the college where the person named 'David Butler' graduated from.",
@@ -7869,7 +8360,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the name of the graduation college for 'David Butler'.",
@@ -7885,7 +8377,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get graduation college for person named 'David Butler'",
@@ -7901,7 +8394,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch graduation college of 'David Butler'",
@@ -7917,7 +8411,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Pull the graduation college where person's name is 'David Butler'",
@@ -7933,7 +8428,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the graduating college of 'David Butler'",
@@ -7949,7 +8445,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch information on the college where 'David Butler' graduated",
@@ -7965,7 +8462,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain graduation college for 'David Butler'",
@@ -7981,7 +8479,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve college from which 'David Butler' graduated",
@@ -7997,7 +8496,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 49
+        "query_tag": 49,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the graduation college for a person with the name 'Tim Naegeli'.",
@@ -8013,7 +8513,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Looking up the college where the person named 'Tim Naegeli' graduated from.",
@@ -8029,7 +8530,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the name of the graduation college for 'Tim Naegeli'.",
@@ -8045,7 +8547,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get graduation college for person named 'Tim Naegeli'",
@@ -8061,7 +8564,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch graduation college of 'Tim Naegeli'",
@@ -8077,7 +8581,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Pull the graduation college where person's name is 'Tim Naegeli'",
@@ -8093,7 +8598,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the graduating college of 'Tim Naegeli'",
@@ -8109,7 +8615,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch information on the college where 'Tim Naegeli' graduated",
@@ -8125,7 +8632,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain graduation college for 'Tim Naegeli'",
@@ -8141,7 +8649,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve college from which 'Tim Naegeli' graduated",
@@ -8157,7 +8666,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 50
+        "query_tag": 50,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the graduation college for a person with the name 'Jerry Corcoran'.",
@@ -8173,7 +8683,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Looking up the college where the person named 'Jerry Corcoran' graduated from.",
@@ -8189,7 +8700,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain the name of the graduation college for 'Jerry Corcoran'.",
@@ -8205,7 +8717,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get graduation college for person named 'Jerry Corcoran'",
@@ -8221,7 +8734,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch graduation college of 'Jerry Corcoran'",
@@ -8237,7 +8751,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Pull the graduation college where person's name is 'Jerry Corcoran'",
@@ -8253,7 +8768,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Get the graduating college of 'Jerry Corcoran'",
@@ -8269,7 +8785,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Fetch information on the college where 'Jerry Corcoran' graduated",
@@ -8285,7 +8802,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain graduation college for 'Jerry Corcoran'",
@@ -8301,7 +8819,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve college from which 'Jerry Corcoran' graduated",
@@ -8317,7 +8836,8 @@
         "retrieved_document_ids": [
             6
         ],
-        "query_tag": 51
+        "query_tag": 51,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the number of years 'Darryl Kennedy' has been working at 'PetroChina'.",
@@ -8334,7 +8854,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the working duration of 'Darryl Kennedy' in the company named 'PetroChina'.",
@@ -8351,7 +8872,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain how long 'Darryl Kennedy' has been employed at 'PetroChina'.",
@@ -8368,7 +8890,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years working for 'Darryl Kennedy' at 'PetroChina'",
@@ -8385,7 +8908,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "Working years of 'Darryl Kennedy' in 'PetroChina'",
@@ -8402,7 +8926,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Darryl Kennedy' serving years at 'PetroChina'",
@@ -8419,7 +8944,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years of service by 'Darryl Kennedy' for 'PetroChina'",
@@ -8436,7 +8962,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Darryl Kennedy' has been working at 'PetroChina' for these years",
@@ -8453,7 +8980,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "Service years at 'PetroChina' for 'Darryl Kennedy'",
@@ -8470,7 +8998,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "Length of employment for 'Darryl Kennedy' at 'PetroChina'",
@@ -8487,7 +9016,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 52
+        "query_tag": 52,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the number of years 'Tom Sheehey' has been working at 'BP'.",
@@ -8504,7 +9034,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the working duration of 'Tom Sheehey' in the company named 'BP'.",
@@ -8521,7 +9052,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain how long 'Tom Sheehey' has been employed at 'BP'.",
@@ -8538,7 +9070,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Correct"
     },
     {
         "query": "Years working for 'Tom Sheehey' at 'BP'",
@@ -8555,7 +9088,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "Working years of 'Tom Sheehey' in 'BP'",
@@ -8572,7 +9106,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Tom Sheehey' serving years at 'BP'",
@@ -8589,7 +9124,8 @@
         "retrieved_document_ids": [
             11
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years of service by 'Tom Sheehey' for 'BP'",
@@ -8606,7 +9142,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Tom Sheehey' has been working at 'BP' for these years",
@@ -8623,7 +9160,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "Service years at 'BP' for 'Tom Sheehey'",
@@ -8640,7 +9178,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "Length of employment for 'Tom Sheehey' at 'BP'",
@@ -8657,7 +9196,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 53
+        "query_tag": 53,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the number of years 'Brad Lohaus' has been working at 'China Construction Bank'.",
@@ -8674,7 +9214,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the working duration of 'Brad Lohaus' in the company named 'China Construction Bank'.",
@@ -8691,7 +9232,8 @@
         "retrieved_document_ids": [
             7
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain how long 'Brad Lohaus' has been employed at 'China Construction Bank'.",
@@ -8708,7 +9250,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years working for 'Brad Lohaus' at 'China Construction Bank'",
@@ -8725,7 +9268,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "Working years of 'Brad Lohaus' in 'China Construction Bank'",
@@ -8742,7 +9286,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Brad Lohaus' serving years at 'China Construction Bank'",
@@ -8759,7 +9304,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years of service by 'Brad Lohaus' for 'China Construction Bank'",
@@ -8776,7 +9322,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Brad Lohaus' has been working at 'China Construction Bank' for these years",
@@ -8793,7 +9340,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "Service years at 'China Construction Bank' for 'Brad Lohaus'",
@@ -8810,7 +9358,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "Length of employment for 'Brad Lohaus' at 'China Construction Bank'",
@@ -8827,7 +9376,8 @@
         "retrieved_document_ids": [
             5
         ],
-        "query_tag": 54
+        "query_tag": 54,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the number of years 'Reggie Lewis' has been working at 'Gazprom'.",
@@ -8844,7 +9394,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the working duration of 'Reggie Lewis' in the company named 'Gazprom'.",
@@ -8861,7 +9412,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain how long 'Reggie Lewis' has been employed at 'Gazprom'.",
@@ -8878,7 +9430,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years working for 'Reggie Lewis' at 'Gazprom'",
@@ -8895,7 +9448,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "Working years of 'Reggie Lewis' in 'Gazprom'",
@@ -8912,7 +9466,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Reggie Lewis' serving years at 'Gazprom'",
@@ -8929,7 +9484,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years of service by 'Reggie Lewis' for 'Gazprom'",
@@ -8946,7 +9502,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Reggie Lewis' has been working at 'Gazprom' for these years",
@@ -8963,7 +9520,8 @@
         "retrieved_document_ids": [
             8
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "Service years at 'Gazprom' for 'Reggie Lewis'",
@@ -8980,7 +9538,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "Length of employment for 'Reggie Lewis' at 'Gazprom'",
@@ -8997,7 +9556,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 55
+        "query_tag": 55,
+        "judgement": "Incorrect"
     },
     {
         "query": "Find the number of years 'Jerry Corcoran' has been working at 'Volkswagen Group'.",
@@ -9014,7 +9574,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "Retrieve the working duration of 'Jerry Corcoran' in the company named 'Volkswagen Group'.",
@@ -9031,7 +9592,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "Obtain how long 'Jerry Corcoran' has been employed at 'Volkswagen Group'.",
@@ -9048,7 +9610,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years working for 'Jerry Corcoran' at 'Volkswagen Group'",
@@ -9065,7 +9628,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "Working years of 'Jerry Corcoran' in 'Volkswagen Group'",
@@ -9082,7 +9646,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Jerry Corcoran' serving years at 'Volkswagen Group'",
@@ -9099,7 +9664,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "Years of service by 'Jerry Corcoran' for 'Volkswagen Group'",
@@ -9116,7 +9682,8 @@
         "retrieved_document_ids": [
             2
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "'Jerry Corcoran' has been working at 'Volkswagen Group' for these years",
@@ -9133,7 +9700,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "Service years at 'Volkswagen Group' for 'Jerry Corcoran'",
@@ -9150,7 +9718,8 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     },
     {
         "query": "Length of employment for 'Jerry Corcoran' at 'Volkswagen Group'",
@@ -9167,6 +9736,7 @@
         "retrieved_document_ids": [
             17
         ],
-        "query_tag": 56
+        "query_tag": 56,
+        "judgement": "Incorrect"
     }
 ]
