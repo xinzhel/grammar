@@ -14,11 +14,14 @@ from grammar.llm import AnyOpenAILLM
 class SemanticsMatch(Generator):
     verbalizer = {
         "short": "",
-        "long": ""
+        "long": "",
+
     }
     def __init__(self, llm=None, verbalize_attrs=''):
         llm = llm or AnyOpenAILLM(model_name = "gpt4-short")
         llm.temperature = 0
+        assert isinstance(verbalize_attrs, str), "`verbalize_attrs` must be a string"
+        self.verbalizer[verbalize_attrs] = ""
         super().__init__( llm=llm, verbalize_attrs=verbalize_attrs)
 
     def _generate(self, query_truth_generation:tuple, num_generations=None, verbose=False):

@@ -1,0 +1,9 @@
+[
+    {
+        "query": "We are looking to find out the specific industry where a company operates. Hence, we are searching for the industry type for a company with the name 'ExxonMobil'.",
+        "gpt_response": [
+            "The industry type for ExxonMobil is Oil and Gas."
+        ],
+        "query_tag": 0
+    }
+]

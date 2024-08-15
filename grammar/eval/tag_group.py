@@ -11,9 +11,8 @@ class TaggedGroup():
 
     @property
     def competent_tags(self):
-        valid_tags = [result.query_tag for result in self.results if result.judgement == 'Correct']
-        return set(valid_tags)
-    
+        return set([result.query_tag for result in self.results if result.judgement == 'Correct'])
+
     @property
     def gap_tags(self):
         return set(self.all_tags) - set(self.competent_tags)

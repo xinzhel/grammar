@@ -1,0 +1,3992 @@
+[
+    {
+        "query": "Retrieve the industry type of the company named 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry of ExxonMobil is Oil and Gas.",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The sector linked to ExxonMobil is the oil and gas industry.",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'ExxonMobil'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 0,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "Financial Services",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "JPMorgan Chase is a multinational investment bank and financial services company.",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "The sector linked to JPMorgan Chase is the financial services sector.",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'JPMorgan Chase'.",
+        "answer": "Banking",
+        "gpt_response": "Finance",
+        "query_tag": 1,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "General Electric is a conglomerate company operating in various industries, including aviation, healthcare, power, renewable energy, and more.",
+        "query_tag": 2,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "General Electric is associated with the industry of diversified industrial manufacturing.",
+        "query_tag": 2,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "The industry for General Electric is diversified industrial manufacturing.",
+        "query_tag": 2,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "General Electric operates in the industrial sector.",
+        "query_tag": 2,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Finding the industry of the firm named 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "General Electric is a conglomerate operating in various industries, including aviation, healthcare, power, renewable energy, and more.",
+        "query_tag": 2,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "General Electric is primarily involved in the manufacturing and industrial sector.",
+        "query_tag": 2,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "The sector linked to General Electric is the conglomerate sector.",
+        "query_tag": 2,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "General Electric operates in the industrial conglomerate industry.",
+        "query_tag": 2,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "The industry corresponding to General Electric is the conglomerate industry.",
+        "query_tag": 2,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'General Electric'.",
+        "answer": "Conglomerate",
+        "gpt_response": "General Electric is associated with the Industrial sector.",
+        "query_tag": 2,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry of Royal Dutch Shell is the oil and gas industry.",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The sector linked to Royal Dutch Shell is the energy sector.",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Royal Dutch Shell'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 3,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry for Industrial and Commercial Bank of China is Banking.",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry of Industrial and Commercial Bank of China is banking.",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The sector linked to the corporate entity 'Industrial and Commercial Bank of China' is the banking sector.",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Industrial and Commercial Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 4,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "HSBC is a multinational banking and financial services industry.",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "HSBC is a multinational banking and financial services company.",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'HSBC'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 5,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry type of PetroChina is Oil & Gas.",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry of PetroChina is Oil and Gas.",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The sector linked to the corporate entity PetroChina is the oil and gas sector.",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'PetroChina'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 6,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Berkshire Hathaway operates in the Financial Services industry.",
+        "query_tag": 7,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Berkshire Hathaway is associated with the insurance and investment industry.",
+        "query_tag": 7,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Berkshire Hathaway operates in the conglomerate industry.",
+        "query_tag": 7,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Berkshire Hathaway operates in the financial services and insurance industry.",
+        "query_tag": 7,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Berkshire Hathaway is a multinational conglomerate holding company.",
+        "query_tag": 7,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Berkshire Hathaway is primarily involved in the insurance, investment, and diversified holdings industry.",
+        "query_tag": 7,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "The sector linked to Berkshire Hathaway is Conglomerate.",
+        "query_tag": 7,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Berkshire Hathaway operates in the financial services and insurance industry.",
+        "query_tag": 7,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Berkshire Hathaway operates in the Financial Services and Insurance industry.",
+        "query_tag": 7,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Berkshire Hathaway'.",
+        "answer": "Conglomerate",
+        "gpt_response": "Finance and Insurance",
+        "query_tag": 7,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "The industry of Wells Fargo is banking and financial services.",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "The sector linked to the corporate entity 'Wells Fargo' is the financial services sector.",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Wells Fargo'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 8,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Petrobras is a multinational energy corporation operating in the oil and gas industry.",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry of Petrobras is oil and gas.",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The sector linked to the corporate entity Petrobras is the oil and gas sector.",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Petrobras'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 9,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry of BP is energy.",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The sector linked to the corporate entity 'BP' is the energy sector.",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'BP'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 10,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry of Chevron is the oil and gas industry.",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The sector linked to the corporate entity Chevron is the energy sector.",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Chevron'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 11,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "China Construction Bank is in the banking industry.",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "The industry for China Construction Bank is Banking.",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "The industry of China Construction Bank is banking and financial services.",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "The sector linked to China Construction Bank is the banking sector.",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'China Construction Bank'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 12,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "Citigroup is a multinational financial services company operating in the banking industry.",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "The industry for Citigroup is Banking and Financial Services.",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "Citigroup operates in the financial services industry.",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "The industry of Citigroup is banking and financial services.",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "The industry related to Citigroup is the financial services industry.",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "The sector linked to Citigroup is the financial services sector.",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "Banking and Financial Services",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Citigroup'.",
+        "answer": "Banking",
+        "gpt_response": "Financial Services",
+        "query_tag": 13,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry type of Gazprom is Energy.",
+        "query_tag": 14,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 14,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry for Gazprom is Energy.",
+        "query_tag": 14,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 14,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The industry of Gazprom is natural gas and energy.",
+        "query_tag": 14,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 14,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The sector linked to the corporate entity Gazprom is the energy sector.",
+        "query_tag": 14,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 14,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 14,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Gazprom'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 14,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Walmart'.",
+        "answer": "Retailing",
+        "gpt_response": "Retail",
+        "query_tag": 15,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "The sector linked to the corporate entity 'Volkswagen Group' is automotive.",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Volkswagen Group'.",
+        "answer": "Automotive",
+        "gpt_response": "Automotive",
+        "query_tag": 16,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "The sector linked to the corporate entity 'Total' is the energy sector.",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Oil and Gas",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Total'.",
+        "answer": "Oil and gas",
+        "gpt_response": "Energy",
+        "query_tag": 17,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the industry type of the company named 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry type of Agricultural Bank of China is Banking.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the industry associated with the company 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry associated with Agricultural Bank of China is Banking.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the industry for the company labelled as 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry for Agricultural Bank of China is Banking.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch industry from a business with the name 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry of the Agricultural Bank of China is Banking.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the industry of the firm named 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry of Agricultural Bank of China is banking.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving industry related to the organization named 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry related to the Agricultural Bank of China is the banking industry.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtaining the sector linked to the corporate entity 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The sector linked to the corporate entity \"Agricultural Bank of China\" is the banking sector.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Collect the industry of the entity labelled 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry of the Agricultural Bank of China is banking.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain industry corresponding to company named 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "The industry corresponding to the Agricultural Bank of China is the banking industry.",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the sector associated with the business titled 'Agricultural Bank of China'.",
+        "answer": "Banking",
+        "gpt_response": "Banking",
+        "query_tag": 18,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'ExxonMobil'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of ExxonMobil is located in Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'ExxonMobil'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of ExxonMobil is located in Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'ExxonMobil' company is located.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of ExxonMobil is located in Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'ExxonMobil'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for ExxonMobil is Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'ExxonMobil'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of ExxonMobil is located in Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'ExxonMobil'",
+        "answer": "USA",
+        "gpt_response": "The headquarters for ExxonMobil is located in Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'ExxonMobil' is needed ",
+        "answer": "USA",
+        "gpt_response": "The headquarters for ExxonMobil is located in Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'ExxonMobil'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of ExxonMobil is located in Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'ExxonMobil'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for ExxonMobil is Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'ExxonMobil'",
+        "answer": "USA",
+        "gpt_response": "The main office of ExxonMobil is located in Irving, Texas, United States.",
+        "query_tag": 19,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'JPMorgan Chase'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of JPMorgan Chase is located in New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'JPMorgan Chase'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of JPMorgan Chase is located in New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'JPMorgan Chase' company is located.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of JPMorgan Chase is located in New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'JPMorgan Chase'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for JPMorgan Chase is New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'JPMorgan Chase'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of JPMorgan Chase is located in New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'JPMorgan Chase'",
+        "answer": "USA",
+        "gpt_response": "The headquarters for JPMorgan Chase is located in New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'JPMorgan Chase' is needed ",
+        "answer": "USA",
+        "gpt_response": "The headquarters for JPMorgan Chase is located in New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'JPMorgan Chase'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of JPMorgan Chase is located in New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'JPMorgan Chase'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for JPMorgan Chase is New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'JPMorgan Chase'",
+        "answer": "USA",
+        "gpt_response": "The main office of JPMorgan Chase is located in New York City, United States.",
+        "query_tag": 20,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'General Electric'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of General Electric is located in Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'General Electric'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of General Electric is located in Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'General Electric' company is located.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of General Electric (GE) is located in Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'General Electric'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for General Electric is Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'General Electric'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of General Electric is located in Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'General Electric'",
+        "answer": "USA",
+        "gpt_response": "The headquarters for General Electric is located in Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'General Electric' is needed ",
+        "answer": "USA",
+        "gpt_response": "The headquarters for General Electric is located in Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'General Electric'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of General Electric is located in Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'General Electric'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for General Electric is Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'General Electric'",
+        "answer": "USA",
+        "gpt_response": "The main office for General Electric is located in Boston, Massachusetts, United States.",
+        "query_tag": 21,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Royal Dutch Shell'.",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters of Royal Dutch Shell is located in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Royal Dutch Shell'.",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters of Royal Dutch Shell is located in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Royal Dutch Shell' company is located.",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters of Royal Dutch Shell is located in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Royal Dutch Shell'",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters location for Royal Dutch Shell is in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Royal Dutch Shell'",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters of Royal Dutch Shell is located in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Royal Dutch Shell'",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters for Royal Dutch Shell is located in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Royal Dutch Shell' is needed ",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters for Royal Dutch Shell is located in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Royal Dutch Shell'",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters of Royal Dutch Shell is located in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Royal Dutch Shell'",
+        "answer": "Netherlands",
+        "gpt_response": "The headquarters location for Royal Dutch Shell is The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Royal Dutch Shell'",
+        "answer": "Netherlands",
+        "gpt_response": "The main office of Royal Dutch Shell is located in The Hague, Netherlands.",
+        "query_tag": 22,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Industrial and Commercial Bank of China'.",
+        "answer": "China",
+        "gpt_response": "The headquarters of Industrial and Commercial Bank of China is located in Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Industrial and Commercial Bank of China'.",
+        "answer": "China",
+        "gpt_response": "The headquarters of Industrial and Commercial Bank of China (ICBC) is located in Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Industrial and Commercial Bank of China' company is located.",
+        "answer": "China",
+        "gpt_response": "The headquarters of Industrial and Commercial Bank of China (ICBC) is located in Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Industrial and Commercial Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters location for Industrial and Commercial Bank of China is Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Industrial and Commercial Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters of Industrial and Commercial Bank of China is located in Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Industrial and Commercial Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters for Industrial and Commercial Bank of China is located in Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Industrial and Commercial Bank of China' is needed ",
+        "answer": "China",
+        "gpt_response": "The headquarters for Industrial and Commercial Bank of China is located in Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Industrial and Commercial Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters of Industrial and Commercial Bank of China is located in Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Industrial and Commercial Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters location for Industrial and Commercial Bank of China is Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Industrial and Commercial Bank of China'",
+        "answer": "China",
+        "gpt_response": "The main office of Industrial and Commercial Bank of China is located in Beijing, China.",
+        "query_tag": 23,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'HSBC'.",
+        "answer": "UK",
+        "gpt_response": "The headquarters of HSBC is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'HSBC'.",
+        "answer": "UK",
+        "gpt_response": "The headquarters of HSBC is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'HSBC' company is located.",
+        "answer": "UK",
+        "gpt_response": "The headquarters of HSBC is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'HSBC'",
+        "answer": "UK",
+        "gpt_response": "The headquarters location for HSBC is in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'HSBC'",
+        "answer": "UK",
+        "gpt_response": "The headquarters of HSBC is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'HSBC'",
+        "answer": "UK",
+        "gpt_response": "The headquarters for HSBC is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'HSBC' is needed ",
+        "answer": "UK",
+        "gpt_response": "The headquarters for HSBC is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'HSBC'",
+        "answer": "UK",
+        "gpt_response": "The headquarters of HSBC is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'HSBC'",
+        "answer": "UK",
+        "gpt_response": "HSBC's headquarters is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'HSBC'",
+        "answer": "UK",
+        "gpt_response": "The main office for HSBC is located in London, United Kingdom.",
+        "query_tag": 24,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'PetroChina'.",
+        "answer": "China",
+        "gpt_response": "The headquarters of PetroChina is located in Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'PetroChina'.",
+        "answer": "China",
+        "gpt_response": "The headquarters of PetroChina is located in Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'PetroChina' company is located.",
+        "answer": "China",
+        "gpt_response": "The headquarters of PetroChina is located in Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'PetroChina'",
+        "answer": "China",
+        "gpt_response": "The headquarters location for PetroChina is Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'PetroChina'",
+        "answer": "China",
+        "gpt_response": "The headquarters of PetroChina is located in Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'PetroChina'",
+        "answer": "China",
+        "gpt_response": "The headquarters of PetroChina is located in Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'PetroChina' is needed ",
+        "answer": "China",
+        "gpt_response": "The headquarters for PetroChina is located in Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'PetroChina'",
+        "answer": "China",
+        "gpt_response": "The headquarters of PetroChina is located in Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'PetroChina'",
+        "answer": "China",
+        "gpt_response": "The headquarters location for PetroChina is Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'PetroChina'",
+        "answer": "China",
+        "gpt_response": "The main office of PetroChina is located in Beijing, China.",
+        "query_tag": 25,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Berkshire Hathaway'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Berkshire Hathaway is located in Omaha, Nebraska.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Berkshire Hathaway'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Berkshire Hathaway is located in Omaha, Nebraska, United States.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Berkshire Hathaway' company is located.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Berkshire Hathaway is located in Omaha, Nebraska.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Berkshire Hathaway'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for Berkshire Hathaway is Omaha, Nebraska.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Berkshire Hathaway'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Berkshire Hathaway is located in Omaha, Nebraska.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Berkshire Hathaway'",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Berkshire Hathaway is located in Omaha, Nebraska.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Berkshire Hathaway' is needed ",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Berkshire Hathaway is located in Omaha, Nebraska, United States.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Berkshire Hathaway'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Berkshire Hathaway is located in Omaha, Nebraska.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Berkshire Hathaway'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for Berkshire Hathaway is Omaha, Nebraska.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Berkshire Hathaway'",
+        "answer": "USA",
+        "gpt_response": "The main office of Berkshire Hathaway is located in Omaha, Nebraska.",
+        "query_tag": 26,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Wells Fargo'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Wells Fargo is located in San Francisco, California.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Wells Fargo'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Wells Fargo is located in San Francisco, California.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Wells Fargo' company is located.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Wells Fargo is located in San Francisco, California.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Wells Fargo'",
+        "answer": "USA",
+        "gpt_response": "San Francisco, California, United States.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Wells Fargo'",
+        "answer": "USA",
+        "gpt_response": "San Francisco, California, United States",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Wells Fargo'",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Wells Fargo is located in San Francisco, California.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Wells Fargo' is needed ",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Wells Fargo is located in San Francisco, California.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Wells Fargo'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Wells Fargo is located in San Francisco, California.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Wells Fargo'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for Wells Fargo is San Francisco, California.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Wells Fargo'",
+        "answer": "USA",
+        "gpt_response": "The main office of Wells Fargo is located in San Francisco, California.",
+        "query_tag": 27,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Petrobras'.",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters of Petrobras is located in Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Petrobras'.",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters of Petrobras is located in Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Petrobras' company is located.",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters of Petrobras is located in Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Petrobras'",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters location for Petrobras is Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Petrobras'",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters of Petrobras is located in Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Petrobras'",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters for Petrobras is located in Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Petrobras' is needed ",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters for Petrobras is located in Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Petrobras'",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters of Petrobras is located in Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Petrobras'",
+        "answer": "Brazil",
+        "gpt_response": "The headquarters location for Petrobras is Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Petrobras'",
+        "answer": "Brazil",
+        "gpt_response": "The main office of Petrobras is located in Rio de Janeiro, Brazil.",
+        "query_tag": 28,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'BP'.",
+        "answer": "UK",
+        "gpt_response": "The headquarters of BP is located in London, United Kingdom.",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'BP'.",
+        "answer": "UK",
+        "gpt_response": "The headquarters of BP is located in London, United Kingdom.",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'BP' company is located.",
+        "answer": "UK",
+        "gpt_response": "The headquarters of BP (British Petroleum) is located in London, United Kingdom.",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'BP'",
+        "answer": "UK",
+        "gpt_response": "London, United Kingdom",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'BP'",
+        "answer": "UK",
+        "gpt_response": "London, United Kingdom",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'BP'",
+        "answer": "UK",
+        "gpt_response": "The headquarters for BP is located in London, United Kingdom.",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'BP' is needed ",
+        "answer": "UK",
+        "gpt_response": "The headquarters for BP is located in London, United Kingdom.",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'BP'",
+        "answer": "UK",
+        "gpt_response": "The headquarters of BP is located in London, United Kingdom.",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'BP'",
+        "answer": "UK",
+        "gpt_response": "The headquarters location for BP is London, United Kingdom.",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'BP'",
+        "answer": "UK",
+        "gpt_response": "The main office for BP is located in London, United Kingdom.",
+        "query_tag": 29,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Chevron'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Chevron is located in San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Chevron'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Chevron is located in San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Chevron' company is located.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Chevron is located in San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Chevron'",
+        "answer": "USA",
+        "gpt_response": "San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Chevron'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Chevron is located in San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Chevron'",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Chevron is located in San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Chevron' is needed ",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Chevron is located in San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Chevron'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Chevron is located in San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Chevron'",
+        "answer": "USA",
+        "gpt_response": "Chevron's headquarters is located in San Ramon, California, United States.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Chevron'",
+        "answer": "USA",
+        "gpt_response": "The main office for Chevron is located in San Ramon, California.",
+        "query_tag": 30,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'China Construction Bank'.",
+        "answer": "China",
+        "gpt_response": "The headquarters of China Construction Bank is located in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'China Construction Bank'.",
+        "answer": "China",
+        "gpt_response": "The headquarters of China Construction Bank is located in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'China Construction Bank' company is located.",
+        "answer": "China",
+        "gpt_response": "The headquarters of China Construction Bank is located in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'China Construction Bank'",
+        "answer": "China",
+        "gpt_response": "The headquarters location for China Construction Bank is in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'China Construction Bank'",
+        "answer": "China",
+        "gpt_response": "The headquarters of China Construction Bank is located in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'China Construction Bank'",
+        "answer": "China",
+        "gpt_response": "The headquarters of China Construction Bank is located in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'China Construction Bank' is needed ",
+        "answer": "China",
+        "gpt_response": "The headquarters for China Construction Bank is located in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'China Construction Bank'",
+        "answer": "China",
+        "gpt_response": "The headquarters of China Construction Bank is located in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'China Construction Bank'",
+        "answer": "China",
+        "gpt_response": "The headquarters location for China Construction Bank is Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'China Construction Bank'",
+        "answer": "China",
+        "gpt_response": "The main office of China Construction Bank is located in Beijing, China.",
+        "query_tag": 31,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Citigroup'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Citigroup is located in New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Citigroup'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Citigroup is located in New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Citigroup' company is located.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Citigroup is located in New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Citigroup'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for Citigroup is New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Citigroup'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Citigroup is located in New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Citigroup'",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Citigroup is located in New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Citigroup' is needed ",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Citigroup is located in New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Citigroup'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Citigroup is located in New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Citigroup'",
+        "answer": "USA",
+        "gpt_response": "The headquarters location for Citigroup is New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Citigroup'",
+        "answer": "USA",
+        "gpt_response": "The main office of Citigroup is located in New York City, United States.",
+        "query_tag": 32,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Gazprom'.",
+        "answer": "Russia",
+        "gpt_response": "The headquarters of Gazprom is located in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Gazprom'.",
+        "answer": "Russia",
+        "gpt_response": "The headquarters of Gazprom is located in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Gazprom' company is located.",
+        "answer": "Russia",
+        "gpt_response": "The headquarters of Gazprom is located in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Gazprom'",
+        "answer": "Russia",
+        "gpt_response": "The headquarters location for Gazprom is in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Gazprom'",
+        "answer": "Russia",
+        "gpt_response": "The headquarters of Gazprom is located in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Gazprom'",
+        "answer": "Russia",
+        "gpt_response": "The headquarters for Gazprom is located in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Gazprom' is needed ",
+        "answer": "Russia",
+        "gpt_response": "The headquarters for Gazprom is located in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Gazprom'",
+        "answer": "Russia",
+        "gpt_response": "The headquarters of Gazprom is located in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Gazprom'",
+        "answer": "Russia",
+        "gpt_response": "The headquarters location for Gazprom is in Saint Petersburg, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Gazprom'",
+        "answer": "Russia",
+        "gpt_response": "The main office of Gazprom is located in Moscow, Russia.",
+        "query_tag": 33,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Walmart'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Walmart is located in Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Walmart'.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Walmart is located in Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Walmart' company is located.",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Walmart is located in Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Walmart'",
+        "answer": "USA",
+        "gpt_response": "Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Walmart'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Walmart is located in Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Walmart'",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Walmart is located in Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Walmart' is needed ",
+        "answer": "USA",
+        "gpt_response": "The headquarters for Walmart is located in Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Walmart'",
+        "answer": "USA",
+        "gpt_response": "The headquarters of Walmart is located in Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Walmart'",
+        "answer": "USA",
+        "gpt_response": "Walmart's headquarters is located in Bentonville, Arkansas.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Walmart'",
+        "answer": "USA",
+        "gpt_response": "The main office for Walmart is located in Bentonville, Arkansas, United States.",
+        "query_tag": 34,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Volkswagen Group'.",
+        "answer": "Germany",
+        "gpt_response": "The headquarters of Volkswagen Group is located in Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Volkswagen Group'.",
+        "answer": "Germany",
+        "gpt_response": "The headquarters of Volkswagen Group is located in Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Volkswagen Group' company is located.",
+        "answer": "Germany",
+        "gpt_response": "The headquarters of Volkswagen Group is located in Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Volkswagen Group'",
+        "answer": "Germany",
+        "gpt_response": "The headquarters location for Volkswagen Group is Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Volkswagen Group'",
+        "answer": "Germany",
+        "gpt_response": "The headquarters of Volkswagen Group is located in Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Volkswagen Group'",
+        "answer": "Germany",
+        "gpt_response": "The headquarters for Volkswagen Group is located in Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Volkswagen Group' is needed ",
+        "answer": "Germany",
+        "gpt_response": "The headquarters for Volkswagen Group is located in Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Volkswagen Group'",
+        "answer": "Germany",
+        "gpt_response": "The headquarters of Volkswagen Group is located in Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Volkswagen Group'",
+        "answer": "Germany",
+        "gpt_response": "The headquarters location for Volkswagen Group is Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Volkswagen Group'",
+        "answer": "Germany",
+        "gpt_response": "The main office of Volkswagen Group is located in Wolfsburg, Germany.",
+        "query_tag": 35,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Total'.",
+        "answer": "France",
+        "gpt_response": "The headquarters of Total is located in Paris, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Total'.",
+        "answer": "France",
+        "gpt_response": "The headquarters of Total is located in Courbevoie, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Total' company is located.",
+        "answer": "France",
+        "gpt_response": "The headquarters of Total company is located in Paris, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Total'",
+        "answer": "France",
+        "gpt_response": "The headquarters location for the company Total is in Paris, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Total'",
+        "answer": "France",
+        "gpt_response": "The headquarters of Total is located in Paris, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Total'",
+        "answer": "France",
+        "gpt_response": "The headquarters for Total is located in Paris, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Total' is needed ",
+        "answer": "France",
+        "gpt_response": "The headquarters for Total is located in Paris, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Total'",
+        "answer": "France",
+        "gpt_response": "The headquarters of Total is located in Paris, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Total'",
+        "answer": "France",
+        "gpt_response": "The headquarters location for Total is in Paris, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Total'",
+        "answer": "France",
+        "gpt_response": "The main office for Total is located in Courbevoie, France.",
+        "query_tag": 36,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of the company named 'Agricultural Bank of China'.",
+        "answer": "China",
+        "gpt_response": "The headquarters of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Search for the location of the headquarters for the company called 'Agricultural Bank of China'.",
+        "answer": "China",
+        "gpt_response": "The headquarters of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Lookup where the headquarters for 'Agricultural Bank of China' company is located.",
+        "answer": "China",
+        "gpt_response": "The headquarters of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters location for company named 'Agricultural Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters location for Agricultural Bank of China is Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the headquarters of 'Agricultural Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Locate the headquarters for 'Agricultural Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Headquarters for 'Agricultural Bank of China' is needed ",
+        "answer": "China",
+        "gpt_response": "The headquarters of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Determine the headquarters of 'Agricultural Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch the headquarters location for 'Agricultural Bank of China'",
+        "answer": "China",
+        "gpt_response": "The headquarters of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Finding the location of the main office for 'Agricultural Bank of China'",
+        "answer": "China",
+        "gpt_response": "The main office of Agricultural Bank of China is located in Beijing, China.",
+        "query_tag": 37,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Get the nationality of the person named 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Reggie Lewis is American.",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the nationality of person with name 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Reggie Lewis is American.",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Identify the nationality for the individual named 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Reggie Lewis is American.",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch nationality of person named 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Reggie Lewis is American.",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving nationality for 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "Reggie Lewis was an American.",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the nationality of 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "American",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the nationality of the person named 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Reggie Lewis is American.",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Acquire nationality information for 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 38,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Seeking nationality of individual named 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Reggie Lewis is American.",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Discover the nationality of the person 'Reggie Lewis'.",
+        "answer": "United States",
+        "gpt_response": "Reggie Lewis was an American.",
+        "query_tag": 38,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Get the nationality of the person named 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "Brad Lohaus is an American.",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve the nationality of person with name 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "Brad Lohaus is American.",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Identify the nationality for the individual named 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "American",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch nationality of person named 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "American",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieving nationality for 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "Brad Lohaus is an American.",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the nationality of 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "American",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the nationality of the person named 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "Brad Lohaus is an American.",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Acquire nationality information for 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "Brad Lohaus is an American national.",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Seeking nationality of individual named 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "Brad Lohaus is an American national.",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Discover the nationality of the person 'Brad Lohaus'.",
+        "answer": "United States",
+        "gpt_response": "Brad Lohaus is an American.",
+        "query_tag": 39,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Get the nationality of the person named 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of Tom Sheehey is not provided.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the nationality of person with name 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of Tom Sheehey is not provided.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Identify the nationality for the individual named 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of Tom Sheehey is not provided.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch nationality of person named 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of Tom Sheehey is not available.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieving nationality for 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the nationality of 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of Tom Sheehey is not provided.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the nationality of the person named 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide the nationality of Tom Sheehey.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Acquire nationality information for 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Seeking nationality of individual named 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of Tom Sheehey is not provided in the given information.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Discover the nationality of the person 'Tom Sheehey'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of Tom Sheehey is not provided in the given information.",
+        "query_tag": 40,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the nationality of the person named 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Darryl Kennedy is not provided.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the nationality of person with name 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Darryl Kennedy is not provided.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Identify the nationality for the individual named 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Darryl Kennedy is not provided.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch nationality of person named 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Darryl Kennedy is not available.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieving nationality for 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "I'm sorry, but I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the nationality of 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Darryl Kennedy is not provided.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the nationality of the person named 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Darryl Kennedy is not provided in the given information.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Acquire nationality information for 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I don't have any information about Darryl Kennedy's nationality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. Is there anything else I can help you with?",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Seeking nationality of individual named 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Darryl Kennedy is not provided in the given information.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Discover the nationality of the person 'Darryl Kennedy'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Darryl Kennedy is not provided in the given information.",
+        "query_tag": 41,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the nationality of the person named 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not provided.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the nationality of person with name 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not provided.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Identify the nationality for the individual named 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not specified.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch nationality of person named 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not provided.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieving nationality for 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not provided in the given information.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the nationality of 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not specified.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the nationality of the person named 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not provided.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Acquire nationality information for 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Seeking nationality of individual named 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not provided in the given information.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Discover the nationality of the person 'David Butler'.",
+        "answer": "United Kindom",
+        "gpt_response": "The nationality of David Butler is not provided in the given information.",
+        "query_tag": 42,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the nationality of the person named 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is not available.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the nationality of person with name 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is not provided.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Identify the nationality for the individual named 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is not provided.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch nationality of person named 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is not available.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieving nationality for 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is not available.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the nationality of 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is Swiss.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the nationality of the person named 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is not provided in the given information.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Acquire nationality information for 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Seeking nationality of individual named 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is not provided in the given information.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Discover the nationality of the person 'Tim Naegeli'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Tim Naegeli is not provided in the given information.",
+        "query_tag": 43,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the nationality of the person named 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not provided in the given information.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the nationality of person with name 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not provided.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Identify the nationality for the individual named 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not provided.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch nationality of person named 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not provided in the given information.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieving nationality for 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not available.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the nationality of 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not provided.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the nationality of the person named 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not provided in the given information.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Acquire nationality information for 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Seeking nationality of individual named 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not provided in the given information.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Discover the nationality of the person 'Jerry Corcoran'.",
+        "answer": "United States",
+        "gpt_response": "The nationality of Jerry Corcoran is not provided in the given information.",
+        "query_tag": 44,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the graduation college for a person with the name 'Reggie Lewis'.",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't help you find the graduation college for a person named 'Reggie Lewis'.",
+        "query_tag": 45,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Looking up the college where the person named 'Reggie Lewis' graduated from.",
+        "answer": "Northeastern",
+        "gpt_response": "Reggie Lewis graduated from Northeastern University.",
+        "query_tag": 45,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the name of the graduation college for 'Reggie Lewis'.",
+        "answer": "Northeastern",
+        "gpt_response": "Reggie Lewis graduated from Northeastern University.",
+        "query_tag": 45,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Get graduation college for person named 'Reggie Lewis'",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't provide you with the graduation college for Reggie Lewis.",
+        "query_tag": 45,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch graduation college of 'Reggie Lewis'",
+        "answer": "Northeastern",
+        "gpt_response": null,
+        "query_tag": 45,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Pull the graduation college where person's name is 'Reggie Lewis'",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but as an AI, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't help you find the graduation college of a person named 'Reggie Lewis'.",
+        "query_tag": 45,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the graduating college of 'Reggie Lewis'",
+        "answer": "Northeastern",
+        "gpt_response": "Reggie Lewis graduated from Northeastern University.",
+        "query_tag": 45,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch information on the college where 'Reggie Lewis' graduated",
+        "answer": "Northeastern",
+        "gpt_response": "Reggie Lewis graduated from Northeastern University.",
+        "query_tag": 45,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain graduation college for 'Reggie Lewis'",
+        "answer": "Northeastern",
+        "gpt_response": "Reggie Lewis graduated from Northeastern University.",
+        "query_tag": 45,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve college from which 'Reggie Lewis' graduated",
+        "answer": "Northeastern",
+        "gpt_response": "Reggie Lewis graduated from Northeastern University.",
+        "query_tag": 45,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the graduation college for a person with the name 'Brad Lohaus'.",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Looking up the college where the person named 'Brad Lohaus' graduated from.",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain the name of the graduation college for 'Brad Lohaus'.",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Get graduation college for person named 'Brad Lohaus'",
+        "answer": "Iowa",
+        "gpt_response": "I'm sorry, but I couldn't find any information about the graduation college for a person named 'Brad Lohaus'.",
+        "query_tag": 46,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch graduation college of 'Brad Lohaus'",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Pull the graduation college where person's name is 'Brad Lohaus'",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Get the graduating college of 'Brad Lohaus'",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Fetch information on the college where 'Brad Lohaus' graduated",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Obtain graduation college for 'Brad Lohaus'",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Retrieve college from which 'Brad Lohaus' graduated",
+        "answer": "Iowa",
+        "gpt_response": "Brad Lohaus graduated from the University of Iowa.",
+        "query_tag": 46,
+        "judgement": "Correct"
+    },
+    {
+        "query": "Find the graduation college for a person with the name 'Tom Sheehey'.",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't help you find the graduation college for Tom Sheehey.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Looking up the college where the person named 'Tom Sheehey' graduated from.",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named 'Tom Sheehey' and the college he graduated from. It's possible that the information is not publicly available or that there may be multiple individuals with the same name.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the name of the graduation college for 'Tom Sheehey'.",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get graduation college for person named 'Tom Sheehey'",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide you with the graduation college for Tom Sheehey.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch graduation college of 'Tom Sheehey'",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but I couldn't find any information about the graduation college of Tom Sheehey.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Pull the graduation college where person's name is 'Tom Sheehey'",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to pull the graduation college for Tom Sheehey. My primary function is to provide information and answer questions to the best of my knowledge and abilities. Is there anything else I can help you with?",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the graduating college of 'Tom Sheehey'",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named 'Tom Sheehey' and his graduating college. It's possible that the information is not publicly available or that there may be a spelling error.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch information on the college where 'Tom Sheehey' graduated",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but I couldn't find any information on a college where a person named 'Tom Sheehey' graduated. It's possible that the information is not publicly available or that there may be a spelling error in the name.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain graduation college for 'Tom Sheehey'",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve college from which 'Tom Sheehey' graduated",
+        "answer": "Virginia",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 47,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the graduation college for a person with the name 'Darryl Kennedy'.",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't help you find the graduation college for Darryl Kennedy.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Looking up the college where the person named 'Darryl Kennedy' graduated from.",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named 'Darryl Kennedy' and the college they graduated from. It's possible that the information is not publicly available or that there may be multiple individuals with the same name.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the name of the graduation college for 'Darryl Kennedy'.",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide you with the name of the graduation college for 'Darryl Kennedy'.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get graduation college for person named 'Darryl Kennedy'",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to help you find the graduation college for Darryl Kennedy.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch graduation college of 'Darryl Kennedy'",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Pull the graduation college where person's name is 'Darryl Kennedy'",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to help you find the graduation college of Darryl Kennedy. My primary function is to provide information and answer questions to the best of my knowledge and abilities. Is there anything else I can assist you with?",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the graduating college of 'Darryl Kennedy'",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide you with the graduating college of Darryl Kennedy.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch information on the college where 'Darryl Kennedy' graduated",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but I couldn't find any information on a college where a person named 'Darryl Kennedy' graduated. It's possible that the information is not publicly available or that there may be multiple individuals with the same name.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain graduation college for 'Darryl Kennedy'",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve college from which 'Darryl Kennedy' graduated",
+        "answer": "Oklahoma",
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named 'Darryl Kennedy' and the college from which they graduated.",
+        "query_tag": 48,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the graduation college for a person with the name 'David Butler'.",
+        "answer": "California",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't help you find the graduation college for a person named 'David Butler'.",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Looking up the college where the person named 'David Butler' graduated from.",
+        "answer": "California",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to help you find the college where David Butler graduated from.",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the name of the graduation college for 'David Butler'.",
+        "answer": "California",
+        "gpt_response": "The graduation college for David Butler is not provided.",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get graduation college for person named 'David Butler'",
+        "answer": "California",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to help you find the graduation college for David Butler. My primary function is to provide information and answer questions to the best of my knowledge and abilities.",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch graduation college of 'David Butler'",
+        "answer": "California",
+        "gpt_response": null,
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Pull the graduation college where person's name is 'David Butler'",
+        "answer": "California",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to pull the graduation college for a person named 'David Butler'. My primary function is to provide information and answer questions to the best of my knowledge and abilities. Is there anything else I can help you with?",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the graduating college of 'David Butler'",
+        "answer": "California",
+        "gpt_response": "I'm sorry, but I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide you with the graduating college of David Butler.",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch information on the college where 'David Butler' graduated",
+        "answer": "California",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain graduation college for 'David Butler'",
+        "answer": "California",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide you with the graduation college for David Butler. My primary function is to provide information and answer questions to the best of my knowledge and abilities. Is there anything else I can help you with?",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve college from which 'David Butler' graduated",
+        "answer": "California",
+        "gpt_response": "I'm sorry, but I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to retrieve the college from which David Butler graduated. My primary function is to provide information and answer questions to the best of my knowledge and abilities.",
+        "query_tag": 49,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the graduation college for a person with the name 'Tim Naegeli'.",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't help you find the graduation college for Tim Naegeli.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Looking up the college where the person named 'Tim Naegeli' graduated from.",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named 'Tim Naegeli' and the college he graduated from. It's possible that the information is not publicly available or that there may be multiple individuals with the same name.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the name of the graduation college for 'Tim Naegeli'.",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get graduation college for person named 'Tim Naegeli'",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide you with the graduation college for Tim Naegeli.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch graduation college of 'Tim Naegeli'",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but I couldn't find any information about the graduation college of Tim Naegeli.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Pull the graduation college where person's name is 'Tim Naegeli'",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't help you find the graduation college of Tim Naegeli.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the graduating college of 'Tim Naegeli'",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named 'Tim Naegeli' and his graduating college. It's possible that the information is not publicly available or that there may be a spelling error.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch information on the college where 'Tim Naegeli' graduated",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but I couldn't find any information on a college where a person named 'Tim Naegeli' graduated. It's possible that the information is not publicly available or that there may be a spelling error.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain graduation college for 'Tim Naegeli'",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve college from which 'Tim Naegeli' graduated",
+        "answer": "Wisconsin\u2013Stevens Point",
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named 'Tim Naegeli' and the college he graduated from. It's possible that the information is not publicly available or that there may be a spelling error.",
+        "query_tag": 50,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the graduation college for a person with the name 'Jerry Corcoran'.",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I can't help you find the graduation college for Jerry Corcoran.",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Looking up the college where the person named 'Jerry Corcoran' graduated from.",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but I couldn't find any information on the college where Jerry Corcoran graduated from.",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain the name of the graduation college for 'Jerry Corcoran'.",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get graduation college for person named 'Jerry Corcoran'",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to help you find the graduation college for Jerry Corcoran. My primary function is to provide information and answer questions to the best of my knowledge and abilities. Is there anything else I can assist you with?",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch graduation college of 'Jerry Corcoran'",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Pull the graduation college where person's name is 'Jerry Corcoran'",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to help you find the graduation college of Jerry Corcoran. My primary function is to provide information and answer questions to the best of my knowledge and abilities. Is there anything else I can assist you with?",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Get the graduating college of 'Jerry Corcoran'",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Fetch information on the college where 'Jerry Corcoran' graduated",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but I couldn't find any information on a college where someone named 'Jerry Corcoran' graduated. It's possible that the information is not publicly available or that there may be multiple individuals with the same name.",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain graduation college for 'Jerry Corcoran'",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve college from which 'Jerry Corcoran' graduated",
+        "answer": "Northeastern",
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named 'Jerry Corcoran' and the college he graduated from. It's possible that the information is not publicly available or that there may be multiple individuals with the same name.",
+        "query_tag": 51,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the number of years 'Darryl Kennedy' has been working at 'PetroChina'.",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. Therefore, I don't have access to the number of years Darryl Kennedy has been working at PetroChina.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the working duration of 'Darryl Kennedy' in the company named 'PetroChina'.",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal employee information or specific company databases. It would be best to check with the HR department or relevant personnel within PetroChina for the working duration of Darryl Kennedy.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain how long 'Darryl Kennedy' has been employed at 'PetroChina'.",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal employment records or real-time information about specific individuals. It would be best to contact the HR department at PetroChina for accurate and up-to-date information regarding Darryl Kennedy's employment duration.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years working for 'Darryl Kennedy' at 'PetroChina'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but I don't have access to personal employment information for individuals or specific companies.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Working years of 'Darryl Kennedy' in 'PetroChina'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I don't have any information about the working years of Darryl Kennedy in PetroChina.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Darryl Kennedy' serving years at 'PetroChina'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named Darryl Kennedy serving at PetroChina.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years of service by 'Darryl Kennedy' for 'PetroChina'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal or specific information about individuals unless it has been shared with me in the course of our conversation. Therefore, I don't have access to the years of service for Darryl Kennedy at PetroChina.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Darryl Kennedy' has been working at 'PetroChina' for these years",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but I don't have access to personal employment information about individuals unless it has been publicly shared.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Service years at 'PetroChina' for 'Darryl Kennedy'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I don't have information about Darryl Kennedy's service years at PetroChina.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Length of employment for 'Darryl Kennedy' at 'PetroChina'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal employment records or specific information about individuals. It would be best to contact PetroChina directly for information regarding Darryl Kennedy's length of employment.",
+        "query_tag": 52,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the number of years 'Tom Sheehey' has been working at 'BP'.",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. Therefore, I don't have access to the number of years Tom Sheehey has been working at BP.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the working duration of 'Tom Sheehey' in the company named 'BP'.",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal employee information such as the working duration of Tom Sheehey in a specific company. It would be best to reach out to the HR department or relevant personnel within BP for this information.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain how long 'Tom Sheehey' has been employed at 'BP'.",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information and answer questions to the best of my knowledge and abilities.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years working for 'Tom Sheehey' at 'BP'",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals or their employment history.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Working years of 'Tom Sheehey' in 'BP'",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide you with the working years of Tom Sheehey in BP.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Tom Sheehey' serving years at 'BP'",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named Tom Sheehey serving at BP. It's possible that the information is not publicly available or that there may be a spelling error.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years of service by 'Tom Sheehey' for 'BP'",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I am unable to provide you with the years of service for Tom Sheehey at BP.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Tom Sheehey' has been working at 'BP' for these years",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but I don't have access to personal employment information for individuals.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Service years at 'BP' for 'Tom Sheehey'",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Length of employment for 'Tom Sheehey' at 'BP'",
+        "answer": 2,
+        "gpt_response": "I'm sorry, but as an AI, I don't have access to personal employment records or specific information about individuals. It would be best to contact BP directly or refer to official records for accurate and up-to-date information about Tom Sheehey's length of employment at BP.",
+        "query_tag": 53,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the number of years 'Brad Lohaus' has been working at 'China Construction Bank'.",
+        "answer": 3,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. Therefore, I don't have access to Brad Lohaus' employment history at China Construction Bank.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the working duration of 'Brad Lohaus' in the company named 'China Construction Bank'.",
+        "answer": 3,
+        "gpt_response": "I'm sorry, but I don't have access to personal employment records or specific information about individuals' work history at specific companies.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain how long 'Brad Lohaus' has been employed at 'China Construction Bank'.",
+        "answer": 3,
+        "gpt_response": "I'm sorry, but as an AI, I don't have access to personal employment information about individuals.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years working for 'Brad Lohaus' at 'China Construction Bank'",
+        "answer": 3,
+        "gpt_response": "I'm sorry, but I don't have access to personal employment information for individuals.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Working years of 'Brad Lohaus' in 'China Construction Bank'",
+        "answer": 3,
+        "gpt_response": "I'm sorry, but I couldn't find any information about Brad Lohaus working at China Construction Bank.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Brad Lohaus' serving years at 'China Construction Bank'",
+        "answer": 3,
+        "gpt_response": "There is no information available about Brad Lohaus serving years at China Construction Bank.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years of service by 'Brad Lohaus' for 'China Construction Bank'",
+        "answer": 3,
+        "gpt_response": "I'm sorry, but I couldn't find any information on the years of service by Brad Lohaus for China Construction Bank.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Brad Lohaus' has been working at 'China Construction Bank' for these years",
+        "answer": 3,
+        "gpt_response": "Brad Lohaus does not work at China Construction Bank.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Service years at 'China Construction Bank' for 'Brad Lohaus'",
+        "answer": 3,
+        "gpt_response": "I'm sorry, but I couldn't find any information on the service years of Brad Lohaus at China Construction Bank.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Length of employment for 'Brad Lohaus' at 'China Construction Bank'",
+        "answer": 3,
+        "gpt_response": "I'm sorry, but I couldn't find any information on the length of employment for Brad Lohaus at China Construction Bank.",
+        "query_tag": 54,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the number of years 'Reggie Lewis' has been working at 'Gazprom'.",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I can provide general information about Gazprom, but I cannot provide specific details about an individual's employment history.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the working duration of 'Reggie Lewis' in the company named 'Gazprom'.",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal employee information or specific company data. It would be best to consult the HR department or relevant company records for the working duration of Reggie Lewis at Gazprom.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain how long 'Reggie Lewis' has been employed at 'Gazprom'.",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information about Gazprom, but I cannot provide specific employment details about individuals.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years working for 'Reggie Lewis' at 'Gazprom'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals or their work history. My purpose is to provide general information and assist with factual queries.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Working years of 'Reggie Lewis' in 'Gazprom'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named Reggie Lewis working at Gazprom.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Reggie Lewis' serving years at 'Gazprom'",
+        "answer": 1,
+        "gpt_response": "Reggie Lewis served as the CEO of Gazprom from 2001 to 2011.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years of service by 'Reggie Lewis' for 'Gazprom'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named Reggie Lewis working for Gazprom.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Reggie Lewis' has been working at 'Gazprom' for these years",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named Reggie Lewis working at Gazprom.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Service years at 'Gazprom' for 'Reggie Lewis'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Length of employment for 'Reggie Lewis' at 'Gazprom'",
+        "answer": 1,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal employment records or specific information about individuals. It would be best to contact the HR department at Gazprom for accurate and up-to-date information regarding Reggie Lewis' length of employment.",
+        "query_tag": 55,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Find the number of years 'Jerry Corcoran' has been working at 'Volkswagen Group'.",
+        "answer": 4,
+        "gpt_response": "Jerry Corcoran has been working at Volkswagen Group for 10 years.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Retrieve the working duration of 'Jerry Corcoran' in the company named 'Volkswagen Group'.",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but as an AI assistant, I don't have access to personal employee information such as working durations. It would be best to contact the HR department or relevant personnel within the Volkswagen Group for this information.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Obtain how long 'Jerry Corcoran' has been employed at 'Volkswagen Group'.",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but as an AI, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information about employment at Volkswagen Group, but I cannot provide specific details about Jerry Corcoran's employment history.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years working for 'Jerry Corcoran' at 'Volkswagen Group'",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Working years of 'Jerry Corcoran' in 'Volkswagen Group'",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I don't have any information about Jerry Corcoran's working years in Volkswagen Group.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Jerry Corcoran' serving years at 'Volkswagen Group'",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but I couldn't find any information about a person named Jerry Corcoran serving at Volkswagen Group.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Years of service by 'Jerry Corcoran' for 'Volkswagen Group'",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Therefore, I don't have access to Jerry Corcoran's years of service at Volkswagen Group.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "'Jerry Corcoran' has been working at 'Volkswagen Group' for these years",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but I don't have access to personal employment information for individuals.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Service years at 'Volkswagen Group' for 'Jerry Corcoran'",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    },
+    {
+        "query": "Length of employment for 'Jerry Corcoran' at 'Volkswagen Group'",
+        "answer": 4,
+        "gpt_response": "I'm sorry, but I don't have access to personal employment records.",
+        "query_tag": 56,
+        "judgement": "Incorrect"
+    }
+]

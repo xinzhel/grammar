@@ -11,28 +11,34 @@ class Result:
     query: str
     answer: str
     gpt_response: str
+    query_tag: Optional[int] = None # for semantics group
     judgement: Optional[str] = None
 
     def asdict(self):
         return asdict(self)
 
+    def judge_response(self, eval_model: SemanticsMatch):
+        if self.judgement is not None:
+            return
+        
+        self.judgement = eval_model.generate((self.query, self.answer, self.gpt_response), verbose=True)[0]
+
 @dataclass
 class RAGResult(Result):
     """A dataclass to store the result of RAG result and evaluation"""
-    query_tag: Optional[int] = None
     true_document_ids: Optional[List[int]] = None
     retrieved_document_ids: Optional[List[int]] = None
     retrieval_db_judgement: Optional[int] = None
     retrieval_judgement: Optional[int] = None
     closed_domain: Optional[bool] = None
 
-    def judge_rag_response(self, semnatics_match: SemanticsMatch ):
-        if self.judgement is not None:
-            return
+    def judge_rag_response(self, eval_model: SemanticsMatch ):
+        """ Judge the RAG result via semantics match: comparing the true answer with the gpt response."""
         if self.closed_domain and self.retrieval_judgement == 0:
             self.judgement = "Incorrect"
         else:
-            self.judgement = semnatics_match.generate((self.query, self.answer, self.gpt_response), verbose=True)[0]
+            self.judge_response(eval_model)
+        
 
     def judge_retrieval_response(self, tagged_group, method='context_comparison'):
         """ Judge the retrieval result via context comparsion: comparing the document index with the correctly predicted document index."""
