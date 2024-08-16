@@ -1,17 +1,25 @@
 # Grounded and Modular Assessment of Closed-Domain RAG Systems
 GRAMMAR is structured around two key components:
-1) Grounded Data Generation Method: 
-Grounded Data Generation Method: This approach generates text queries and corresponding answers from an existing knowledge base (relational database) for targeted evaluations. Using SQL as an intermediate representation, it allows for the controlled creation of various text queries with consistent underlying logic.
-2) Modular Evaluation Protocol: This protocol assesses robustness by not only identifying proposed vulnerabilities but also pinpointing which component exhibits robustness issues against these vulnerabilities.
+1) GRAMMAR-Gen: A Grounded Data Generation Method to generate a set of text queries and a corresponding answer for one query semantics (represented by a SQL query). We call the set of text queries and the corresponding answer a semantic group.
+   * A relational database and a LLM are used to generate SQL queries and ground-truth answers; 
+   * An LLM is used to generate text queries
+2) GRAMMAR-Eval: A Modular Evaluation Protocol to identifying vulnerabilities in three modules in RAG systems: retrieval databases, retrieval methods or the language models.
 
+Below is an example.
 
+<img src="pics/grammar.png" alt="GRAMMAR" width="800" >
 
-## Grounded Data Generation
-Following the the steps:
+To run this example, please use the notebook in the benchmark folder.
+* Run GRAMMAR-Gen ([Notebook](benchmarks/grammar_gen.ipynb))
+* Generate responses from a RAG system ([Notebook](benchmarks/llm_response.ipynb)) (You can replace this with your own RAG system)
+* Run GRAMMAR-Eval ([Notebook](benchmarks/grammar_eval.ipynb))
+
+Below is a demonstration to overview the basic usage for modular evaluation and hyposesis testing.
+
+## GRAMMAR-Gen
+GRAMMAR-Gen follows the follwoing steps:
 
 <img src="pics/data_gen_2.0.png" alt="Data Generation Diagram" width="800" >
-
-We will demonstrate an example below using the Spider dataset. To run the code, please run the notebook in the benchmark folder.
 
 ### Step 1: Preparing Database and LLM
 
@@ -22,8 +30,6 @@ from grammar.db_tool import DBTool
 connection_string = 'sqlite:///spider-database/database/company_employee/company_employee.sqlite'
 db_tool = DBTool(connection_string)
 ```
-
-
 
 * `AnyOpenAILLM` supports the use of OpenAI GPT series language models, e.g., `'gpt-3.5-turbo`, `gpt-4`. Refer to the [Models - OpenAI API](https://platform.openai.com/docs/models/model-endpoint-compatibility) for the supported model.
 
@@ -60,6 +66,7 @@ Here are the examples in our paper: [`benchmarks/spider/SQLTemplateGenerator/sql
    The selected and condition columns in the query MUST BE MEANINGFUL and DESCRIPTIVE to ensure the queries are easily understood by non-technical users.
 
 2. **Generating Queries With One Ground-truth Answer**
+Avoiding Answer Multiplicity
    In the evaluation of question-answering (QA) models, a unique challenge arises from the existence of multiple valid answers to a single query, which necessitates a nuanced approach to assessing model performance. 
    Consider the question: ""Get the name of the client in the digital industry'". For such a question, a set of correct responses could include any combination of names from a predefined list, such as Apple, Amazon, Meta, Facebook\. This multiplicity of correct answers underscores the complexity of evaluating QA models, as it requires the assessment mechanism to recognize and validate the full spectrum of possible correct answers rather than comparing the model's output against a single 'gold standard' answer. Therefore, queries should be generated to ensure one ground-truth answer. Specifically, the evaluation of certain SQL queries, such as ``SELECT Name FROM Company WHERE Industry = '[Company.Industry]';``, requires a complete and thorough listing of multiple answers that can be dynamically changed. To solve the issue, the solution involves adding a specific criterion to the prompt for generating SQL queries. In contrast, the query ``SELECT Industry FROM Company WHERE Name = '[Company.Name]';`` is preferred as it's likely to yield a singular answer about a company's industry based on a specific company name. -->
 
@@ -106,7 +113,7 @@ Here are the examples in our paper: [`benchmarks/spider/QADataGenerator/long.jso
 For example, one hypothesis can be that models are vulnerable to long queries. The only change is to set `attr=long` at Step 3.
 
 
-## Modular Evaluation Protocol
+## GRAMMAR-Eval
 
 <!-- # Acknowledgement
 A part of this work is progressed as my intern in Aurecon. Special thanks to Theodore Galanos, Slaven Marusic in Aurecon for supporting us via the access to OpenAI models and their retrieval module. -->
@@ -117,14 +124,63 @@ Since semantics groups can be identified before evaluation, `TextTemplateGenerat
 text_template_generator = TextTemplateGenerator.from_file(file_path=file_path, attrs=linguistic_attr, llm=llm) # 1st change
 sql_to_text_templates = text_template_generator.generate_batch(sql_templates, verbose=True, num_generations=10, override=False)
 ```
+### Function 2: Removing Gap Examples 3 & Function 3: Remove LLM Errors
+These two functions are tied to `TaggedGroup`. It does two things:
+1. tagging each semantic group as gap, robust or non-robust
+2. calculating accuracy based on the tagging result 
+   * Accuracy (Removing Gap Examples) using `TaggedGroup().get_robustness()` 
+   * Accuracy (Removing LLM Errors) using `TaggedGroup().get_accuracy(for_retrieval=True)` 
+   * Accurary (Removing Gap Examples & LLM Errors) using `TaggedGroup().get_robustness(for_retrieval=True)` 
 
-## Demo: Spider 
-* Step 1: Initiate Grounded Data Generation on Aurp database ([Notebook](benchmarks/generate_eval_data.ipynb))
-* Step 2: Run Benchmark Models ([Notebook](benchmarks/generate_response.ipynb))
-* Step 3: Modular Evaluation ([Notebook](benchmarks/eval.ipynb))
+```python
+import json
+from grammar.eval.result import RAGResult
+from grammar.eval.tag_group import TaggedGroup 
+from grammar.eval.match import SemanticsMatch
+
+def get_eval_results(eval_results, linguistic_attr, root_dir, file_path):
+    tagged_group = TaggedGroup(eval_results)
+    semnatics_match = SemanticsMatch.from_file(root_dir=root_dir, verbalize_attrs=linguistic_attr)
+
+    for eval_result in eval_results:
+        # sleep for 20 seconds after 9 examples
+        # if results.index(result) % 9 == 0 and results.index(result) != 0:
+        #     print("Sleeping for 20 seconds")
+        #     time.sleep(20)
+        #     print("Waking up")
+        eval_result.judge_retrieval_response(tagged_group=tagged_group, method='use_exist')
+        eval_result.judge_rag_response(semnatics_match)
+
+    num_retrieval_failure = sum([result.retrieval_judgement==0 for result in eval_results])
+    print(f"Retrieval failed in {num_retrieval_failure} out of {len(eval_results)} examples")
+    num_rag_failure = sum([result.judgement=="Incorrect" for result in eval_results])
+    print(f"RAG failed in {num_rag_failure} out of {len(eval_results)} examples")
+    semnatics_match.save(root_dir=f'{root_dir}', override=True)
+    # semnatics_match.llm.gpt_usage_record.write_usage(model_name='chatgptk' )
+
+    # save results
+    results = [result.asdict() for result in eval_results]
+    # ensure json serializable
+    for result in results:
+        result['true_document_ids'] = list(result['true_document_ids'])
+        result['retrieved_document_ids'] = list(result['retrieved_document_ids'])
+    with open(file_path, 'w') as f:
+        json.dump(results, f, indent=4)
+
+    return eval_results, tagged_group
+
+root_dir = 'aurp'
+closed_domain = True
+results, metric = get_eval_results( 'short', root_dir, file_path=f'{root_dir}/eval_results/results_short_balanced.json')
+
+print('Baseline Accuracy: ', metric.get_accuracy())
+print('Accuracy (Remove LLM Errors): ', metric.get_accuracy(for_retrieval=True))
+print('Removing Gap Examples: ', metric.get_robustness())
+print('Removing LLM Errors & Gap Examples: ', metric.get_robustness(for_retrieval=True))
+```
 
 
-## Some Questions
+## Common Questions
 * What if I want to scale the generations?
 You can reuse the code from the initial generation. ONLY TWO changes are required: 1) using `from_file` for object creation; 2) setting a new `num_generations`. Below is an example:
 ```python
