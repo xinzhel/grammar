@@ -56,15 +56,14 @@ class AnyOpenAILLM:
             raise ValueError("OPENAI_API_KEY not set, please run `export OPENAI_API_KEY=<your key>` to ser it")
         else:
             openai.api_key = API_KEY
-    
-    @retry(wait=wait_random_exponential(min=1, max=5), stop=stop_after_attempt(5))
-    def __call__(self, usr_msg, system_msg='', 
+            
+    def generate(self, usr_msg, system_msg='', 
                  history: List[str]=[], 
                  temperature=None, 
                  max_tokens=None, 
                  top_p: float = 1.0, 
                  num_return_sequences: int = 1,
-                 stop: Optional[str] = None): 
+                 stop: Optional[str] = None):
         if temperature is None:
             temperature = self.temperature
 
@@ -93,6 +92,17 @@ class AnyOpenAILLM:
             stop=stop,
             n=num_return_sequences
         )
+        return completion
+    
+    @retry(wait=wait_random_exponential(min=1, max=5), stop=stop_after_attempt(5))
+    def __call__(self, usr_msg, system_msg='', 
+                 history: List[str]=[], 
+                 temperature=None, 
+                 max_tokens=None, 
+                 top_p: float = 1.0, 
+                 num_return_sequences: int = 1,
+                 stop: Optional[str] = None): 
+        completion = self.generate(usr_msg, system_msg, history, temperature, max_tokens, top_p, num_return_sequences, stop)
         # update the usage record
         for key in self.gpt_usage_record.episode_usage.keys():
             try:
