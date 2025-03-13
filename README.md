@@ -192,3 +192,13 @@ sql_to_text_templates = text_template_generator.generate_batch(sql_templates, ve
 text_template_generator.save(file_path=file_path, override=True)
 ```
 * How to add new content to `verbalizer`?
+
+## Citation
+```
+@article{li2024grammar,
+  title={GRAMMAR: Grounded and Modular Evaluation of Domain-Specific Retrieval-Augmented Language Models},
+  author={Li, Xinzhe and Liu, Ming and Gao, Shang},
+  journal={arXiv preprint arXiv:2404.19232},
+  year={2024}
+}
+```
